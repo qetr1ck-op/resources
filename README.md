@@ -23,7 +23,7 @@
 * [rxjs-spy - A debugging library for RxJS](https://cartant.github.io/rxjs-spy/)
 
 # HTTP
-* [Resource Hints – What is Preload, Prefetch, and Preconnect?](Resource Hints – What is Preload, Prefetch, and Preconnect?)
+* [Resource Hints – What is Preload, Prefetch, and Preconnect?](https://www.keycdn.com/blog/resource-hints/)
 
 # Books
 ## JS
