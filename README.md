@@ -19,6 +19,7 @@
     * [app](https://github.com/UltimateAngular/ngrx-store-effects-app)
     
 ## Rxjs
+* [RxJS 5 Operators By Example - A complete list of RxJS 5 operators with clear explanations, relevant resources, and executable examples](https://www.learnrxjs.io/operators/)
 * [rxjs-spy - A debugging library for RxJS](https://cartant.github.io/rxjs-spy/)
 
 
