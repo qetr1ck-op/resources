@@ -2,3 +2,4 @@
 
 # JS
 ## Angular
+* [These 5 articles will make you an Angular Change Detection expert](https://blog.angularindepth.com/these-5-articles-will-make-you-an-angular-change-detection-expert-ed530d28930)
