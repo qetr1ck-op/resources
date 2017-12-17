@@ -10,6 +10,7 @@
 * [These 5 articles will make you an Angular Change Detection expert](https://blog.angularindepth.com/these-5-articles-will-make-you-an-angular-change-detection-expert-ed530d28930)
 * [Triggering change detection manually in Angular](https://stackoverflow.com/questions/34827334/triggering-change-detection-manually-in-angular)
 * [Understanding Change Detection Strategy in Angular](https://alligator.io/angular/change-detection-strategy/)
+* [Lifecycle Hooks in Angular](https://alligator.io/angular/lifecycle-hooks/)
 
 ### ngrx
   * [Comprehensive Introduction to @ngrx/store](https://gist.github.com/btroncone/a6e4347326749f938510)
@@ -27,3 +28,4 @@
 
 ## Alrorithms and data structure
 * [Алгоритми і структури даних (Тимошенко А.Г.)](http://vo.ukraine.edu.ua/course/view.php?id=281)
+  
