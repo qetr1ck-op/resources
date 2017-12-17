@@ -11,6 +11,9 @@
 * [Triggering change detection manually in Angular](https://stackoverflow.com/questions/34827334/triggering-change-detection-manually-in-angular)
 * [Understanding Change Detection Strategy in Angular](https://alligator.io/angular/change-detection-strategy/)
 * [Lifecycle Hooks in Angular](https://alligator.io/angular/lifecycle-hooks/)
+* Dynamically add event listener in Angular
+  * [via renderer2](https://stackoverflow.com/questions/35080387/dynamically-add-event-listener-in-angular-2)
+  * [via HostListener](https://angular.io/guide/attribute-directives#respond-to-user-initiated-events)
 
 ### ngrx
   * [Comprehensive Introduction to @ngrx/store](https://gist.github.com/btroncone/a6e4347326749f938510)
