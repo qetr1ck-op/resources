@@ -29,6 +29,7 @@
 
 # HTTP
 * [Resource Hints – What is Preload, Prefetch, and Preconnect?](https://www.keycdn.com/blog/resource-hints/)
+* [.htaccess](http://www.htaccess-guide.com/)
 
 # Books
 ## JS
