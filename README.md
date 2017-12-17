@@ -8,7 +8,7 @@
 ## Angular
 * [Awesome Angular - Awesome list of Angular seed repos, starters, boilerplates, examples, tutorials, components, modules, videos, and anything else in the Angular ecosystem](https://github.com/gdi2290/awesome-angular)
 * [These 5 articles will make you an Angular Change Detection expert](https://blog.angularindepth.com/these-5-articles-will-make-you-an-angular-change-detection-expert-ed530d28930)
-* ngrx
+### ngrx
   * [Comprehensive Introduction to @ngrx/store](https://gist.github.com/btroncone/a6e4347326749f938510)
   * [@ngrx example application - Example application utilizing @ngrx libraries, showcasing common patterns and best practices](https://github.com/ngrx/platform/tree/master/example-app)
   * [ngrx-store-effects course](https://platform.ultimateangular.com/courses/ngrx-store-effects)
