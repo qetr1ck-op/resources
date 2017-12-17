@@ -2,8 +2,8 @@
 
 # JS
 * [Awesome JS - A collection of awesome browser-side JavaScript libraries, resources and shiny things](https://github.com/sorrycc/awesome-javascript)
-* [JAMstack - Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup]
-** [Awesome Static Web Site Generators](https://github.com/myles/awesome-static-generators)
+* [JAMstack - Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup](https://jamstack.org/)
+  * [Awesome Static Web Site Generators](https://github.com/myles/awesome-static-generators)
 
 ## Angular
 * [Awesome Angular - Awesome list of Angular seed repos, starters, boilerplates, examples, tutorials, components, modules, videos, and anything else in the Angular ecosystem](https://github.com/gdi2290/awesome-angular)
