@@ -14,8 +14,9 @@
 * Dynamically add event listener in Angular
   * [via renderer2](https://stackoverflow.com/questions/35080387/dynamically-add-event-listener-in-angular-2)
   * [via HostListener](https://angular.io/guide/attribute-directives#respond-to-user-initiated-events)
+* [Using projection with ng-content + @ContentChildren](https://github.com/juristr/egghead-create-dynamic-tabs-component-angular/blob/master/src/app/tabs/tabs.component.ts)
 * Forms
- * [Using ControlValueAccessor to create custom form controls in Angular](https://stackblitz.com/edit/control-value-anccessor?file=app%2Frating-input-accessor%2Findex.ts)
+  * [Using ControlValueAccessor to create custom form controls in Angular](https://stackblitz.com/edit/control-value-anccessor?file=app%2Frating-input-accessor%2Findex.ts)
 
 ### ngrx
   * [Comprehensive Introduction to @ngrx/store](https://gist.github.com/btroncone/a6e4347326749f938510)
