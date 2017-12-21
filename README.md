@@ -17,7 +17,11 @@
 * Components
   * [Using projection with ng-content + @ContentChildren](https://github.com/juristr/egghead-create-dynamic-tabs-component-angular/blob/master/src/app/tabs/tabs.component.ts)
   * [Dynamically creating components with ComponentFactoryResolver + ViewContainerRef](https://stackblitz.com/edit/angular-3hz8oz?file=app%2Fapp.component.html)
+  * [Create dynamic content with on egghead](https://egghead.io/lessons/angular-destroy-a-dynamically-instantiated-angular-component)
+    * [repo](https://github.com/juristr/egghead-create-dynamic-tabs-component-angular)
+    * [app](https://stackblitz.com/edit/angular-ivywg9?file=app%2Fapp.component.ts)
   * [Dynamic Angular or manipulate it in right way](https://stackblitz.com/edit/angular-pxgjoz?file=app%2Fapp.component.html)
+  * [Using Angular Components with Third-Party Libraries](https://stackblitz.com/edit/angular-caxzwv?file=app%2Fapp.component.ts)
 * Forms
   * [Using ControlValueAccessor to create custom form controls in Angular](https://stackblitz.com/edit/control-value-anccessor?file=app%2Frating-input-accessor%2Findex.ts)
 
@@ -30,10 +34,6 @@
 ## Rxjs
 * [RxJS 5 Operators By Example - A complete list of RxJS 5 operators with clear explanations, relevant resources, and executable examples](https://www.learnrxjs.io/operators/)
 * [rxjs-spy - A debugging library for RxJS](https://cartant.github.io/rxjs-spy/)
-
-# Node.js
-
-* [Node.js Child Processes: Everything you need to know](https://medium.freecodecamp.org/node-js-child-processes-everything-you-need-to-know-e69498fe970a)
 
 # HTTP
 * [Resource Hints – What is Preload, Prefetch, and Preconnect?](https://www.keycdn.com/blog/resource-hints/)
