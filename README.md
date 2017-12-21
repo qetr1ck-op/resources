@@ -31,6 +31,10 @@
 * [RxJS 5 Operators By Example - A complete list of RxJS 5 operators with clear explanations, relevant resources, and executable examples](https://www.learnrxjs.io/operators/)
 * [rxjs-spy - A debugging library for RxJS](https://cartant.github.io/rxjs-spy/)
 
+# Node.js
+
+* [Node.js Child Processes: Everything you need to know](https://medium.freecodecamp.org/node-js-child-processes-everything-you-need-to-know-e69498fe970a)
+
 # HTTP
 * [Resource Hints – What is Preload, Prefetch, and Preconnect?](https://www.keycdn.com/blog/resource-hints/)
 * [.htaccess](http://www.htaccess-guide.com/)
