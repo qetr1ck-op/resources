@@ -25,6 +25,8 @@
 * Forms
   * [Using ControlValueAccessor to create custom form controls in Angular](https://stackblitz.com/edit/control-value-anccessor?file=app%2Frating-input-accessor%2Findex.ts)
   * [Dynamic reactive forms](https://stackblitz.com/edit/angular-fjvd2x?file=app%2Fdynamic-form%2Fdynamic-form.component.ts)
+* Migration from ajs
+  * [Bullet proof AngularJS migration using iframes](https://codecraft.tv/blog/2017/09/07/angularjs-to-angular-using-iframes/)
 
 ### ngrx
   * [Comprehensive Introduction to @ngrx/store](https://gist.github.com/btroncone/a6e4347326749f938510)
