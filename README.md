@@ -46,6 +46,7 @@
 # Books
 ## JS
 * [clean-code-javascript - Software engineering principles, from Robert C. Martin's book Clean Code](https://github.com/ryanmcdermott/clean-code-javascript)
+* [Angular from theory to practice](https://codecraft.tv/assets/books/angular-from-theory-to-practice.pdf)
 
 ## Alrorithms and data structure
 * [Алгоритми і структури даних (Тимошенко А.Г.)](http://vo.ukraine.edu.ua/course/view.php?id=281)
