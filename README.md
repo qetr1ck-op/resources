@@ -2,6 +2,7 @@
 
 # JS
 * [Awesome JS - A collection of awesome browser-side JavaScript libraries, resources and shiny things](https://github.com/sorrycc/awesome-javascript)
+* [Project Guidelines](https://github.com/wearehive/project-guidelines#6-structure-and-naming)
 * [JAMstack - Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup](https://jamstack.org/)
   * [Awesome Static Web Site Generators](https://github.com/myles/awesome-static-generators)
 
@@ -51,4 +52,3 @@
 
 ## Alrorithms and data structure
 * [Алгоритми і структури даних (Тимошенко А.Г.)](http://vo.ukraine.edu.ua/course/view.php?id=281)
-  
