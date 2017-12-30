@@ -6,6 +6,8 @@
 * [What the f*ck JavaScript?](https://github.com/denysdovhan/wtfjs)
 * [JAMstack - Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup](https://jamstack.org/)
   * [Awesome Static Web Site Generators](https://github.com/myles/awesome-static-generators)
+* Functional
+  * [Stampit - create objects from reusable, composable behaviors](https://github.com/stampit-org/stampit)
 
 ## Angular
 * [Awesome Angular - Awesome list of Angular seed repos, starters, boilerplates, examples, tutorials, components, modules, videos, and anything else in the Angular ecosystem](https://github.com/gdi2290/awesome-angular)
