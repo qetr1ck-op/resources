@@ -12,9 +12,6 @@
 
 ## Angular
 * [Awesome Angular - Awesome list of Angular seed repos, starters, boilerplates, examples, tutorials, components, modules, videos, and anything else in the Angular ecosystem](https://github.com/gdi2290/awesome-angular)
-* [These 5 articles will make you an Angular Change Detection expert](https://blog.angularindepth.com/these-5-articles-will-make-you-an-angular-change-detection-expert-ed530d28930)
-* [Triggering change detection manually in Angular](https://stackoverflow.com/questions/34827334/triggering-change-detection-manually-in-angular)
-* [Understanding Change Detection Strategy in Angular](https://alligator.io/angular/change-detection-strategy/)
 * [Lifecycle Hooks in Angular](https://alligator.io/angular/lifecycle-hooks/)
 * Dynamically add event listener in Angular
   * [via renderer2](https://stackoverflow.com/questions/35080387/dynamically-add-event-listener-in-angular-2)
@@ -31,6 +28,10 @@
 * Forms
   * [Using ControlValueAccessor to create custom form controls in Angular](https://stackblitz.com/edit/control-value-anccessor?file=app%2Frating-input-accessor%2Findex.ts)
   * [Dynamic reactive forms](https://stackblitz.com/edit/angular-fjvd2x?file=app%2Fdynamic-form%2Fdynamic-form.component.ts)
+* Change detection
+  * [These 5 articles will make you an Angular Change Detection expert](https://blog.angularindepth.com/these-5-articles-will-make-you-an-angular-change-detection-expert-ed530d28930)
+  * [Triggering change detection manually in Angular](https://stackoverflow.com/questions/34827334/triggering-change-detection-manually-in-angular)
+  * [Understanding Change Detection Strategy in Angular](https://alligator.io/angular/change-detection-strategy/)
 * Migration from ajs
   * [Bullet proof AngularJS migration using iframes](https://codecraft.tv/blog/2017/09/07/angularjs-to-angular-using-iframes/)
 
