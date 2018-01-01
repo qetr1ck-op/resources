@@ -20,6 +20,7 @@
   * [via renderer2](https://stackoverflow.com/questions/35080387/dynamically-add-event-listener-in-angular-2)
   * [via HostListener](https://angular.io/guide/attribute-directives#respond-to-user-initiated-events)
 * Components
+  * [Angular DOM abstractions: ElementRef, TemplateRef, ViewContainerRef](https://blog.angularindepth.com/exploring-angular-dom-abstractions-80b3ebcfc02)
   * [Using projection with ng-content + @ContentChildren](https://github.com/juristr/egghead-create-dynamic-tabs-component-angular/blob/master/src/app/tabs/tabs.component.ts)
   * [Dynamically creating components with ComponentFactoryResolver + ViewContainerRef](https://stackblitz.com/edit/angular-3hz8oz?file=app%2Fapp.component.html)
   * [Create dynamic content with on egghead](https://egghead.io/lessons/angular-destroy-a-dynamically-instantiated-angular-component)
