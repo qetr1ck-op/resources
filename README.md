@@ -9,6 +9,14 @@
 * Functional
   * [Ultra Flexible JavaScript Object Oriented Programming With Stamps](https://www.barbarianmeetscoding.com/blog/2016/01/18/javascript-ultra-flexible-object-oriented-programming-with-stamps/)
   * [Stampit - create objects from reusable, composable behaviors](https://github.com/stampit-org/stampit)
+* Books
+  * [clean-code-javascript - Software engineering principles, from Robert C. Martin's book Clean Code](https://github.com/ryanmcdermott/clean-code-javascript)
+
+# TS
+* [Enums as binary flags](https://basarat.gitbooks.io/typescript/docs/enums.html#enums-as-flags)
+* Books
+  * [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript)
+
 
 ## Angular
 * [Awesome Angular - Awesome list of Angular seed repos, starters, boilerplates, examples, tutorials, components, modules, videos, and anything else in the Angular ecosystem](https://github.com/gdi2290/awesome-angular)
@@ -36,6 +44,8 @@ Modules
   * [Avoid common confusions with NgModules in Angular](https://blog.angularindepth.com/avoiding-common-confusions-with-modules-in-angular-ada070e6891f)
 * Migration from ajs
   * [Bullet proof AngularJS migration using iframes](https://codecraft.tv/blog/2017/09/07/angularjs-to-angular-using-iframes/)
+* Books
+  * [Angular from theory to practice](https://codecraft.tv/assets/books/angular-from-theory-to-practice.pdf)
 
 ### ngrx
   * [Comprehensive Introduction to @ngrx/store](https://gist.github.com/btroncone/a6e4347326749f938510)
@@ -52,11 +62,6 @@ Modules
 # HTTP
 * [Resource Hints – What is Preload, Prefetch, and Preconnect?](https://www.keycdn.com/blog/resource-hints/)
 * [.htaccess](http://www.htaccess-guide.com/)
-
-# Books
-## JS
-* [clean-code-javascript - Software engineering principles, from Robert C. Martin's book Clean Code](https://github.com/ryanmcdermott/clean-code-javascript)
-* [Angular from theory to practice](https://codecraft.tv/assets/books/angular-from-theory-to-practice.pdf)
 
 ## Alrorithms and data structure
 * [Алгоритми і структури даних (Тимошенко А.Г.)](http://vo.ukraine.edu.ua/course/view.php?id=281)
