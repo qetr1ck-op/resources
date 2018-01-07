@@ -20,6 +20,7 @@
   * [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript)
 
 # Node.js
+* [Awesome nodejs](https://github.com/sindresorhus/awesome-nodejs)
 * [Checklist: nodejs production best practices](http://goldbergyoni.com/checklist-best-practice-of-node-js-in-production/)
 * [Checklist: nodejs error handling best practices](http://goldbergyoni.com/checklist-best-practices-of-node-js-error-handling/)
 
