@@ -15,6 +15,7 @@
 
 # TS
 * [Enums as binary flags](https://basarat.gitbooks.io/typescript/docs/enums.html#enums-as-flags)
+* [Five tips I wish to know when I started TS](https://codeburst.io/five-tips-i-wish-i-knew-when-i-started-with-typescript-c9e8609029db)
 * Books
   * [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript)
 
