@@ -9,6 +9,7 @@
 * Functional
   * [Ultra Flexible JavaScript Object Oriented Programming With Stamps](https://www.barbarianmeetscoding.com/blog/2016/01/18/javascript-ultra-flexible-object-oriented-programming-with-stamps/)
   * [Stampit - create objects from reusable, composable behaviors](https://github.com/stampit-org/stampit)
+  * [The Hidden Treasures of Object Composition](https://medium.com/javascript-scene/the-hidden-treasures-of-object-composition-60cd89480381)
 * Books
   * [clean-code-javascript - Software engineering principles, from Robert C. Martin's book Clean Code](https://github.com/ryanmcdermott/clean-code-javascript)
 
