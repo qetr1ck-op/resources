@@ -4,6 +4,7 @@
 * [Awesome JS - A collection of awesome browser-side JavaScript libraries, resources and shiny things](https://github.com/sorrycc/awesome-javascript)
 * [Project Guidelines](https://github.com/wearehive/project-guidelines#6-structure-and-naming)
 * [What the f*ck JavaScript?](https://github.com/denysdovhan/wtfjs)
+* [Fusebox - bundler](https://fuse-box.org/)
 * [JAMstack - Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup](https://jamstack.org/)
   * [Awesome Static Web Site Generators](https://github.com/myles/awesome-static-generators)
 * Functional
