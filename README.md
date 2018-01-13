@@ -29,6 +29,7 @@
 * [You don't know nodejs](https://github.com/azat-co/you-dont-know-node)
 * [Checklist: nodejs production best practices](http://goldbergyoni.com/checklist-best-practice-of-node-js-in-production/)
 * [Checklist: nodejs error handling best practices](http://goldbergyoni.com/checklist-best-practices-of-node-js-error-handling/)
+* [How to become a better node.js developer in 2018](https://nemethgergely.com/nodejs-best-practices-how-to-become-a-better-developer-in-2018/)
 
 ## Angular
 * [Awesome Angular - Awesome list of Angular seed repos, starters, boilerplates, examples, tutorials, components, modules, videos, and anything else in the Angular ecosystem](https://github.com/gdi2290/awesome-angular)
