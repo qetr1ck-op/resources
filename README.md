@@ -71,6 +71,9 @@ Modules
 * [rxjs-spy - A debugging library for RxJS](https://cartant.github.io/rxjs-spy/)
 * [RxJS: observable, observer and operators intro](https://toddmotto.com/rxjs-observables-observers-operators#what-is-an-observable)
 
+# CSS
+* [Solved by flesbox](https://philipwalton.github.io/solved-by-flexbox/)
+
 # HTTP
 * [Resource Hints – What is Preload, Prefetch, and Preconnect?](https://www.keycdn.com/blog/resource-hints/)
 * [.htaccess](http://www.htaccess-guide.com/)
