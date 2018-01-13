@@ -14,6 +14,9 @@
   * [Think of it like Flash meets jQuery, popmotion](https://popmotion.io/)
 * Books
   * [clean-code-javascript - Software engineering principles, from Robert C. Martin's book Clean Code](https://github.com/ryanmcdermott/clean-code-javascript)
+  * [JavaScript Allongé](https://leanpub.com/javascriptallongesix)
+  * [Functional Light FP](https://github.com/getify/Functional-Light-JS/blob/master/manuscript/README.md/#table-of-contents)
+  
 
 # TS
 * [Enums as binary flags](https://basarat.gitbooks.io/typescript/docs/enums.html#enums-as-flags)
