@@ -49,6 +49,8 @@
     * [app](https://stackblitz.com/edit/angular-ivywg9?file=app%2Fapp.component.ts)
   * [Dynamic Angular or manipulate it in right way](https://stackblitz.com/edit/angular-pxgjoz?file=app%2Fapp.component.html)
   * [Using Angular Components with Third-Party Libraries](https://stackblitz.com/edit/angular-caxzwv?file=app%2Fapp.component.ts)
+* Components libs:
+  * [ngprime](https://www.primefaces.org)
 * Forms
   * [Using ControlValueAccessor to create custom form controls in Angular](https://stackblitz.com/edit/control-value-anccessor?file=app%2Frating-input-accessor%2Findex.ts)
   * [Dynamic reactive forms](https://stackblitz.com/edit/angular-fjvd2x?file=app%2Fdynamic-form%2Fdynamic-form.component.ts)
