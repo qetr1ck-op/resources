@@ -38,6 +38,7 @@
 ## Angular
 * [Awesome Angular - Awesome list of Angular seed repos, starters, boilerplates, examples, tutorials, components, modules, videos, and anything else in the Angular ecosystem](https://github.com/gdi2290/awesome-angular)
 * [Lifecycle Hooks in Angular](https://alligator.io/angular/lifecycle-hooks/)
+* [Debugging](https://www.pluralsight.com/guides/front-end-javascript/debugging-angular-2-applications)
 * Dynamically add event listener in Angular
   * [via renderer2](https://stackoverflow.com/questions/35080387/dynamically-add-event-listener-in-angular-2)
   * [via HostListener](https://angular.io/guide/attribute-directives#respond-to-user-initiated-events)
