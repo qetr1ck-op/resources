@@ -91,3 +91,4 @@ Modules
 ## Alrorithms and data structure
 * [Алгоритми і структури даних (Тимошенко А.Г.)](http://vo.ukraine.edu.ua/course/view.php?id=281
 * [Big O cheat sheet](http://bigocheatsheet.com/)
+* [Sort algorithms](https://proglib.io/p/sort-algorithms/)
