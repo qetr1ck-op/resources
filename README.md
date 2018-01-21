@@ -66,6 +66,7 @@
   * [Understanding Change Detection Strategy in Angular](https://alligator.io/angular/change-detection-strategy/)
 Modules
   * [Avoid common confusions with NgModules in Angular](https://blog.angularindepth.com/avoiding-common-confusions-with-modules-in-angular-ada070e6891f)
+  * [Organizing application: modules and services](https://medium.com/@michelestieven/organizing-angular-applications-f0510761d65a)
 * Migration from ajs
   * [Bullet proof AngularJS migration using iframes](https://codecraft.tv/blog/2017/09/07/angularjs-to-angular-using-iframes/)
 * Books
