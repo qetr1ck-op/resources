@@ -53,6 +53,7 @@
     * [app](https://stackblitz.com/edit/angular-ivywg9?file=app%2Fapp.component.ts)
   * [Dynamic Angular or manipulate it in right way](https://stackblitz.com/edit/angular-pxgjoz?file=app%2Fapp.component.html)
   * [Using Angular Components with Third-Party Libraries](https://stackblitz.com/edit/angular-caxzwv?file=app%2Fapp.component.ts)
+  * [Dynamic tooltips](https://stackblitz.com/edit/dynamically-create-tooltip-angular?file=app/tooltip/tooltip.directive.ts)
 * Components libs:
   * [ngprime](https://www.primefaces.org)
 * Forms
