@@ -56,6 +56,7 @@
   * [Dynamic tooltips](https://stackblitz.com/edit/dynamically-create-tooltip-angular?file=app/tooltip/tooltip.directive.ts)
   * [ng-content: The hidden docs](https://medium.com/claritydesignsystem/ng-content-the-hidden-docs-96a29d70d11b)
   * [@ViewChild* vs @ContentChild*](https://www.joshmorony.com/the-difference-between-viewchildren-and-contentchildren/)
+  * [Angular dropdown with popper.js](https://stackblitz.com/edit/angular-dropdown-with-popper?file=app%2Fapp.component.html)
 * Components libs:
   * [ngprime](https://www.primefaces.org)
 * Forms
