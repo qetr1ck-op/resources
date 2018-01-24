@@ -26,6 +26,7 @@
 # TS
 * [Enums as binary flags](https://basarat.gitbooks.io/typescript/docs/enums.html#enums-as-flags)
 * [Five tips I wish to know when I started TS](https://codeburst.io/five-tips-i-wish-i-knew-when-i-started-with-typescript-c9e8609029db)
+* [Partial type example](https://netbasal.com/getting-to-know-the-partial-type-in-typescript-ecfcfbc87cb6)
 * Books
   * [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript)
 
