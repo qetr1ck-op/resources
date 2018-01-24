@@ -81,11 +81,13 @@ Modules
     
 ## Rxjs
 * [RxJS 5 Operators By Example - A complete list of RxJS 5 operators with clear explanations, relevant resources, and executable examples](https://www.learnrxjs.io/operators/)
+* [RxJS — Six Operators That you Must Know](https://netbasal.com/rxjs-six-operators-that-you-must-know-5ed3b6e238a0)
 * [RxJS marbles](http://rxmarbles.com)
 * [rxjs-spy - A debugging library for RxJS](https://cartant.github.io/rxjs-spy/)
 * [RxJS: observable, observer and operators intro](https://toddmotto.com/rxjs-observables-observers-operators#what-is-an-observable)
-* [Difference between Rxjs Subject and Observable](http://javascript.tutorialhorizon.com/2017/03/23/rxjs-subject-vs-observable/)
+* [Difference between Rxjs Subject and Observable](https://netbasal.com/understanding-subjects-in-rxjs-55102a190f3)
 * [On The Subject Of Subjects](https://medium.com/@benlesh/on-the-subject-of-subjects-in-rxjs-2b08b7198b93)
+
 
 # CSS
 * [Solved by flexbox](https://philipwalton.github.io/solved-by-flexbox/)
