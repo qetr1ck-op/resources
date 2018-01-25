@@ -93,7 +93,8 @@ Modules
 * [RxJS marbles](http://rxmarbles.com)
 * [rxjs-spy - A debugging library for RxJS](https://cartant.github.io/rxjs-spy/)
 * [RxJS: observable, observer and operators intro](https://toddmotto.com/rxjs-observables-observers-operators#what-is-an-observable)
-* [Difference between Rxjs Subject and Observable](https://netbasal.com/understanding-subjects-in-rxjs-55102a190f3)
+* [Subject and Observable](https://netbasal.com/understanding-subjects-in-rxjs-55102a190f3)
+* [BehaviorSubject vs Observable](https://stackoverflow.com/questions/39494058/behaviorsubject-vs-observable)
 * [On The Subject Of Subjects](https://medium.com/@benlesh/on-the-subject-of-subjects-in-rxjs-2b08b7198b93)
 
 
