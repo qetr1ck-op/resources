@@ -97,6 +97,7 @@ Modules
 * [Subject and Observable](https://netbasal.com/understanding-subjects-in-rxjs-55102a190f3)
 * [BehaviorSubject vs Observable](https://stackoverflow.com/questions/39494058/behaviorsubject-vs-observable)
 * [On The Subject Of Subjects](https://medium.com/@benlesh/on-the-subject-of-subjects-in-rxjs-2b08b7198b93)
+* [Типичное использование Observable объектов в Angular 4](https://habrahabr.ru/post/337512/)
 
 
 # CSS
