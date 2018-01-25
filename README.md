@@ -111,3 +111,5 @@ Modules
 * [Алгоритми і структури даних (Тимошенко А.Г.)](http://vo.ukraine.edu.ua/course/view.php?id=281
 * [Big O cheat sheet](http://bigocheatsheet.com/)
 * [Sort algorithms](https://proglib.io/p/sort-algorithms/)
+* [Interview Algorithm Questions in Javascript](https://github.com/kennymkchan/interview-questions-in-javascript)
+* [JavaScript implementations of different famous Computer Science algorithms](https://github.com/mgechev/javascript-algorithms)
