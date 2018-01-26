@@ -107,6 +107,9 @@ Modules
 * [Resource Hints – What is Preload, Prefetch, and Preconnect?](https://www.keycdn.com/blog/resource-hints/)
 * [.htaccess](http://www.htaccess-guide.com/)
 
+## Security
+* [A comprehensive XSS guide](https://excess-xss.com/)
+
 ## Alrorithms and data structure
 * [Алгоритми і структури даних (Тимошенко А.Г.)](http://vo.ukraine.edu.ua/course/view.php?id=281
 * [Big O cheat sheet](http://bigocheatsheet.com/)
