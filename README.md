@@ -109,6 +109,7 @@ Modules
 
 ## Security
 * [A comprehensive XSS guide](https://excess-xss.com/)
+* [An Introduction to Content Security Policy](https://www.html5rocks.com/en/tutorials/security/content-security-policy/)
 
 ## Alrorithms and data structure
 * [Алгоритми і структури даних (Тимошенко А.Г.)](http://vo.ukraine.edu.ua/course/view.php?id=281
