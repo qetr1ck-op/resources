@@ -67,6 +67,7 @@
   * [ng-content: The hidden docs](https://medium.com/claritydesignsystem/ng-content-the-hidden-docs-96a29d70d11b)
   * [@ViewChild* vs @ContentChild*](https://www.joshmorony.com/the-difference-between-viewchildren-and-contentchildren/)
   * [Angular dropdown with popper.js](https://stackblitz.com/edit/angular-dropdown-with-popper?file=app%2Fapp.component.html)
+  * [Angular custom overlays with angulars material cdk](https://stackblitz.com/edit/angular-custom-overlays-with-angulars-cdk?file=app/app.component.html)
 * Components libs:
   * [ngprime](https://www.primefaces.org)
 * Forms
