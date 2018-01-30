@@ -95,6 +95,7 @@ Modules
 * [RxJS 5 Operators By Example - A complete list of RxJS 5 operators with clear explanations, relevant resources, and executable examples](https://www.learnrxjs.io/operators/)
 * [RxJS — Six Operators That you Must Know](https://netbasal.com/rxjs-six-operators-that-you-must-know-5ed3b6e238a0)
 * [RxJS marbles](http://rxmarbles.com)
+* [Choose an operator](http://reactivex.io/rxjs/manual/overview.html#choose-an-operator)
 * [rxjs-spy - A debugging library for RxJS](https://cartant.github.io/rxjs-spy/)
 * [RxJS: observable, observer and operators intro](https://toddmotto.com/rxjs-observables-observers-operators#what-is-an-observable)
 * [Subject and Observable](https://netbasal.com/understanding-subjects-in-rxjs-55102a190f3)
