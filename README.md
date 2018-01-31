@@ -103,6 +103,7 @@ Modules
 * [On The Subject Of Subjects](https://medium.com/@benlesh/on-the-subject-of-subjects-in-rxjs-2b08b7198b93)
 * [RxJS: Understanding Lettable Operators](https://blog.angularindepth.com/rxjs-understanding-lettable-operators-fe74dda186d3)
 * [Типичное использование Observable объектов в Angular 4](https://habrahabr.ru/post/337512/)
+* [Understanding mergeMap and switchMap](https://netbasal.com/understanding-mergemap-and-switchmap-in-rxjs-13cf9c57c885)
 * [Playground](https://stackblitz.com/edit/rxjs-playground-oop?file=app/app.component.ts)
 
 # CSS
