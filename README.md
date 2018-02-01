@@ -18,6 +18,7 @@
 * [JAMstack - Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup](https://jamstack.org/)
   * [Awesome Static Web Site Generators](https://github.com/myles/awesome-static-generators)
 * [The Definitive Guide to Object-Oriented JavaScript](http://www.objectplayground.com/)
+* [JavaScript Standard Style](https://standardjs.com/#why-should-i-use-javascript-standard-style)
 * Functional
   * [Ultra Flexible JavaScript Object Oriented Programming With Stamps](https://www.barbarianmeetscoding.com/blog/2016/01/18/javascript-ultra-flexible-object-oriented-programming-with-stamps/)
   * [Stampit - create objects from reusable, composable behaviors](https://github.com/stampit-org/stampit)
