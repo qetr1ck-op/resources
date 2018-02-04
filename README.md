@@ -83,6 +83,8 @@
 Modules
   * [Avoid common confusions with NgModules in Angular](https://blog.angularindepth.com/avoiding-common-confusions-with-modules-in-angular-ada070e6891f)
   * [Organizing application: modules and services](https://medium.com/@michelestieven/organizing-angular-applications-f0510761d65a)
+* Routing
+  * [Dynamic guard redirects with route data and CanActivate](http://www.kirjai.com/dynamic-guard-redirects-angular/)
   * [Lazy Loading Angular - Code Splitting NgModules with Webpack](https://toddmotto.com/lazy-loading-angular-code-splitting-webpack)
 * Migration from ajs
   * [Bullet proof AngularJS migration using iframes](https://codecraft.tv/blog/2017/09/07/angularjs-to-angular-using-iframes/)
