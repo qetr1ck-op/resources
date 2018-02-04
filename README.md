@@ -47,6 +47,7 @@
 * [Checklist: node.js error handling best practices](http://goldbergyoni.com/checklist-best-practices-of-node-js-error-handling/)
 * [How to become a better node.js developer in 2018](https://nemethgergely.com/nodejs-best-practices-how-to-become-a-better-developer-in-2018/)
 * [Checklist: node.js security list](https://blog.risingstack.com/node-js-security-checklist)
+* [Introduction to Webcrawling (with Javascript and Node.js)](https://medium.com/of-all-things-tech-progress/introduction-to-webcrawling-with-javascript-and-node-js-f5a3798ee8ac)
 
 ## Angular
 * [Awesome Angular - Awesome list of Angular seed repos, starters, boilerplates, examples, tutorials, components, modules, videos, and anything else in the Angular ecosystem](https://github.com/gdi2290/awesome-angular)
