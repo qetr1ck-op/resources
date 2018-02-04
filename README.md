@@ -33,7 +33,6 @@
   * [JavaScript Allongé](https://leanpub.com/javascriptallongesix)
   * [Functional Light FP](https://github.com/getify/Functional-Light-JS/blob/master/manuscript/README.md/#table-of-contents)
   
-
 # TS
 * [Enums as binary flags](https://basarat.gitbooks.io/typescript/docs/enums.html#enums-as-flags)
 * [Five tips I wish to know when I started TS](https://codeburst.io/five-tips-i-wish-i-knew-when-i-started-with-typescript-c9e8609029db)
@@ -116,6 +115,7 @@ Modules
 # HTTP
 * [Resource Hints – What is Preload, Prefetch, and Preconnect?](https://www.keycdn.com/blog/resource-hints/)
 * [.htaccess](http://www.htaccess-guide.com/)
+* [What happens when you type google.com into your browser and press enter?](https://github.com/alex/what-happens-when)
 
 ## Security
 * [A comprehensive XSS guide](https://excess-xss.com/)
