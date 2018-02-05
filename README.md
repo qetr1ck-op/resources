@@ -72,6 +72,7 @@
   * [@ViewChild* vs @ContentChild*](https://www.joshmorony.com/the-difference-between-viewchildren-and-contentchildren/)
   * [Angular dropdown with popper.js](https://stackblitz.com/edit/angular-dropdown-with-popper?file=app%2Fapp.component.html)
   * [Angular custom overlays with angulars material cdk](https://stackblitz.com/edit/angular-custom-overlays-with-angulars-cdk?file=app/app.component.html)
+  * [Possible parameters for @HostBinding and @HostListener decorators](http://stepansuvorov.com/blog/2017/01/angular2-possible-parameters-for-hostbinding-and-hostlistener-decorators/)
 * Components libs:
   * [ngprime](https://www.primefaces.org)
 * Forms
