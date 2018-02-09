@@ -133,3 +133,6 @@ Modules
 * [Sort algorithms](https://proglib.io/p/sort-algorithms/)
 * [Interview Algorithm Questions in Javascript](https://github.com/kennymkchan/interview-questions-in-javascript)
 * [JavaScript implementations of different famous Computer Science algorithms](https://github.com/mgechev/javascript-algorithms)
+
+## CS
+* [Concurrency vs Parallelism](http://qaru.site/questions/237/concurrency-vs-parallelism-what-is-the-difference)
