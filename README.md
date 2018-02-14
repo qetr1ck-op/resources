@@ -50,6 +50,9 @@
 * [Checklist: node.js security list](https://blog.risingstack.com/node-js-security-checklist)
 * [Introduction to Webcrawling (with Javascript and Node.js)](https://medium.com/of-all-things-tech-progress/introduction-to-webcrawling-with-javascript-and-node-js-f5a3798ee8ac)
 
+# Tests
+* [The hidden power of Jasmine/Jest matchers](https://medium.com/@boriscoder/the-hidden-power-of-jest-matchers-f3d86d8101b0)
+
 ## Angular
 * [Awesome Angular - Awesome list of Angular seed repos, starters, boilerplates, examples, tutorials, components, modules, videos, and anything else in the Angular ecosystem](https://github.com/gdi2290/awesome-angular)
 * [Lifecycle Hooks in Angular](https://alligator.io/angular/lifecycle-hooks/)
