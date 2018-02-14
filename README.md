@@ -125,6 +125,7 @@ Modules
 
 # HTTP
 * [Status codes](http://www.restapitutorial.com/httpstatuscodes.html)
+* [Caching](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching)
 * [Resource Hints – What is Preload, Prefetch, and Preconnect?](https://www.keycdn.com/blog/resource-hints/)
 * [.htaccess](http://www.htaccess-guide.com/)
 * [What happens when you type google.com into your browser and press enter?](https://github.com/alex/what-happens-when)
