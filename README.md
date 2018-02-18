@@ -41,6 +41,7 @@
 * [Partial type example](https://netbasal.com/getting-to-know-the-partial-type-in-typescript-ecfcfbc87cb6)
 * Books
   * [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript)
+  * [LEARNING PATH: Modern Web Development with TypeScript 2.x](https://www.safaribooksonline.com/learning-paths/learning-path-modern/9781789130843/)
 
 # Node.js
 * [Awesome nodejs](https://github.com/sindresorhus/awesome-nodejs)
