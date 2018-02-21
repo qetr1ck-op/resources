@@ -35,6 +35,7 @@
   * [clean-code-javascript - Software engineering principles, from Robert C. Martin's book Clean Code](https://github.com/ryanmcdermott/clean-code-javascript)
   * [JavaScript Allongé](https://leanpub.com/javascriptallongesix)
   * [Functional Light FP](https://github.com/getify/Functional-Light-JS/blob/master/manuscript/README.md/#table-of-contents)
+  * [The power of serverless for FE developer](https://thepowerofserverless.info)
   
 # TS
 * [Enums as binary flags](https://basarat.gitbooks.io/typescript/docs/enums.html#enums-as-flags)
