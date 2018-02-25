@@ -82,6 +82,7 @@
   * [@ViewChild* vs @ContentChild*](https://www.joshmorony.com/the-difference-between-viewchildren-and-contentchildren/)
   * [Angular dropdown with popper.js](https://stackblitz.com/edit/angular-dropdown-with-popper?file=app%2Fapp.component.html)
   * [Angular custom overlays with angulars material cdk](https://stackblitz.com/edit/angular-custom-overlays-with-angulars-cdk?file=app/app.component.html)
+  * [Angular Material Dialog: A Complete Example](https://blog.angular-university.io/angular-material-dialog/)
   * [Possible parameters for @HostBinding and @HostListener decorators](http://stepansuvorov.com/blog/2017/01/angular2-possible-parameters-for-hostbinding-and-hostlistener-decorators/)
   * [Dynamic template in component, or alteranative for ng1.$compile](https://stackoverflow.com/questions/38888008/how-can-i-use-create-dynamic-template-to-compile-dynamic-component-with-angular)
 * Components libs:
