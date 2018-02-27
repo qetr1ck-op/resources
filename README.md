@@ -37,6 +37,7 @@
   * [JavaScript Allongé](https://leanpub.com/javascriptallongesix)
   * [Functional Light FP](https://github.com/getify/Functional-Light-JS/blob/master/manuscript/README.md/#table-of-contents)
   * [The power of serverless for FE developer](https://thepowerofserverless.info)
+  * [Front-End Developer Handbook 2018](https://frontendmasters.gitbooks.io/front-end-developer-handbook-2018/)
   
 # TS
 * [Enums as binary flags](https://basarat.gitbooks.io/typescript/docs/enums.html#enums-as-flags)
