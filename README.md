@@ -13,6 +13,7 @@
 * [How JavaScript works: A comparison with WebAssembly + why in certain cases it’s better to use it over JavaScript](https://blog.sessionstack.com/how-javascript-works-a-comparison-with-webassembly-why-in-certain-cases-its-better-to-use-it-d80945172d79)
 * [How JavaScript works: The building blocks of Web Workers + 5 cases when you should use them](https://blog.sessionstack.com/how-javascript-works-the-building-blocks-of-web-workers-5-cases-when-you-should-use-them-a547c0757f6a)
 * [How JavaScript works: Service Workers, their lifecycle and use cases](https://blog.sessionstack.com/how-javascript-works-service-workers-their-life-cycle-and-use-cases-52b19ad98b58)
+* [JavaScript patterns](https://proglib.io/p/javascript-patterns/)
 * [Fusebox - bundler](https://fuse-box.org/)
 * [Guide to deploy p1: DB and API deplloy](https://auth0.com/blog/the-complete-guide-to-deploying-javascript-applications-part-1)
 * [Guide To deploy p2: Single Page Applications, Logging, SSL](https://auth0.com/blog/deploying-javascript-apps-part-2/)
