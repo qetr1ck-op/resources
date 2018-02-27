@@ -18,6 +18,7 @@
 * [Guide To deploy p2: Single Page Applications, Logging, SSL](https://auth0.com/blog/deploying-javascript-apps-part-2/)
 * [Full Stack JS Engineer diagram](https://coggle.it/diagram/WmRp9Hic2QABp8X1/t/full-stack-javascript-engineer)
 * [JAMstack - Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup](https://jamstack.org/)
+  * [Top Open-Source Static Site Generators](https://www.staticgen.com/)
   * [Awesome Static Web Site Generators](https://github.com/myles/awesome-static-generators)
 * [The Definitive Guide to Object-Oriented JavaScript](http://www.objectplayground.com/)
 * [JavaScript Standard Style](https://standardjs.com/#why-should-i-use-javascript-standard-style)
