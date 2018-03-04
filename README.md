@@ -93,6 +93,7 @@
 * Forms
   * [Using ControlValueAccessor to create custom form controls in Angular](https://stackblitz.com/edit/control-value-anccessor?file=app%2Frating-input-accessor%2Findex.ts)
   * [Dynamic reactive forms](https://stackblitz.com/edit/angular-fjvd2x?file=app%2Fdynamic-form%2Fdynamic-form.component.ts)
+  * [Forms in v5, custom controlls, nested forms strategies](https://www.youtube.com/watch?v=CD_t3m2WMM8)
 * Change detection
   * [These 5 articles will make you an Angular Change Detection expert](https://blog.angularindepth.com/these-5-articles-will-make-you-an-angular-change-detection-expert-ed530d28930)
   * [Triggering change detection manually in Angular](https://stackoverflow.com/questions/34827334/triggering-change-detection-manually-in-angular)
