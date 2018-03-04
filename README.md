@@ -31,6 +31,7 @@
   * [Ultra Flexible JavaScript Object Oriented Programming With Stamps](https://www.barbarianmeetscoding.com/blog/2016/01/18/javascript-ultra-flexible-object-oriented-programming-with-stamps/)
   * [Stampit - create objects from reusable, composable behaviors](https://github.com/stampit-org/stampit)
   * [The Hidden Treasures of Object Composition](https://medium.com/javascript-scene/the-hidden-treasures-of-object-composition-60cd89480381)
+  * [Object composition, Class composition via mixins](https://alligator.io/js/class-composition/)
 * Animation
   * [Think of it like Flash meets jQuery, popmotion](https://popmotion.io/)
 * Books
