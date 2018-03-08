@@ -57,6 +57,7 @@
 * [How to become a better node.js developer in 2018](https://nemethgergely.com/nodejs-best-practices-how-to-become-a-better-developer-in-2018/)
 * [Checklist: node.js security list](https://blog.risingstack.com/node-js-security-checklist)
 * [Introduction to Webcrawling (with Javascript and Node.js)](https://medium.com/of-all-things-tech-progress/introduction-to-webcrawling-with-javascript-and-node-js-f5a3798ee8ac)
+* [CQRS explained](https://blog.risingstack.com/cqrs-explained-node-js-at-scale/)
 
 # Tests
 * [The hidden power of Jasmine/Jest matchers](https://medium.com/@boriscoder/the-hidden-power-of-jest-matchers-f3d86d8101b0)
