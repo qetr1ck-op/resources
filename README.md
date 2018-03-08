@@ -138,7 +138,7 @@ Modules
 # Networking
 * [HTTP Status codes](http://www.restapitutorial.com/httpstatuscodes.html)
 * [HTTP Caching](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching)
-* [Resource Hints – What is Preload, Prefetch, and Preconnect?](https://www.keycdn.com/blog/resource-hints/)
+* [Using Preload and Prefetch in Your HTML to Load Assets](https://alligator.io/html/preload-prefetch/)
 * [.htaccess](http://www.htaccess-guide.com/)
 * [What happens when you type google.com into your browser and press enter?](https://github.com/alex/what-happens-when)
 * [OSI layers](https://www.lifewire.com/layers-of-the-osi-model-illustrated-818017)
