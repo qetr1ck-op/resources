@@ -158,3 +158,4 @@ Modules
 
 ## CS
 * [Concurrency vs Parallelism](http://qaru.site/questions/237/concurrency-vs-parallelism-what-is-the-difference)
+* [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
