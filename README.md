@@ -160,6 +160,9 @@ Modules
 * [Interview Algorithm Questions in Javascript](https://github.com/kennymkchan/interview-questions-in-javascript)
 * [JavaScript implementations of different famous Computer Science algorithms](https://github.com/mgechev/javascript-algorithms)
 
+## DB
+* [Basic SQL](http://proselyte.net/tutorials/sql)
+
 ## CS
 * [Concurrency vs Parallelism](http://qaru.site/questions/237/concurrency-vs-parallelism-what-is-the-difference)
 * [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
