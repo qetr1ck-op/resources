@@ -26,6 +26,7 @@
 * [JavaScript Standard Style](https://standardjs.com/#why-should-i-use-javascript-standard-style)
 * [A library of zero-dependency npm modules that do just do one thing](https://github.com/angus-c/just)
 * [Keep webpack Fast: A Field Guide for Better Build Performance](https://slack.engineering/keep-webpack-fast-a-field-guide-for-better-build-performance-f56a5995e8f1)
+* [Optimizing- webpack builds with DLL plugin](https://engineering.bitnami.com/articles/optimizing-your-webpack-builds.html)
 * [loops — how to handle async/await](https://blog.lavrton.com/javascript-loops-how-to-handle-async-await-6252dd3c795)
 * [Preload Images with Pure Javascript](https://blog.lovemily.me/preload-images-with-pure-javascript/)
 * Functional
