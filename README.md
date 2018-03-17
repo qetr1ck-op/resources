@@ -168,3 +168,6 @@ Modules
 * [Concurrency vs Parallelism](http://qaru.site/questions/237/concurrency-vs-parallelism-what-is-the-difference)
 * [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
 * [The Mistakes I Made As a Beginner Programmer](https://medium.com/@samerbuna/the-mistakes-i-made-as-a-beginner-programmer-ac8b3e54c312)
+
+## Interview
+* [Coderust 2.0: Faster Coding Interview Preparation using Interactive Visualizations](https://www.educative.io/collection/page/5642554087309312/5679846214598656/240002)
