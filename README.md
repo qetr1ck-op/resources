@@ -29,6 +29,7 @@
 * [Optimizing- webpack builds with DLL plugin](https://engineering.bitnami.com/articles/optimizing-your-webpack-builds.html)
 * [loops — how to handle async/await](https://blog.lavrton.com/javascript-loops-how-to-handle-async-await-6252dd3c795)
 * [Preload Images with Pure Javascript](https://blog.lovemily.me/preload-images-with-pure-javascript/)
+* [Common Threats in Web Application Security](https://auth0.com/blog/common-threats-in-web-app-security/)
 * Functional
   * [Ultra Flexible JavaScript Object Oriented Programming With Stamps](https://www.barbarianmeetscoding.com/blog/2016/01/18/javascript-ultra-flexible-object-oriented-programming-with-stamps/)
   * [Stampit - create objects from reusable, composable behaviors](https://github.com/stampit-org/stampit)
