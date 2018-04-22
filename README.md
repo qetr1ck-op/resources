@@ -76,7 +76,8 @@
 * [Angular Architecture series](https://blog.angular-university.io/angular-2-smart-components-vs-presentation-components-whats-the-difference-when-to-use-each-and-why/)
 * [What problem DI solves; How Angular DI works; What are injector and child injectors; Types of providers; @Inject and @Injectable](https://codecraft.tv/courses/angular/dependency-injection-and-providers/overview)
 * [Security with DOMSanitizer service](https://netbasal.com/angular-2-security-the-domsanitizer-service-2202c83bd90)
-* [Progressive web apps with angular](https://houssein.me/progressive-angular-applications?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+* [Progressive web apps with angular](https://houssein.me/progressive-angular-applications)
+* [Make app search engine SEO friendly](https://www.youtube.com/watch?v=fiT5g9KSxmw)
 * Dynamically add event listener in Angular
   * [via renderer2](https://stackoverflow.com/questions/35080387/dynamically-add-event-listener-in-angular-2)
   * [via HostListener](https://angular.io/guide/attribute-directives#respond-to-user-initiated-events)
