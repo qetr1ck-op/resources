@@ -108,7 +108,8 @@
   * [These 5 articles will make you an Angular Change Detection expert](https://blog.angularindepth.com/these-5-articles-will-make-you-an-angular-change-detection-expert-ed530d28930)
   * [Triggering change detection manually in Angular](https://stackoverflow.com/questions/34827334/triggering-change-detection-manually-in-angular)
   * [Understanding Change Detection Strategy in Angular](https://alligator.io/angular/change-detection-strategy/)
-Modules
+  * [Pipes vs function call](https://www.youtube.com/watch?v=I6ZvpdRM1eQ)
+* Modules
   * [Avoid common confusions with NgModules in Angular](https://blog.angularindepth.com/avoiding-common-confusions-with-modules-in-angular-ada070e6891f)
   * [Organizing application: modules and services](https://medium.com/@michelestieven/organizing-angular-applications-f0510761d65a)
 * Routing
