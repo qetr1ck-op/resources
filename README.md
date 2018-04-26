@@ -83,21 +83,23 @@
   * [via HostListener](https://angular.io/guide/attribute-directives#respond-to-user-initiated-events)
 * Components
   * [Angular DOM abstractions: ElementRef, TemplateRef, ViewContainerRef](https://blog.angularindepth.com/exploring-angular-dom-abstractions-80b3ebcfc02)
-  * [Using projection with ng-content + @ContentChildren](https://github.com/juristr/egghead-create-dynamic-tabs-component-angular/blob/master/src/app/tabs/tabs.component.ts)
-  * [Dynamically creating components with ComponentFactoryResolver + ViewContainerRef](https://stackblitz.com/edit/angular-3hz8oz?file=app%2Fapp.component.html)
-  * [Create dynamic content with on egghead](https://egghead.io/lessons/angular-destroy-a-dynamically-instantiated-angular-component)
-    * [repo](https://github.com/juristr/egghead-create-dynamic-tabs-component-angular)
-    * [app](https://stackblitz.com/edit/angular-ivywg9?file=app%2Fapp.component.ts)
-  * [Dynamic Angular or manipulate it in right way](https://stackblitz.com/edit/angular-pxgjoz?file=app%2Fapp.component.html)
-  * [Using Angular Components with Third-Party Libraries](https://stackblitz.com/edit/angular-caxzwv?file=app%2Fapp.component.ts)
-  * [Dynamic tooltips](https://stackblitz.com/edit/dynamically-create-tooltip-angular?file=app/tooltip/tooltip.directive.ts)
   * [ng-content: The hidden docs](https://medium.com/claritydesignsystem/ng-content-the-hidden-docs-96a29d70d11b)
-  * [@ViewChild* vs @ContentChild*](https://www.joshmorony.com/the-difference-between-viewchildren-and-contentchildren/)
+  * [Using Angular Components with Third-Party Libraries](https://stackblitz.com/edit/angular-caxzwv?file=app%2Fapp.component.ts)
+  * [Dynamic template with dynamic component]
+    * [Everything you need to know about dynamic components](https://blog.angularindepth.com/here-is-what-you-need-to-know-about-dynamic-components-in-angular-ac1e96167f9e)
+    * [Dynamic Angular or manipulate it in right way RU](https://habr.com/company/infowatch/blog/330030/)
+    * [Dynamic template in component, or alteranative for ng1.$compile](https://stackoverflow.com/questions/38888008/how-can-i-use-create-dynamic-template-to-compile-dynamic-component-with-angular)
+    * [Dynamic tooltips](https://stackblitz.com/edit/dynamically-create-tooltip-angular?file=app/tooltip/tooltip.directive.ts)
+    
+ 
+  
+  
+  * [Understanding ViewChildren, ContentChildren, and QueryList](https://netbasal.com/understanding-viewchildren-contentchildren-and-querylist-in-angular-896b0c689f6e)
   * [Angular dropdown with popper.js](https://stackblitz.com/edit/angular-dropdown-with-popper?file=app%2Fapp.component.html)
   * [Angular custom overlays with angulars material cdk](https://stackblitz.com/edit/angular-custom-overlays-with-angulars-cdk?file=app/app.component.html)
   * [Angular Material Dialog: A Complete Example](https://blog.angular-university.io/angular-material-dialog/)
   * [Possible parameters for @HostBinding and @HostListener decorators](http://stepansuvorov.com/blog/2017/01/angular2-possible-parameters-for-hostbinding-and-hostlistener-decorators/)
-  * [Dynamic template in component, or alteranative for ng1.$compile](https://stackoverflow.com/questions/38888008/how-can-i-use-create-dynamic-template-to-compile-dynamic-component-with-angular)
+  
 * Components libs:
   * [ngprime](https://www.primefaces.org)
 * Forms
