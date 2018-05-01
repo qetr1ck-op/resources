@@ -78,6 +78,7 @@
 * [Security with DOMSanitizer service](https://netbasal.com/angular-2-security-the-domsanitizer-service-2202c83bd90)
 * [Progressive web apps with angular](https://houssein.me/progressive-angular-applications)
 * [Make app search engine SEO friendly](https://www.youtube.com/watch?v=fiT5g9KSxmw)
+* [12 Things to Help Large Organizations Do Angular Right](https://blog.nrwl.io/12-things-to-help-large-organizations-do-angular-right-f261a798ad6b)
 * Dynamically add event listener in Angular
   * [via renderer2](https://stackoverflow.com/questions/35080387/dynamically-add-event-listener-in-angular-2)
   * [via HostListener](https://angular.io/guide/attribute-directives#respond-to-user-initiated-events)
