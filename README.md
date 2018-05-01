@@ -30,6 +30,7 @@
 * [loops — how to handle async/await](https://blog.lavrton.com/javascript-loops-how-to-handle-async-await-6252dd3c795)
 * [Preload Images with Pure Javascript](https://blog.lovemily.me/preload-images-with-pure-javascript/)
 * [Common Threats in Web Application Security](https://auth0.com/blog/common-threats-in-web-app-security/)
+* [Decorators: what they are and when to use](https://www.sitepoint.com/javascript-decorators-what-they-are/)
 * Functional
   * [Ultra Flexible JavaScript Object Oriented Programming With Stamps](https://www.barbarianmeetscoding.com/blog/2016/01/18/javascript-ultra-flexible-object-oriented-programming-with-stamps/)
   * [Stampit - create objects from reusable, composable behaviors](https://github.com/stampit-org/stampit)
@@ -79,6 +80,7 @@
 * [Progressive web apps with angular](https://houssein.me/progressive-angular-applications)
 * [Make app search engine SEO friendly](https://www.youtube.com/watch?v=fiT5g9KSxmw)
 * [12 Things to Help Large Organizations Do Angular Right](https://blog.nrwl.io/12-things-to-help-large-organizations-do-angular-right-f261a798ad6b)
+* [Implementing custom component decorator in Angular](https://blog.angularindepth.com/implementing-custom-component-decorator-in-angular-4d037d5a3f0d)
 * Components
   * [Angular DOM abstractions: ElementRef, TemplateRef, ViewContainerRef](https://blog.angularindepth.com/exploring-angular-dom-abstractions-80b3ebcfc02)
   * [Understanding ViewChildren, ContentChildren, and QueryList](https://netbasal.com/understanding-viewchildren-contentchildren-and-querylist-in-angular-896b0c689f6e)
