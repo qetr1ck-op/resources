@@ -79,30 +79,23 @@
 * [Progressive web apps with angular](https://houssein.me/progressive-angular-applications)
 * [Make app search engine SEO friendly](https://www.youtube.com/watch?v=fiT5g9KSxmw)
 * [12 Things to Help Large Organizations Do Angular Right](https://blog.nrwl.io/12-things-to-help-large-organizations-do-angular-right-f261a798ad6b)
-* Dynamically add event listener in Angular
-  * [via renderer2](https://stackoverflow.com/questions/35080387/dynamically-add-event-listener-in-angular-2)
-  * [via HostListener](https://angular.io/guide/attribute-directives#respond-to-user-initiated-events)
 * Components
   * [Angular DOM abstractions: ElementRef, TemplateRef, ViewContainerRef](https://blog.angularindepth.com/exploring-angular-dom-abstractions-80b3ebcfc02)
+  * [Understanding ViewChildren, ContentChildren, and QueryList](https://netbasal.com/understanding-viewchildren-contentchildren-and-querylist-in-angular-896b0c689f6e)
   * [ng-content: The hidden docs](https://medium.com/claritydesignsystem/ng-content-the-hidden-docs-96a29d70d11b)
   * [Using Angular Components with Third-Party Libraries](https://stackblitz.com/edit/angular-caxzwv?file=app%2Fapp.component.ts)
-  * [Dynamic template with dynamic component]
+  * [Dynamic template]
     * [Everything you need to know about dynamic components](https://blog.angularindepth.com/here-is-what-you-need-to-know-about-dynamic-components-in-angular-ac1e96167f9e)
     * [Dynamic Angular or manipulate it in right way RU](https://habr.com/company/infowatch/blog/330030/)
     * [Dynamic template in component, or alteranative for ng1.$compile](https://stackoverflow.com/questions/38888008/how-can-i-use-create-dynamic-template-to-compile-dynamic-component-with-angular)
     * [Dynamic tooltips](https://stackblitz.com/edit/dynamically-create-tooltip-angular?file=app/tooltip/tooltip.directive.ts)
-    
- 
-  
-  
-  * [Understanding ViewChildren, ContentChildren, and QueryList](https://netbasal.com/understanding-viewchildren-contentchildren-and-querylist-in-angular-896b0c689f6e)
+  * Dynamically add event listener in Angular
+    * [via renderer2](https://stackoverflow.com/questions/35080387/dynamically-add-event-listener-in-angular-2)
+    * [via HostListener](https://angular.io/guide/attribute-directives#respond-to-user-initiated-events)
+  * [Possible parameters for @HostBinding and @HostListener decorators](http://stepansuvorov.com/blog/2017/01/angular2-possible-parameters-for-hostbinding-and-hostlistener-decorators/)
   * [Angular dropdown with popper.js](https://stackblitz.com/edit/angular-dropdown-with-popper?file=app%2Fapp.component.html)
   * [Angular custom overlays with angulars material cdk](https://stackblitz.com/edit/angular-custom-overlays-with-angulars-cdk?file=app/app.component.html)
   * [Angular Material Dialog: A Complete Example](https://blog.angular-university.io/angular-material-dialog/)
-  * [Possible parameters for @HostBinding and @HostListener decorators](http://stepansuvorov.com/blog/2017/01/angular2-possible-parameters-for-hostbinding-and-hostlistener-decorators/)
-  
-* Components libs:
-  * [ngprime](https://www.primefaces.org)
 * Forms
   * [Using ControlValueAccessor to create custom form controls in Angular](https://stackblitz.com/edit/control-value-anccessor?file=app%2Frating-input-accessor%2Findex.ts)
   * [Dynamic reactive forms](https://stackblitz.com/edit/angular-fjvd2x?file=app%2Fdynamic-form%2Fdynamic-form.component.ts)
