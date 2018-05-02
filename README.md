@@ -86,7 +86,7 @@
   * [Understanding ViewChildren, ContentChildren, and QueryList](https://netbasal.com/understanding-viewchildren-contentchildren-and-querylist-in-angular-896b0c689f6e)
   * [ng-content: The hidden docs](https://medium.com/claritydesignsystem/ng-content-the-hidden-docs-96a29d70d11b)
   * [Using Angular Components with Third-Party Libraries](https://stackblitz.com/edit/angular-caxzwv?file=app%2Fapp.component.ts)
-  * [Dynamic template]
+  * Dynamic template
     * [Everything you need to know about dynamic components](https://blog.angularindepth.com/here-is-what-you-need-to-know-about-dynamic-components-in-angular-ac1e96167f9e)
     * [Dynamic Angular or manipulate it in right way RU](https://habr.com/company/infowatch/blog/330030/)
     * [Dynamic template in component, or alteranative for ng1.$compile](https://stackoverflow.com/questions/38888008/how-can-i-use-create-dynamic-template-to-compile-dynamic-component-with-angular)
@@ -105,7 +105,7 @@
 * Change detection
   * [These 5 articles will make you an Angular Change Detection expert](https://blog.angularindepth.com/these-5-articles-will-make-you-an-angular-change-detection-expert-ed530d28930)
   * [Triggering change detection manually in Angular](https://stackoverflow.com/questions/34827334/triggering-change-detection-manually-in-angular)
-  * [Understanding Change Detection Strategy in Angular](https://alligator.io/angular/change-detection-strategy/)
+  * [A Comprehensive Guide to Angular onPush Change Detection Strategy](https://netbasal.com/a-comprehensive-guide-to-angular-onpush-change-detection-strategy-5bac493074a4)
   * [Pipes vs function call](https://www.youtube.com/watch?v=I6ZvpdRM1eQ)
 * Modules
   * [Avoid common confusions with NgModules in Angular](https://blog.angularindepth.com/avoiding-common-confusions-with-modules-in-angular-ada070e6891f)
