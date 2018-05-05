@@ -173,3 +173,4 @@
 
 ## Interview
 * [Coderust 2.0: Faster Coding Interview Preparation using Interactive Visualizations](https://www.educative.io/collection/page/5642554087309312/5679846214598656/240002)
+* [JS tasks](https://habr.com/post/351874)
