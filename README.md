@@ -98,6 +98,10 @@
   * [Angular dropdown with popper.js](https://stackblitz.com/edit/angular-dropdown-with-popper?file=app%2Fapp.component.html)
   * [Angular custom overlays with angulars material cdk](https://stackblitz.com/edit/angular-custom-overlays-with-angulars-cdk?file=app/app.component.html)
   * [Angular Material Dialog: A Complete Example](https://blog.angular-university.io/angular-material-dialog/)
+* Custom Elements
+ * [ng-conf intro](https://www.youtube.com/watch?v=Z1gLFPLVJjY)
+ * [tutorial video](https://www.academind.com/learn/angular/snippets/angular-elements-tutorial-introduction/)
+ * [tutorial + demo](https://nitayneeman.com/posts/a-practical-guide-to-angular-elements/)
 * Forms
   * [Using ControlValueAccessor to create custom form controls in Angular](https://stackblitz.com/edit/control-value-anccessor?file=app%2Frating-input-accessor%2Findex.ts)
   * [Dynamic reactive forms](https://stackblitz.com/edit/angular-fjvd2x?file=app%2Fdynamic-form%2Fdynamic-form.component.ts)
