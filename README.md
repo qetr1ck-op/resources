@@ -147,6 +147,10 @@
 # CSS
 * [Solved by flexbox](https://philipwalton.github.io/solved-by-flexbox/)
 
+## Git
+* [Undo a not pushed merge](https://stackoverflow.com/questions/2389361/undo-a-git-merge-that-hasnt-been-pushed-yet/6217372#6217372)
+* [Undo a pushed merge](https://stackoverflow.com/questions/6481575/undo-a-merge-by-pull-request)
+
 # Networking
 * [HTTP Status codes](http://www.restapitutorial.com/httpstatuscodes.html)
 * [HTTP Caching](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching)
