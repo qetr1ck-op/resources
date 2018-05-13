@@ -102,6 +102,7 @@
  * [ng-conf intro](https://www.youtube.com/watch?v=Z1gLFPLVJjY)
  * [tutorial video](https://www.academind.com/learn/angular/snippets/angular-elements-tutorial-introduction/)
  * [tutorial + demo](https://nitayneeman.com/posts/a-practical-guide-to-angular-elements/)
+ * [build flow](https://medium.com/codingthesmartway-com-blog/angular-elements-a-practical-introduction-to-web-components-with-angular-6-52c0b3076c2c)
 * Forms
   * [Using ControlValueAccessor to create custom form controls in Angular](https://stackblitz.com/edit/control-value-anccessor?file=app%2Frating-input-accessor%2Findex.ts)
   * [Dynamic reactive forms](https://stackblitz.com/edit/angular-fjvd2x?file=app%2Fdynamic-form%2Fdynamic-form.component.ts)
