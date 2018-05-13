@@ -150,6 +150,7 @@
 ## Git
 * [Undo a not pushed merge](https://stackoverflow.com/questions/2389361/undo-a-git-merge-that-hasnt-been-pushed-yet/6217372#6217372)
 * [Undo a pushed merge](https://stackoverflow.com/questions/6481575/undo-a-merge-by-pull-request)
+* [merge --squash vs rebase](https://stackoverflow.com/questions/2427238/in-git-what-is-the-difference-between-merge-squash-and-rebase)
 
 # Networking
 * [HTTP Status codes](http://www.restapitutorial.com/httpstatuscodes.html)
