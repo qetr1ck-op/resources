@@ -149,7 +149,7 @@
 # CSS
 * [Solved by flexbox](https://philipwalton.github.io/solved-by-flexbox/)
 
-## Git
+# Git
 * [Undo a not pushed merge](https://stackoverflow.com/questions/2389361/undo-a-git-merge-that-hasnt-been-pushed-yet/6217372#6217372)
 * [Undo a pushed merge](https://stackoverflow.com/questions/6481575/undo-a-merge-by-pull-request)
 * [merge --squash vs rebase](https://stackoverflow.com/questions/2427238/in-git-what-is-the-difference-between-merge-squash-and-rebase)
@@ -162,26 +162,27 @@
 * [What happens when you type google.com into your browser and press enter?](https://github.com/alex/what-happens-when)
 * [OSI layers](https://www.lifewire.com/layers-of-the-osi-model-illustrated-818017)
 
-## Security
+# Security
 * [A comprehensive XSS guide](https://excess-xss.com/)
 * [An Introduction to Content Security Policy](https://www.html5rocks.com/en/tutorials/security/content-security-policy/)
 
-## Alrorithms and data structure
+# Alrorithms and data structure
 * [Алгоритми і структури даних (Тимошенко А.Г.)](http://vo.ukraine.edu.ua/course/view.php?id=281
 * [Big O cheat sheet](http://bigocheatsheet.com/)
 * [Sort algorithms](https://proglib.io/p/sort-algorithms/)
 * [Interview Algorithm Questions in Javascript](https://github.com/kennymkchan/interview-questions-in-javascript)
 * [JavaScript implementations of different famous Computer Science algorithms](https://github.com/mgechev/javascript-algorithms)
 
-## DB
+# DB
 * [Basic SQL](http://proselyte.net/tutorials/sql)
+* [SQL practice](https://proglib.io/p/sql-practice-sites/)
 
-## CS
+# CS
 * [Concurrency vs Parallelism](http://qaru.site/questions/237/concurrency-vs-parallelism-what-is-the-difference)
 * [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
 * [The Mistakes I Made As a Beginner Programmer](https://medium.com/@samerbuna/the-mistakes-i-made-as-a-beginner-programmer-ac8b3e54c312)
 * [Flags and bitmasks](https://stackblitz.com/edit/flags-and-bitmasks?file=index.ts)
 
-## Interview
+# Interview
 * [Coderust 2.0: Faster Coding Interview Preparation using Interactive Visualizations](https://www.educative.io/collection/page/5642554087309312/5679846214598656/240002)
 * [JS tasks](https://habr.com/post/351874)
