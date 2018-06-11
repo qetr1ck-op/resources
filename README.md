@@ -38,7 +38,7 @@
   * [The Hidden Treasures of Object Composition](https://medium.com/javascript-scene/the-hidden-treasures-of-object-composition-60cd89480381)
   * [Object composition, Class composition via mixins](https://alligator.io/js/class-composition/)
 * Animation
-  * [Think of it like Flash meets jQuery, popmotion](https://popmotion.io/)
+  * [Some of the finest JS-CSS animation libraries around](https://blog.bitsrc.io/11-javascript-animation-libraries-for-2018-9d7ac93a2c59)
 * Books
   * [clean-code-javascript - Software engineering principles, from Robert C. Martin's book Clean Code](https://github.com/ryanmcdermott/clean-code-javascript)
   * [JavaScript Allongé](https://leanpub.com/javascriptallongesix)
