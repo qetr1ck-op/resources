@@ -32,6 +32,7 @@
 * [Common Threats in Web Application Security](https://auth0.com/blog/common-threats-in-web-app-security/)
 * [Decorators: what they are and when to use](https://www.sitepoint.com/javascript-decorators-what-they-are/)
 * [JavaScript Symbols, Iterators, Generators, Async/Await, and Async Iterators — All Explained Simply](https://habr.com/company/ruvds/blog/359004)
+* [9 Javascript Time And Date Manipulation Libraries For 2018](https://blog.bitsrc.io/9-javascript-date-time-libraries-for-2018-12d82f37872d)
 * Functional
   * [Ultra Flexible JavaScript Object Oriented Programming With Stamps](https://www.barbarianmeetscoding.com/blog/2016/01/18/javascript-ultra-flexible-object-oriented-programming-with-stamps/)
   * [Stampit - create objects from reusable, composable behaviors](https://github.com/stampit-org/stampit)
