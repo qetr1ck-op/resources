@@ -69,6 +69,7 @@
 * [A crash course on Serverless with Node.js](https://hackernoon.com/a-crash-course-on-serverless-with-node-js-632b37d58b44)
 * [Building a Serverless REST API with Node.js and MongoDB](https://hackernoon.com/building-a-serverless-rest-api-with-node-js-and-mongodb-2e0ed0638f47)
 * [How to make beautiful, simple CLI apps with Node](https://codewithhugo.com/how-to-make-beautiful-simple-cli-apps-with-node/)
+* [How I automated my job with Node.js](https://medium.com/dailyjs/how-i-automated-my-job-with-node-js-94bf4e423017)
 
 # Tests
 * [The hidden power of Jasmine/Jest matchers](https://medium.com/@boriscoder/the-hidden-power-of-jest-matchers-f3d86d8101b0)
