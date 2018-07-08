@@ -33,6 +33,9 @@
 * [Decorators: what they are and when to use](https://www.sitepoint.com/javascript-decorators-what-they-are/)
 * [JavaScript Symbols, Iterators, Generators, Async/Await, and Async Iterators — All Explained Simply](https://habr.com/company/ruvds/blog/359004)
 * [9 Javascript Time And Date Manipulation Libraries For 2018](https://blog.bitsrc.io/9-javascript-date-time-libraries-for-2018-12d82f37872d)
+* Iframe
+  [Make iframe automatically adjust height according to the contents](https://stackoverflow.com/questions/9975810/make-iframe-automatically-adjust-height-according-to-the-contents-without-using)
+  [Cross-domain iframe height auto-resizer that works](https://stackoverflow.com/questions/5589756/is-there-a-cross-domain-iframe-height-auto-resizer-that-works)
 * Functional
   * [Ultra Flexible JavaScript Object Oriented Programming With Stamps](https://www.barbarianmeetscoding.com/blog/2016/01/18/javascript-ultra-flexible-object-oriented-programming-with-stamps/)
   * [Stampit - create objects from reusable, composable behaviors](https://github.com/stampit-org/stampit)
