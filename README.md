@@ -99,6 +99,7 @@
     * [Dynamic Angular or manipulate it in right way RU](https://habr.com/company/infowatch/blog/330030/)
     * [Dynamic template in component, or alteranative for ng1.$compile](https://stackoverflow.com/questions/38888008/how-can-i-use-create-dynamic-template-to-compile-dynamic-component-with-angular)
     * [Dynamic tooltips](https://stackblitz.com/edit/dynamically-create-tooltip-angular?file=app/tooltip/tooltip.directive.ts)
+    * [Content projection, dialog example](http://blog.ng-book.com/dynamic-components-with-content-projection-in-angular)
   * Dynamically add event listener in Angular
     * [via renderer2](https://stackoverflow.com/questions/35080387/dynamically-add-event-listener-in-angular-2)
     * [via HostListener](https://angular.io/guide/attribute-directives#respond-to-user-initiated-events)
