@@ -193,6 +193,7 @@
 * [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
 * [The Mistakes I Made As a Beginner Programmer](https://medium.com/@samerbuna/the-mistakes-i-made-as-a-beginner-programmer-ac8b3e54c312)
 * [Flags and bitmasks](https://stackblitz.com/edit/flags-and-bitmasks?file=index.ts)
+* [Unicode vs UTF](http://qaru.site/questions/16613/whats-the-difference-between-unicode-and-utf-8)
 
 # Interview
 * [Coderust 2.0: Faster Coding Interview Preparation using Interactive Visualizations](https://www.educative.io/collection/page/5642554087309312/5679846214598656/240002)
