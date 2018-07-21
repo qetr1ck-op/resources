@@ -158,6 +158,9 @@
 # CSS
 * [Solved by flexbox](https://philipwalton.github.io/solved-by-flexbox/)
 
+# HTML
+* [15 HTML element methods you’ve potentially never heard of](https://hackernoon.com/15-html-element-methods-youve-potentially-never-heard-of-fc6863e41b2a)
+
 # Git
 * [Undo a local merge](https://stackoverflow.com/questions/2389361/undo-a-git-merge-that-hasnt-been-pushed-yet/6217372#6217372)
 * [Undo a remote merge](https://stackoverflow.com/questions/6481575/undo-a-merge-by-pull-request)
