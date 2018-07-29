@@ -43,6 +43,8 @@
   * [Object composition, Class composition via mixins](https://alligator.io/js/class-composition/)
 * Animation
   * [Some of the finest JS-CSS animation libraries around](https://blog.bitsrc.io/11-javascript-animation-libraries-for-2018-9d7ac93a2c59)
+* Data visualization
+  * [NVD3.js](https://css-tricks.com/how-to-make-a-modern-dashboard-with-nvd3-js/)
 * Books
   * [clean-code-javascript - Software engineering principles, from Robert C. Martin's book Clean Code](https://github.com/ryanmcdermott/clean-code-javascript)
   * [JavaScript Allongé](https://leanpub.com/javascriptallongesix)
