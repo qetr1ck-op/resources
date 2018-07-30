@@ -203,6 +203,9 @@
 * [Flags and bitmasks](https://stackblitz.com/edit/flags-and-bitmasks?file=index.ts)
 * [Unicode vs UTF](http://qaru.site/questions/16613/whats-the-difference-between-unicode-and-utf-8)
 
+# Serverless
+* [Architecture overview monolith vs microservices vs serverless](https://codeguida.com/post/1466)
+
 # Interview
 * [Coderust 2.0: Faster Coding Interview Preparation using Interactive Visualizations](https://www.educative.io/collection/page/5642554087309312/5679846214598656/240002)
 * [JS tasks](https://habr.com/post/351874)
