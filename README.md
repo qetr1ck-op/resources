@@ -195,6 +195,7 @@
 # DB
 * [Basic SQL](http://proselyte.net/tutorials/sql)
 * [SQL practice](https://proglib.io/p/sql-practice-sites/)
+* [SQL books](https://proglib.io/p/sql-digest/)
 
 # CS
 * [Concurrency vs Parallelism](http://qaru.site/questions/237/concurrency-vs-parallelism-what-is-the-difference)
