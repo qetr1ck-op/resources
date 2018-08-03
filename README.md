@@ -70,7 +70,6 @@
 * [Checklist: node.js security list](https://blog.risingstack.com/node-js-security-checklist)
 * [Introduction to Webcrawling (with Javascript and Node.js)](https://medium.com/of-all-things-tech-progress/introduction-to-webcrawling-with-javascript-and-node-js-f5a3798ee8ac)
 * [CQRS explained](https://blog.risingstack.com/cqrs-explained-node-js-at-scale/)
-
 * [How to make beautiful, simple CLI apps with Node](https://codewithhugo.com/how-to-make-beautiful-simple-cli-apps-with-node/)
 * [How I automated my job with Node.js](https://medium.com/dailyjs/how-i-automated-my-job-with-node-js-94bf4e423017)
 
