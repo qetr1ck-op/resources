@@ -70,12 +70,16 @@
 * [Checklist: node.js security list](https://blog.risingstack.com/node-js-security-checklist)
 * [Introduction to Webcrawling (with Javascript and Node.js)](https://medium.com/of-all-things-tech-progress/introduction-to-webcrawling-with-javascript-and-node-js-f5a3798ee8ac)
 * [CQRS explained](https://blog.risingstack.com/cqrs-explained-node-js-at-scale/)
-* [AWS lambda + Serverless + TS](https://blog.shovonhasan.com/deploying-a-typescript-node-aws-lambda-function-with-serverless/)
-* [Serverless video course](https://www.youtube.com/playlist?list=PLzvRQMJ9HDiT5b4OsmIBiMbsPjfp4kfg3)
-* [A crash course on Serverless with Node.js](https://hackernoon.com/a-crash-course-on-serverless-with-node-js-632b37d58b44)
-* [Building a Serverless REST API with Node.js and MongoDB](https://hackernoon.com/building-a-serverless-rest-api-with-node-js-and-mongodb-2e0ed0638f47)
+
 * [How to make beautiful, simple CLI apps with Node](https://codewithhugo.com/how-to-make-beautiful-simple-cli-apps-with-node/)
 * [How I automated my job with Node.js](https://medium.com/dailyjs/how-i-automated-my-job-with-node-js-94bf4e423017)
+
+# Serverless
+* [Serverless video course](https://www.youtube.com/playlist?list=PLzvRQMJ9HDiT5b4OsmIBiMbsPjfp4kfg3)
+* [A crash course on Serverless with Node.js](https://hackernoon.com/a-crash-course-on-serverless-with-node-js-632b37d58b44)
+* [AWS lambda + Serverless + TS](https://blog.shovonhasan.com/deploying-a-typescript-node-aws-lambda-function-with-serverless/)
+* [Building a Serverless REST API with Node.js and MongoDB](https://hackernoon.com/building-a-serverless-rest-api-with-node-js-and-mongodb-2e0ed0638f47)
+* [How to Handle AWS Lambda Errors Like a Pro](https://blog.epsagon.com/how-to-handle-aws-lambda-errors-like-a-pro)
 
 # Tests
 * [The hidden power of Jasmine/Jest matchers](https://medium.com/@boriscoder/the-hidden-power-of-jest-matchers-f3d86d8101b0)
@@ -136,13 +140,13 @@
 * Books
   * [Angular from theory to practice](https://codecraft.tv/assets/books/angular-from-theory-to-practice.pdf)
 
-### ngrx
+## ngrx
   * [Comprehensive Introduction to @ngrx/store](https://gist.github.com/btroncone/a6e4347326749f938510)
   * [@ngrx example application - Example application utilizing @ngrx libraries, showcasing common patterns and best practices](https://github.com/ngrx/platform/tree/master/example-app)
   * [ngrx-store-effects course](https://platform.ultimateangular.com/courses/ngrx-store-effects)
     * [app](https://github.com/UltimateAngular/ngrx-store-effects-app)
     
-## Rxjs
+# Rxjs
 * [RxJS 5 Operators By Example - A complete list of RxJS 5 operators with clear explanations, relevant resources, and executable examples](https://www.learnrxjs.io/operators/)
 * [RxJS — Six Operators That you Must Know](https://netbasal.com/rxjs-six-operators-that-you-must-know-5ed3b6e238a0)
 * [RxJS marbles](http://rxmarbles.com)
