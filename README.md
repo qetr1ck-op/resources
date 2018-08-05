@@ -76,6 +76,7 @@
 # Serverless
 * [Serverless video course](https://www.youtube.com/playlist?list=PLzvRQMJ9HDiT5b4OsmIBiMbsPjfp4kfg3)
 * [A crash course on Serverless with Node.js](https://hackernoon.com/a-crash-course-on-serverless-with-node-js-632b37d58b44)
+* [Organizing Serverless Projects](https://serverless-stack.com/chapters/organizing-serverless-projects.htmlhttps://serverless-stack.com/chapters/organizing-serverless-projects.html)
 * [AWS lambda + Serverless + TS](https://blog.shovonhasan.com/deploying-a-typescript-node-aws-lambda-function-with-serverless/)
 * [Building a Serverless REST API with Node.js and MongoDB](https://hackernoon.com/building-a-serverless-rest-api-with-node-js-and-mongodb-2e0ed0638f47)
 * [How to Handle AWS Lambda Errors Like a Pro](https://blog.epsagon.com/how-to-handle-aws-lambda-errors-like-a-pro)
