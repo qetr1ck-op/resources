@@ -163,6 +163,7 @@
 
 # CSS
 * [Solved by flexbox](https://philipwalton.github.io/solved-by-flexbox/)
+* [Flexbox — The Animated Tutorial](https://medium.com/@js_tut/flexbox-the-animated-tutorial-8075cbe4c1b2)
 
 # HTML
 * [15 HTML element methods you’ve potentially never heard of](https://hackernoon.com/15-html-element-methods-youve-potentially-never-heard-of-fc6863e41b2a)
