@@ -80,6 +80,7 @@
 * [AWS lambda + Serverless + TS](https://blog.shovonhasan.com/deploying-a-typescript-node-aws-lambda-function-with-serverless/)
 * [Building a Serverless REST API with Node.js and MongoDB](https://hackernoon.com/building-a-serverless-rest-api-with-node-js-and-mongodb-2e0ed0638f47)
 * [How to Handle AWS Lambda Errors Like a Pro](https://blog.epsagon.com/how-to-handle-aws-lambda-errors-like-a-pro)
+* [Keeping Functions Warm - How To Fix AWS Lambda Cold Start Issues](https://serverless.com/blog/keep-your-lambdas-warm/)
 
 # Tests
 * [The hidden power of Jasmine/Jest matchers](https://medium.com/@boriscoder/the-hidden-power-of-jest-matchers-f3d86d8101b0)
