@@ -98,6 +98,7 @@
 * [12 Things to Help Large Organizations Do Angular Right](https://blog.nrwl.io/12-things-to-help-large-organizations-do-angular-right-f261a798ad6b)
 * [Implementing custom component decorator in Angular](https://blog.angularindepth.com/implementing-custom-component-decorator-in-angular-4d037d5a3f0d)
 * [Tune performance advices](https://medium.com/@spp020/44-quick-tips-to-fine-tune-angular-performance-9f5768f5d945)
+* [Four ways of listening to DOM events in Angular](https://medium.com/claritydesignsystem/four-ways-of-listening-to-dom-events-in-angular-part-1-event-binding-3ec7e9f51a1d)
 * Components
   * [Angular DOM abstractions: ElementRef, TemplateRef, ViewContainerRef](https://blog.angularindepth.com/exploring-angular-dom-abstractions-80b3ebcfc02)
   * [Understanding ViewChildren, ContentChildren, and QueryList](https://netbasal.com/understanding-viewchildren-contentchildren-and-querylist-in-angular-896b0c689f6e)
@@ -109,9 +110,6 @@
     * [Dynamic template in component, or alteranative for ng1.$compile](https://stackoverflow.com/questions/38888008/how-can-i-use-create-dynamic-template-to-compile-dynamic-component-with-angular)
     * [Dynamic tooltips](https://stackblitz.com/edit/dynamically-create-tooltip-angular?file=app/tooltip/tooltip.directive.ts)
     * [Content projection, dialog example](http://blog.ng-book.com/dynamic-components-with-content-projection-in-angular)
-  * Dynamically add event listener in Angular
-    * [via renderer2](https://stackoverflow.com/questions/35080387/dynamically-add-event-listener-in-angular-2)
-    * [via HostListener](https://angular.io/guide/attribute-directives#respond-to-user-initiated-events)
   * [Possible parameters for @HostBinding and @HostListener decorators](http://stepansuvorov.com/blog/2017/01/angular2-possible-parameters-for-hostbinding-and-hostlistener-decorators/)
   * [Angular dropdown with popper.js](https://stackblitz.com/edit/angular-dropdown-with-popper?file=app%2Fapp.component.html)
   * [Angular custom overlays with angulars material cdk](https://stackblitz.com/edit/angular-custom-overlays-with-angulars-cdk?file=app/app.component.html)
