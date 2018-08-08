@@ -54,6 +54,7 @@
   * [Front-End Developer Handbook 2018](https://frontendmasters.gitbooks.io/front-end-developer-handbook-2018/)
   
 # TS
+* [Design Patterns in Typescript](https://github.com/gztchan/design-patterns-in-typescript)
 * [Enums as binary flags](https://basarat.gitbooks.io/typescript/docs/enums.html#enums-as-flags)
 * [Five tips I wish to know when I started TS](https://codeburst.io/five-tips-i-wish-i-knew-when-i-started-with-typescript-c9e8609029db)
 * [Partial type example](https://netbasal.com/getting-to-know-the-partial-type-in-typescript-ecfcfbc87cb6)
