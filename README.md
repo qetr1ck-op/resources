@@ -66,6 +66,7 @@
 # Node.js
 * [Awesome nodejs](https://github.com/sindresorhus/awesome-nodejs)
 * [You don't know nodejs](https://github.com/azat-co/you-dont-know-node)
+* [Node.js Best Practices](https://github.com/i0natan/nodebestpractices/#1-project-structure-practices)
 * [Checklist: node.js production best practices](http://goldbergyoni.com/checklist-best-practice-of-node-js-in-production/)
 * [Checklist: node.js error handling best practices](http://goldbergyoni.com/checklist-best-practices-of-node-js-error-handling/)
 * [How to become a better node.js developer in 2018](https://nemethgergely.com/nodejs-best-practices-how-to-become-a-better-developer-in-2018/)
