@@ -126,7 +126,9 @@
   * [Dynamic reactive forms](https://stackblitz.com/edit/angular-fjvd2x?file=app%2Fdynamic-form%2Fdynamic-form.component.ts)
   * [Forms in v5, custom controlls, nested forms strategies](https://www.youtube.com/watch?v=CD_t3m2WMM8)
   * [Attribute Directives with injecting ngControl ❤ Angular Forms](https://netbasal.com/attribute-directives-angular-forms-b40503643089)
-  * (Custom validation, inspired by jQuery validation)[https://github.com/yuyang041060120/ng2-validation#readme]
+  * [Custom validation, inspired by jQuery validation](https://github.com/yuyang041060120/ng2-validation#readme)
+  * [ngx-errors, a declarative validation errors module for reactive forms](https://github.com/UltimateAngular/ngx-errors)
+  
 * Change detection
   * [These 5 articles will make you an Angular Change Detection expert](https://blog.angularindepth.com/these-5-articles-will-make-you-an-angular-change-detection-expert-ed530d28930)
   * [Triggering change detection manually in Angular](https://stackoverflow.com/questions/34827334/triggering-change-detection-manually-in-angular)
