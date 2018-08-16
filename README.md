@@ -221,6 +221,7 @@
 # Serverless
 * [Architecture overview monolith vs microservices vs serverless](https://codeguida.com/post/1466)
 * [10 Things You Need To Know When Building Serverless Applications](https://www.jeremydaly.com/10-things-to-know-when-building-serverless/?utm_source=sidebar)
+* [How long does AWS Lambda keep your idle functions around before a cold start?](https://read.acloud.guru/how-long-does-aws-lambda-keep-your-idle-functions-around-before-a-cold-start-bf715d3b810)
 
 # Interview
 * [Coderust 2.0: Faster Coding Interview Preparation using Interactive Visualizations](https://www.educative.io/collection/page/5642554087309312/5679846214598656/240002)
