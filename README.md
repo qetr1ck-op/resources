@@ -137,7 +137,6 @@
   * [Attribute Directives with injecting ngControl ❤ Angular Forms](https://netbasal.com/attribute-directives-angular-forms-b40503643089)
   * [Custom validation, inspired by jQuery validation](https://github.com/yuyang041060120/ng2-validation#readme)
   * [ngx-errors, a declarative validation errors module for reactive forms](https://github.com/UltimateAngular/ngx-errors)
-  
 * Change detection
   * [These 5 articles will make you an Angular Change Detection expert](https://blog.angularindepth.com/these-5-articles-will-make-you-an-angular-change-detection-expert-ed530d28930)
   * [Triggering change detection manually in Angular](https://stackoverflow.com/questions/34827334/triggering-change-detection-manually-in-angular)
@@ -151,6 +150,7 @@
   * [Lazy Loading Angular - Code Splitting NgModules with Webpack](https://toddmotto.com/lazy-loading-angular-code-splitting-webpack)
 * Migration from ajs
   * [Bullet proof AngularJS migration using iframes](https://codecraft.tv/blog/2017/09/07/angularjs-to-angular-using-iframes/)
+  * [2 New Tools to help with AngularJS to Angular Migrations](https://blog.angular.io/migrating-to-angular-fc9618d6fb04)
 * Books
   * [Angular from theory to practice](https://codecraft.tv/assets/books/angular-from-theory-to-practice.pdf)
 
