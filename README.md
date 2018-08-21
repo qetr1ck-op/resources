@@ -60,6 +60,8 @@
 * [Partial type example](https://netbasal.com/getting-to-know-the-partial-type-in-typescript-ecfcfbc87cb6)
 * [Advanced TypeScript Types with Examples](https://levelup.gitconnected.com/advanced-typescript-types-with-examples-1d144e4eda9e)
 * [Support for import d from "cjs" form CommonJS modules with --esModuleInterop](https://github.com/Microsoft/TypeScript/wiki/What's-new-in-TypeScript#support-for-import-d-from-cjs-form-commonjs-modules-with---esmoduleinterop)
+* [Dependency Injection in TS](https://nehalist.io/dependency-injection-in-typescript/)
+* [InversifyJS - A powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript](http://inversify.io)
 * Books
   * [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript)
   * [LEARNING PATH: Modern Web Development with TypeScript 2.x](https://www.safaribooksonline.com/learning-paths/learning-path-modern/9781789130843/)
