@@ -62,6 +62,7 @@
 * [Support for import d from "cjs" form CommonJS modules with --esModuleInterop](https://github.com/Microsoft/TypeScript/wiki/What's-new-in-TypeScript#support-for-import-d-from-cjs-form-commonjs-modules-with---esmoduleinterop)
 * [Dependency Injection in TS](https://nehalist.io/dependency-injection-in-typescript/)
 * [InversifyJS - A powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript](http://inversify.io)
+* [TypeScript Node Starter](https://github.com/Microsoft/TypeScript-Node-Starter)
 * Books
   * [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript)
   * [LEARNING PATH: Modern Web Development with TypeScript 2.x](https://www.safaribooksonline.com/learning-paths/learning-path-modern/9781789130843/)
@@ -79,7 +80,6 @@
 * [CQRS explained](https://blog.risingstack.com/cqrs-explained-node-js-at-scale/)
 * [How to make beautiful, simple CLI apps with Node](https://codewithhugo.com/how-to-make-beautiful-simple-cli-apps-with-node/)
 * [How I automated my job with Node.js](https://medium.com/dailyjs/how-i-automated-my-job-with-node-js-94bf4e423017)
-* [TypeScript Node Starter](https://github.com/Microsoft/TypeScript-Node-Starter)
 * [Node.js security best practices](https://medium.com/@nodepractices/were-under-attack-23-node-js-security-best-practices-e33c146cb87d)
 * [How to Debug a Node.js app in a Docker Container](https://blog.risingstack.com/how-to-debug-a-node-js-app-in-a-docker-container/)
 * DB
@@ -94,6 +94,7 @@
 * [Building a Serverless REST API with Node.js and MongoDB](https://hackernoon.com/building-a-serverless-rest-api-with-node-js-and-mongodb-2e0ed0638f47)
 * [How to Handle AWS Lambda Errors Like a Pro](https://blog.epsagon.com/how-to-handle-aws-lambda-errors-like-a-pro)
 * [Keeping Functions Warm - How To Fix AWS Lambda Cold Start Issues](https://serverless.com/blog/keep-your-lambdas-warm/)
+* [Strategies for implementing user authentication in serverless apps](https://serverless.com/blog/strategies-implementing-user-authentication-serverless-applications/)
 
 # Tests
 * [The hidden power of Jasmine/Jest matchers](https://medium.com/@boriscoder/the-hidden-power-of-jest-matchers-f3d86d8101b0)
