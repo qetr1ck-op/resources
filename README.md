@@ -113,6 +113,7 @@
 * [Tune performance advices](https://medium.com/@spp020/44-quick-tips-to-fine-tune-angular-performance-9f5768f5d945)
 * [Four ways of listening to DOM events in Angular](https://medium.com/claritydesignsystem/four-ways-of-listening-to-dom-events-in-angular-part-1-event-binding-3ec7e9f51a1d)
 * [DIY handling conditional subscriptions in structural directive](https://netbasal.com/diy-subscription-handling-directive-in-angular-c8f6e762697f)
+* [The power of structural directives](https://netbasal.com/the-power-of-structural-directives-in-angular-bfe4d8c44fb1)
 * Components
   * [Angular DOM abstractions: ElementRef, TemplateRef, ViewContainerRef](https://blog.angularindepth.com/exploring-angular-dom-abstractions-80b3ebcfc02)
   * [Understanding ViewChildren, ContentChildren, and QueryList](https://netbasal.com/understanding-viewchildren-contentchildren-and-querylist-in-angular-896b0c689f6e)
