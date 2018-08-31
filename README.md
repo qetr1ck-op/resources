@@ -103,6 +103,7 @@
 
 ## Angular
 * [Awesome Angular - Awesome list of Angular seed repos, starters, boilerplates, examples, tutorials, components, modules, videos, and anything else in the Angular ecosystem](https://github.com/gdi2290/awesome-angular)
+* [Architecture for huge angular based enterprise](https://www.youtube.com/watch?v=q4XmAy6_ucw)
 * [Lifecycle Hooks in Angular](https://alligator.io/angular/lifecycle-hooks/)
 * [Debugging](https://www.pluralsight.com/guides/front-end-javascript/debugging-angular-2-applications)
 * [Angular Architecture series](https://blog.angular-university.io/angular-2-smart-components-vs-presentation-components-whats-the-difference-when-to-use-each-and-why/)
