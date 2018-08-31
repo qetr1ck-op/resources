@@ -63,6 +63,7 @@
 * [Dependency Injection in TS](https://nehalist.io/dependency-injection-in-typescript/)
 * [InversifyJS - A powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript](http://inversify.io)
 * [TypeScript Node Starter](https://github.com/Microsoft/TypeScript-Node-Starter)
+* [Configure TS compiler with tsconfig](https://blog.angularindepth.com/configuring-typescript-compiler-a84ed8f87e3)
 * Books
   * [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript)
   * [LEARNING PATH: Modern Web Development with TypeScript 2.x](https://www.safaribooksonline.com/learning-paths/learning-path-modern/9781789130843/)
