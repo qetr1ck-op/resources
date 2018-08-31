@@ -95,6 +95,7 @@
 * [How to Handle AWS Lambda Errors Like a Pro](https://blog.epsagon.com/how-to-handle-aws-lambda-errors-like-a-pro)
 * [Keeping Functions Warm - How To Fix AWS Lambda Cold Start Issues](https://serverless.com/blog/keep-your-lambdas-warm/)
 * [Strategies for implementing user authentication in serverless apps](https://serverless.com/blog/strategies-implementing-user-authentication-serverless-applications/)
+* [AWS all sercices overview](https://academind.com/learn/aws/aws-all-services-overview/)
 
 # Tests
 * [The hidden power of Jasmine/Jest matchers](https://medium.com/@boriscoder/the-hidden-power-of-jest-matchers-f3d86d8101b0)
