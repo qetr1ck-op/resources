@@ -63,7 +63,7 @@ TOC:
 - [Arhitecture](#arhitecture)
   - [Books](#books-4)
 - [Interview](#interview)
-- [Docker](#docker)%
+- [Docker](#docker)
 
 # JS
 
