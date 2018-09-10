@@ -1,0 +1,22 @@
+{
+  "name": "resources",
+  "version": "1.0.0",
+  "description": "list of personal useful links",
+  "main": "index.js",
+  "scripts": {
+    "build:markdown-toc": "markdown-toc README.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qetr1ck-op/resources.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qetr1ck-op/resources/issues"
+  },
+  "homepage": "https://github.com/qetr1ck-op/resources#readme",
+  "devDependencies": {
+    "markdown-toc": "^1.2.0"
+  }
+}
