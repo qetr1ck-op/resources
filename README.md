@@ -167,6 +167,8 @@ TOC:
 - [How to make beautiful, simple CLI apps with Node](https://codewithhugo.com/how-to-make-beautiful-simple-cli-apps-with-node/)
 - [How I automated my job with Node.js](https://medium.com/dailyjs/how-i-automated-my-job-with-node-js-94bf4e423017)
 - [Using CSI (client-side-include) instead of SSI (server-side-includes)](https://www.techrepublic.com/article/using-client-side-includes-instead-of-server-side-includes/)
+- [Top 10 frameworks in 2018](https://da-14.com/blog/10-best-nodejs-frameworks)
+- [Choose framework based on category](http://nodeframework.com/)
 
 ### Debugging
 
