@@ -70,6 +70,7 @@ TOC:
 ### General
 
 - [Awesome JS](https://github.com/sorrycc/awesome-javascript)
+- [Best of JS - most popular open source projects](https://bestofjs.org/)
 - [How JavaScript works: series of articles](https://blog.sessionstack.com/tagged/tutorial)
 - [What the f\*ck JavaScript?](https://github.com/denysdovhan/wtfjs)
 - [Full Stack JS Engineer diagram](https://coggle.it/diagram/WmRp9Hic2QABp8X1/t/full-stack-javascript-engineer)
