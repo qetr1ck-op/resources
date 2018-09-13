@@ -144,6 +144,7 @@ TOC:
 - [Partial type example](https://netbasal.com/getting-to-know-the-partial-type-in-typescript-ecfcfbc87cb6)
 - [Advanced TypeScript Types with Examples](https://levelup.gitconnected.com/advanced-typescript-types-with-examples-1d144e4eda9e)
 - [External helpers library - tslib](https://blog.mariusschulz.com/2016/12/16/typescript-2-1-external-helpers-library)
+- [Evulition series](https://blog.mariusschulz.com/series/typescript-evolution)
 
 ### Patterns
 
