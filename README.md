@@ -201,10 +201,6 @@ TOC:
 - [What problem DI solves; How Angular DI works; What are injector and child injectors; Types of providers; @Inject and @Injectable](https://codecraft.tv/courses/angular/dependency-injection-and-providers/overview)
 - [Progressive web apps with angular](https://houssein.me/progressive-angular-applications)
 - [Make app search engine SEO friendly](https://www.youtube.com/watch?v=fiT5g9KSxmw)
-- [Angular dropdown with popper.js](https://stackblitz.com/edit/angular-dropdown-with-popper?file=app%2Fapp.component.html)
-- [Angular custom overlays with angulars material cdk](https://stackblitz.com/edit/angular-custom-overlays-with-angulars-cdk?file=app/app.component.html)
-- [Angular Material Dialog: A Complete Example](https://blog.angular-university.io/angular-material-dialog/)
-- [Reactive Sticky Header in Angular](https://netbasal.com/reactive-sticky-header-in-angular-12dbffb3f1d3)
 - [Typical use case of observables](https://habrahabr.ru/post/337512/)
 
 ### Architecture
@@ -236,6 +232,10 @@ TOC:
 - [Implementing custom component decorator in Angular](https://blog.angularindepth.com/implementing-custom-component-decorator-in-angular-4d037d5a3f0d)
 - [Using Angular Components with Third-Party Libraries](https://stackblitz.com/edit/angular-caxzwv?file=app%2Fapp.component.ts)
 - [Possible parameters for @HostBinding and @HostListener decorators](http://stepansuvorov.com/blog/2017/01/angular2-possible-parameters-for-hostbinding-and-hostlistener-decorators/)
+- [Angular dropdown with popper.js](https://stackblitz.com/edit/angular-dropdown-with-popper?file=app%2Fapp.component.html)
+- [Angular custom overlays with angulars material cdk](https://stackblitz.com/edit/angular-custom-overlays-with-angulars-cdk?file=app/app.component.html)
+- [Angular Material Dialog: A Complete Example](https://blog.angular-university.io/angular-material-dialog/)
+- [Reactive Sticky Header in Angular](https://netbasal.com/reactive-sticky-header-in-angular-12dbffb3f1d3)
 
 ### Directive
 
