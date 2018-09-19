@@ -172,8 +172,12 @@ TOC:
 - [Using CSI (client-side-include) instead of SSI (server-side-includes)](https://www.techrepublic.com/article/using-client-side-includes-instead-of-server-side-includes/)
 - [Top 10 frameworks in 2018](https://da-14.com/blog/10-best-nodejs-frameworks)
 - [Choose framework based on category](http://nodeframework.com/)
-- [Everything you need to know about child processes](https://medium.freecodecamp.org/node-js-child-processes-everything-you-need-to-know-e69498fe970a)
 - [Load balancing performance: comparing cluster module, iptables, Nginx](https://medium.com/@fermads/node-js-process-load-balancing-comparing-cluster-iptables-and-nginx-6746aaf38272)
+
+### Architecture
+- [Everything you need to know about child processes](https://medium.freecodecamp.org/node-js-child-processes-everything-you-need-to-know-e69498fe970a)
+- [Cluster module, usage with HTTP, PM2](http://www.acuriousanimal.com/2017/08/12/understanding-the-nodejs-cluster-module.html)
+- [Scaling strategies](https://medium.freecodecamp.org/scaling-node-js-applications-8492bd8afadc)
 
 ### Debugging
 
