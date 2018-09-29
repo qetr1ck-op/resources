@@ -89,6 +89,7 @@ TOC:
   - [The internals of shadow DOM + how to build a self contained component](https://blog.sessionstack.com/how-javascript-works-the-internals-of-shadow-dom-how-to-build-self-contained-components-244331c4de6e)
   - [WebRTC and the mechanics of peer to peer networking](https://blog.sessionstack.com/how-javascript-works-webrtc-and-the-mechanics-of-peer-to-peer-connectivity-87cc56c1d0ab)
 - [Best of JS - most popular open source projects](https://bestofjs.org/)
+- [30 seconds of code](https://github.com/30-seconds/30-seconds-of-code#table-of-contents)
 - [What the f\*ck JavaScript?](https://github.com/denysdovhan/wtfjs)
 - [Full Stack JS Engineer diagram](https://coggle.it/diagram/WmRp9Hic2QABp8X1/t/full-stack-javascript-engineer)
 - [JS the right way](http://jstherightway.org)
