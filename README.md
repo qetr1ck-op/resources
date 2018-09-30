@@ -345,6 +345,7 @@ TOC:
 - [RxJS: Understanding Lettable Operators](https://blog.angularindepth.com/rxjs-understanding-lettable-operators-fe74dda186d3)
 - [Understanding mergeMap and switchMap](https://netbasal.com/understanding-mergemap-and-switchmap-in-rxjs-13cf9c57c885)
 - [Pipeable Operators](https://github.com/ReactiveX/rxjs/blob/master/doc/pipeable-operators.md)
+- [When to use asObservable](https://stackoverflow.com/questions/36986548/when-to-use-asobservable-in-rxjs)
 
 ### Debugging
 
