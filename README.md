@@ -144,6 +144,11 @@ TOC:
 
 - [NVD3.js](https://css-tricks.com/how-to-make-a-modern-dashboard-with-nvd3-js/)
 
+### Web Components
+
+- [Introduction](https://www.webcomponents.org/introduction)
+- [About web components RU](https://habr.com/post/422499/)
+
 ### Books
 
 - [clean-code-javascript - Software engineering principles, from Robert C. Martin's book Clean Code](https://github.com/ryanmcdermott/clean-code-javascript)
