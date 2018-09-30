@@ -123,6 +123,7 @@ TOC:
 - [Time And Date Manipulation Libraries For 2018](https://blog.bitsrc.io/9-javascript-date-time-libraries-for-2018-12d82f37872d)
 - [Maybe you don't need moment.js](https://github.com/you-dont-need/You-Dont-Need-Momentjs)
 - [Stampit - create objects from reusable, composable behaviors](https://github.com/stampit-org/stampit)
+- [Async await wrapper to better handling exception](https://github.com/scopsy/await-to-js)
 
 ### Webpack
 
