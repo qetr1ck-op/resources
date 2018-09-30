@@ -333,6 +333,8 @@ TOC:
 - [BehaviorSubject vs Observable](https://stackoverflow.com/questions/39494058/behaviorsubject-vs-observable)
 - [On The Subject Of Subjects](https://medium.com/@benlesh/on-the-subject-of-subjects-in-rxjs-2b08b7198b93)
 - [Playground](https://stackblitz.com/edit/rxjs-playground-oop?file=app/app.component.ts)
+- [How to observe the object, rx-observe](https://blog.angularindepth.com/rxjs-how-to-observe-an-object-20c47cf51571)
+- [How to observe handler, rx-handler](https://github.com/johnlindquist/rx-handler)
 
 ### Operators
 
