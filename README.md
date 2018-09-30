@@ -347,6 +347,7 @@ TOC:
 - [Understanding mergeMap and switchMap](https://netbasal.com/understanding-mergemap-and-switchmap-in-rxjs-13cf9c57c885)
 - [Pipeable Operators](https://github.com/ReactiveX/rxjs/blob/master/doc/pipeable-operators.md)
 - [When to use asObservable](https://stackoverflow.com/questions/36986548/when-to-use-asobservable-in-rxjs)
+- [Build your own pipeble operator](https://egghead.io/courses/build-your-own-rxjs-pipeable-operators)
 
 ### Debugging
 
