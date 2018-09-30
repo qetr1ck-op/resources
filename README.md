@@ -233,6 +233,7 @@ TOC:
 - [Progressive web apps with angular](https://houssein.me/progressive-angular-applications)
 - [Make app search engine SEO friendly](https://www.youtube.com/watch?v=fiT5g9KSxmw)
 - [Typical use case of observables](https://habrahabr.ru/post/337512/)
+- [Ant design](https://ng.ant.design/docs/introduce/en)
 
 ### Architecture
 
