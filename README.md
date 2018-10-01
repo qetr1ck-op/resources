@@ -447,6 +447,10 @@ TOC:
 
 # Arhitecture
 
+### General
+
+- [Bcrypt and password secutrity](https://www.youtube.com/watch?v=O6cmuiTBZVs)
+
 ### Books
 
 - [Three best books about software arhitecture](https://proglib.io/p/computer-architecture-books/)
