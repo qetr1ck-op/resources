@@ -61,6 +61,7 @@ TOC:
 - [CS](#cs)
 - [Serverless](#serverless)
 - [Arhitecture](#arhitecture)
+  - [General](#general-7)
   - [Books](#books-4)
 - [Interview](#interview)
 - [Docker](#docker)
@@ -449,6 +450,7 @@ TOC:
 
 ### General
 
+- [How to safety store a password](https://codahale.com/how-to-safely-store-a-password/)
 - [Bcrypt and password secutrity](https://www.youtube.com/watch?v=O6cmuiTBZVs)
 
 ### Books
