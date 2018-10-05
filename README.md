@@ -218,6 +218,7 @@ TOC:
 - [Checklist: node.js security list](https://blog.risingstack.com/node-js-security-checklist)
 - [Node.js security best practices](https://medium.com/@nodepractices/were-under-attack-23-node-js-security-best-practices-e33c146cb87d)
 - [CQRS explained](https://blog.risingstack.com/cqrs-explained-node-js-at-scale/)
+- [Implement JWT authentication](https://dev.to/adnanrahic/securing-nodejs-restful-apis-with-json-web-tokens)
 
 # Tests
 
@@ -450,10 +451,13 @@ TOC:
 
 # Arhitecture
 
-### General
+### Security
 
 - [How to safety store a password](https://codahale.com/how-to-safely-store-a-password/)
 - [Bcrypt and password secutrity](https://www.youtube.com/watch?v=O6cmuiTBZVs)
+- [OpenID vs OAuth](https://stackoverflow.com/questions/1087031/whats-the-difference-between-openid-and-oauth)
+- [JWT vs OAuth](https://stackoverflow.com/questions/39909419/jwt-vs-oauth-authentication)
+- [JWT vs cookies](https://stackoverflow.com/questions/37582444/jwt-vs-cookies-for-token-based-authentication)
 
 ### Books
 
