@@ -62,6 +62,7 @@ TOC:
 - [Serverless](#serverless)
 - [Arhitecture](#arhitecture)
   - [General](#general-7)
+  - [Security](#security-3)
   - [Books](#books-4)
 - [Interview](#interview)
 - [Docker](#docker)
@@ -450,6 +451,10 @@ TOC:
 - [AWS all sercices overview](https://academind.com/learn/aws/aws-all-services-overview/)
 
 # Arhitecture
+
+### General
+
+- [CQRS expalined](https://blog.risingstack.com/cqrs-explained-node-js-at-scale/) 
 
 ### Security
 
