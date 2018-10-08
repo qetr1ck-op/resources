@@ -206,6 +206,7 @@ TOC:
 - [Everything you need to know about child processes](https://medium.freecodecamp.org/node-js-child-processes-everything-you-need-to-know-e69498fe970a)
 - [Cluster module, usage with HTTP, PM2](http://www.acuriousanimal.com/2017/08/12/understanding-the-nodejs-cluster-module.html)
 - [Scaling strategies](https://medium.freecodecamp.org/scaling-node-js-applications-8492bd8afadc)
+- [Project structure](https://blog.risingstack.com/node-js-project-structure-tutorial-node-js-at-scale/)
 
 ### Debugging
 
@@ -265,7 +266,7 @@ TOC:
 
 ### Component
 
-- [Advanced Angular component patterns](https://blog.angularindepth.com/introducing-advanced-angular-component-patterns-13e102e6bbfc)
+- [Advanced Angular component patterns](https://egghead.io/courses/advanced-angular-component-patterns)
 - [Implementing custom component decorator in Angular](https://blog.angularindepth.com/implementing-custom-component-decorator-in-angular-4d037d5a3f0d)
 - [Using Angular Components with Third-Party Libraries](https://stackblitz.com/edit/angular-caxzwv?file=app%2Fapp.component.ts)
 - [Possible parameters for @HostBinding and @HostListener decorators](http://stepansuvorov.com/blog/2017/01/angular2-possible-parameters-for-hostbinding-and-hostlistener-decorators/)
@@ -404,7 +405,6 @@ TOC:
 
 - [A comprehensive XSS guide](https://excess-xss.com/)
 - [An Introduction to Content Security Policy](https://www.html5rocks.com/en/tutorials/security/content-security-policy/)
-- [Auothentication with XSS and CSRF vulnerability](https://codeguida.com/post/1435)
 
 # Alrorithms and data structure
 
@@ -421,6 +421,7 @@ TOC:
 - [Basic SQL](http://proselyte.net/tutorials/sql)
 - [SQL practice](https://proglib.io/p/sql-practice-sites/)
 - [SQL books](https://proglib.io/p/sql-digest/)
+- [What is the difference between INNER and OUTER joins](https://stackoverflow.com/questions/38549/what-is-the-difference-between-inner-join-and-outer-join)
 
 ### DynamoDB
 
