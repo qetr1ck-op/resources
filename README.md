@@ -265,7 +265,7 @@ TOC:
 
 ### Component
 
-- [Advanced Angular component patterns](https://egghead.io/courses/advanced-angular-component-patterns)
+- [Advanced Angular component patterns](https://blog.angularindepth.com/introducing-advanced-angular-component-patterns-13e102e6bbfc)
 - [Implementing custom component decorator in Angular](https://blog.angularindepth.com/implementing-custom-component-decorator-in-angular-4d037d5a3f0d)
 - [Using Angular Components with Third-Party Libraries](https://stackblitz.com/edit/angular-caxzwv?file=app%2Fapp.component.ts)
 - [Possible parameters for @HostBinding and @HostListener decorators](http://stepansuvorov.com/blog/2017/01/angular2-possible-parameters-for-hostbinding-and-hostlistener-decorators/)
