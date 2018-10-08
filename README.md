@@ -404,6 +404,7 @@ TOC:
 
 - [A comprehensive XSS guide](https://excess-xss.com/)
 - [An Introduction to Content Security Policy](https://www.html5rocks.com/en/tutorials/security/content-security-policy/)
+- [Auothentication with XSS and CSRF vulnerability](https://codeguida.com/post/1435)
 
 # Alrorithms and data structure
 
