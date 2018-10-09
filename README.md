@@ -103,7 +103,6 @@ TOC:
 - [Preload Images with Pure Javascript](https://blog.lovemily.me/preload-images-with-pure-javascript/)
 - [Common Threats in Web Application Security](https://auth0.com/blog/common-threats-in-web-app-security/)
 - [Decorators: what they are and when to use](https://www.sitepoint.com/javascript-decorators-what-they-are/)
-
 - [The Cost Of JavaScript In 2018](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4)
 - [Project Guidelines](https://github.com/elsewhencode/project-guidelines)
 - [The Definitive Guide to Object-Oriented JavaScript](http://www.objectplayground.com/)
@@ -120,6 +119,8 @@ TOC:
 - [Class composition via mixins](https://alligator.io/js/class-composition/)
 - [Functions overloading](https://www.barbarianmeetscoding.com/blog/2015/05/26/mastering-the-arcane-art-of-javascript-mancy-for-c-sharp-developers-chapter-5-more-useful-function-patterns-function-overloading/)
 - [OOP - Object Oriented Programming](https://www.barbarianmeetscoding.com/blog/2015/11/23/an-introduction-to-object-oriented-programming-in-javascript-for-c-sharp-developers/)
+- [A guide to prototype inheritence](https://tylermcginnis.com/beginners-guide-to-javascript-prototype/)
+  - [Object playground](http://www.objectplayground.com/)
 
 ### Libs
 
