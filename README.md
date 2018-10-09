@@ -391,6 +391,7 @@ TOC:
 - [Using Preload and Prefetch in Your HTML to Load Assets](https://alligator.io/html/preload-prefetch/)
 - [.htaccess](http://www.htaccess-guide.com/)
 - [What happens when you type google.com into your browser and press enter?](https://github.com/alex/what-happens-when)
+- [How browser engine works - behind the scenes](https://blog.logrocket.com/how-browser-rendering-works-behind-the-scenes-6782b0e8fb10)
 - [OSI layers](https://www.lifewire.com/layers-of-the-osi-model-illustrated-818017)
 
 ### REST
