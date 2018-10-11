@@ -349,10 +349,10 @@ TOC:
 
 ### Operators
 
-- [RxJS 5 Operators By Example - A complete list of RxJS 5 operators with clear explanations, relevant resources, and executable examples](https://www.learnrxjs.io/operators/)
-- [RxJS — Six Operators That you Must Know](https://netbasal.com/rxjs-six-operators-that-you-must-know-5ed3b6e238a0)
+- [A complete list of RxJS operators with clear explanations, relevant resources, and executable examples](https://www.learnrxjs.io/operators/)
 - [RxJS marbles](http://rxmarbles.com)
 - [Choose an operator](http://reactivex.io/rxjs/manual/overview.html#choose-an-operator)
+- [RxJS — Six Operators That you Must Know](https://netbasal.com/rxjs-six-operators-that-you-must-know-5ed3b6e238a0)
 - [RxJS: Understanding Lettable Operators](https://blog.angularindepth.com/rxjs-understanding-lettable-operators-fe74dda186d3)
 - [Understanding mergeMap and switchMap](https://netbasal.com/understanding-mergemap-and-switchmap-in-rxjs-13cf9c57c885)
 - [Pipeable Operators](https://github.com/ReactiveX/rxjs/blob/master/doc/pipeable-operators.md)
