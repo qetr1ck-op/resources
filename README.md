@@ -461,7 +461,8 @@ TOC:
 
 ### General
 
-- [CQRS expalined](https://blog.risingstack.com/cqrs-explained-node-js-at-scale/) 
+- [Event-Driven arhitecture](https://martinfowler.com/articles/201701-event-driven.html)
+- [CQRS expalined](https://blog.risingstack.com/cqrs-explained-node-js-at-scale/)
 
 ### Security
 
