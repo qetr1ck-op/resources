@@ -354,7 +354,7 @@ TOC:
 - [Choose an operator](http://reactivex.io/rxjs/manual/overview.html#choose-an-operator)
 - [RxJS — Six Operators That you Must Know](https://netbasal.com/rxjs-six-operators-that-you-must-know-5ed3b6e238a0)
 - [RxJS: Understanding Lettable Operators](https://blog.angularindepth.com/rxjs-understanding-lettable-operators-fe74dda186d3)
-- [Understanding mergeMap and switchMap](https://netbasal.com/understanding-mergemap-and-switchmap-in-rxjs-13cf9c57c885)
+- [Understanding hight order observables with mergeMap and switchMap](https://netbasal.com/understanding-mergemap-and-switchmap-in-rxjs-13cf9c57c885)
 - [Pipeable Operators](https://github.com/ReactiveX/rxjs/blob/master/doc/pipeable-operators.md)
 - [When to use asObservable](https://stackoverflow.com/questions/36986548/when-to-use-asobservable-in-rxjs)
 - [Build your own pipeble operator](https://egghead.io/courses/build-your-own-rxjs-pipeable-operators)
