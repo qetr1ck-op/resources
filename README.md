@@ -247,10 +247,9 @@ TOC:
 - [Architecture for huge angular based enterprise](https://www.youtube.com/watch?v=q4XmAy6_ucw)
 - [Angular Architecture series](https://blog.angular-university.io/angular-2-smart-components-vs-presentation-components-whats-the-difference-when-to-use-each-and-why/)
 - [12 Things to Help Large Organizations Do Angular Right](https://blog.nrwl.io/12-things-to-help-large-organizations-do-angular-right-f261a798ad6b)
-- [Tune performance advices](https://medium.com/@spp020/44-quick-tips-to-fine-tune-angular-performance-9f5768f5d945)
 - [Avoid common confusions with NgModules in Angular](https://blog.angularindepth.com/avoiding-common-confusions-with-modules-in-angular-ada070e6891f)
 - [Organizing application: modules and services](https://medium.com/@michelestieven/organizing-angular-applications-f0510761d65a)
-
+  
 ### Debugging
 
 - [7 ways to debug angular apps](https://angularfirebase.com/lessons/methods-for-debugging-an-angular-application)
@@ -314,7 +313,12 @@ TOC:
 - [What every frond-end developer should know about change detection in Angular and React](https://medium.freecodecamp.org/what-every-front-end-developer-should-know-about-change-detection-in-angular-and-react-508f83f58c6a)
 - [Triggering change detection manually in Angular](https://stackoverflow.com/questions/34827334/triggering-change-detection-manually-in-angular)
 - [A Comprehensive Guide to Angular onPush Change Detection Strategy](https://netbasal.com/a-comprehensive-guide-to-angular-onpush-change-detection-strategy-5bac493074a4)
-- [Pipes vs function call](https://www.youtube.com/watch?v=I6ZvpdRM1eQ)
+- Perforamce list
+  - [44 tips to tune the performance](https://medium.com/@spp020/44-quick-tips-to-fine-tune-angular-performance-9f5768f5d945)
+  - [Change detection strategy](https://blog.ninja-squad.com/2018/09/27/angular-performances-part-4/)
+  - [Pure pipes, attribute decorator, smart-dumb separation](https://blog.ninja-squad.com/2018/10/04/angular-performances-part-5/?utm_campaign=Angular%20Ninja%20Newsletter&utm_medium=email&utm_source=Revue%20newsletter)
+  - [Pipes vs function call](https://www.youtube.com/watch?v=I6ZvpdRM1eQ)
+  
 
 ### Routing
 
