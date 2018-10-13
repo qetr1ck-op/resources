@@ -277,6 +277,7 @@ TOC:
 - [Angular custom overlays with angulars material cdk](https://stackblitz.com/edit/angular-custom-overlays-with-angulars-cdk?file=app/app.component.html)
 - [Angular Material Dialog: A Complete Example](https://blog.angular-university.io/angular-material-dialog/)
 - [Reactive Sticky Header in Angular](https://netbasal.com/reactive-sticky-header-in-angular-12dbffb3f1d3)
+- [@Attribute decorator](https://netbasal.com/getting-to-know-the-attribute-decorator-in-angular-4f7c9fb61243)
 
 ### Directive
 
