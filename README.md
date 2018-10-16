@@ -351,6 +351,7 @@ TOC:
 - [Playground](https://stackblitz.com/edit/rxjs-playground-oop?file=app/app.component.ts)
 - [How to observe the object, rx-observe](https://blog.angularindepth.com/rxjs-how-to-observe-an-object-20c47cf51571)
 - [How to observe handler, rx-handler](https://github.com/johnlindquist/rx-handler)
+- [From promises to observales](https://juristr.com/blog/2018/10/journey-promises-to-rxjs/)
 
 ### Operators
 
