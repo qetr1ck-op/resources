@@ -408,14 +408,19 @@ TOC:
 
 - [Guiding Principles of REST](https://restfulapi.net/)
 
-### Books
-
-- [Networking free books](https://proglib.io/p/computer-networks-books/)
-
 ### Security
 
 - [A comprehensive XSS guide](https://excess-xss.com/)
 - [An Introduction to Content Security Policy](https://www.html5rocks.com/en/tutorials/security/content-security-policy/)
+
+# Docker
+
+- [Docker for Web Developers on pluralsight](https://app.pluralsight.com/library/courses/docker-web-development/table-of-contents)
+- [Jenkins with HTTTPS using nginx and docker](https://medium.com/@weibeld/setting-up-https-for-jenkins-with-nginx-everything-in-docker-4a118dc29127)
+
+### Books
+
+- [Networking free books](https://proglib.io/p/computer-networks-books/)
 
 # Alrorithms and data structure
 
@@ -490,7 +495,3 @@ TOC:
 - [Faster Coding Interview Preparation using Interactive Visualizations](https://www.educative.io/collection/page/5642554087309312/5679846214598656/240002)
 - [JS tasks](https://habr.com/post/351874)
 - [7 Hardest Node.js Interview Questions & Answers](https://dev.to/aershov24/7-hardest-nodejs-interview-questions--answers-3lje?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
-
-# Docker
-
-- [Docker for Web Developers on pluralsight](https://app.pluralsight.com/library/courses/docker-web-development/table-of-contents)
