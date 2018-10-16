@@ -319,7 +319,6 @@ TOC:
   - [Pure pipes, attribute decorator, smart-dumb separation](https://blog.ninja-squad.com/2018/10/04/angular-performances-part-5/?utm_campaign=Angular%20Ninja%20Newsletter&utm_medium=email&utm_source=Revue%20newsletter)
   - [Pipes vs function call](https://www.youtube.com/watch?v=I6ZvpdRM1eQ)
   
-
 ### Routing
 
 - [Dynamic guard redirects with route data and CanActivate](http://www.kirjai.com/dynamic-guard-redirects-angular/)
@@ -416,7 +415,8 @@ TOC:
 # Docker
 
 - [Docker for Web Developers on pluralsight](https://app.pluralsight.com/library/courses/docker-web-development/table-of-contents)
-- [Jenkins with HTTTPS using nginx and docker](https://medium.com/@weibeld/setting-up-https-for-jenkins-with-nginx-everything-in-docker-4a118dc29127)
+- [Jenkins with HTTPS using Nginx and Docker](https://medium.com/@weibeld/setting-up-https-for-jenkins-with-nginx-everything-in-docker-4a118dc29127)
+- [Nginx Docker container with HTTPS protocol](http://scmquest.com/nginx-docker-container-with-https-protocol/)
 
 ### Books
 
