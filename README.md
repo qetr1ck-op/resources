@@ -469,6 +469,7 @@ TOC:
 - [Event-Driven arhitecture](https://martinfowler.com/articles/201701-event-driven.html)
 - [CQRS expalined](https://blog.risingstack.com/cqrs-explained-node-js-at-scale/)
 - [Event Sourcing](https://blog.risingstack.com/event-sourcing-with-examples-node-js-at-scale/)
+- [Presentatuin Domain Data layering](https://martinfowler.com/bliki/PresentationDomainDataLayering.html)
 
 ### Security
 
