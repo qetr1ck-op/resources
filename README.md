@@ -402,6 +402,7 @@ TOC:
 - [What happens when you type google.com into your browser and press enter?](https://github.com/alex/what-happens-when)
 - [How browser engine works - behind the scenes](https://blog.logrocket.com/how-browser-rendering-works-behind-the-scenes-6782b0e8fb10)
 - [OSI layers](https://www.lifewire.com/layers-of-the-osi-model-illustrated-818017)
+- [Forward vs Reverse Proxy](https://stackoverflow.com/questions/224664/difference-between-proxy-server-and-reverse-proxy-server)
 
 ### REST
 
