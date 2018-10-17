@@ -414,7 +414,7 @@ TOC:
 - [A comprehensive XSS guide](https://excess-xss.com/)
 - [An Introduction to Content Security Policy](https://www.html5rocks.com/en/tutorials/security/content-security-policy/)
 
-# Docker
+### Docker
 
 - [Docker for Web Developers on pluralsight](https://app.pluralsight.com/library/courses/docker-web-development/table-of-contents)
 - [Jenkins with HTTPS using Nginx and Docker](https://medium.com/@weibeld/setting-up-https-for-jenkins-with-nginx-everything-in-docker-4a118dc29127)
@@ -455,21 +455,6 @@ TOC:
 - [Flags and bitmasks](https://stackblitz.com/edit/flags-and-bitmasks?file=index.ts)
 - [Unicode vs UTF](http://qaru.site/questions/16613/whats-the-difference-between-unicode-and-utf-8)
 
-# Serverless
-
-- [Architecture overview monolith vs microservices vs serverless](https://codeguida.com/post/1466)
-- [10 Things You Need To Know When Building Serverless Applications](https://www.jeremydaly.com/10-things-to-know-when-building-serverless/?utm_source=sidebar)
-- [How long does AWS Lambda keep your idle functions around before a cold start?](https://read.acloud.guru/how-long-does-aws-lambda-keep-your-idle-functions-around-before-a-cold-start-bf715d3b810)
-- [Serverless video course](https://www.youtube.com/playlist?list=PLzvRQMJ9HDiT5b4OsmIBiMbsPjfp4kfg3)
-- [A crash course on Serverless with Node.js](https://hackernoon.com/a-crash-course-on-serverless-with-node-js-632b37d58b44)
-- [Organizing Serverless Projects](https://serverless-stack.com/chapters/organizing-serverless-projects.htmlhttps://serverless-stack.com/chapters/organizing-serverless-projects.html)
-- [AWS lambda + Serverless + TS](https://blog.shovonhasan.com/deploying-a-typescript-node-aws-lambda-function-with-serverless/)
-- [Building a Serverless REST API with Node.js and MongoDB](https://hackernoon.com/building-a-serverless-rest-api-with-node-js-and-mongodb-2e0ed0638f47)
-- [How to Handle AWS Lambda Errors Like a Pro](https://blog.epsagon.com/how-to-handle-aws-lambda-errors-like-a-pro)
-- [Keeping Functions Warm - How To Fix AWS Lambda Cold Start Issues](https://serverless.com/blog/keep-your-lambdas-warm/)
-- [Strategies for implementing user authentication in serverless apps](https://serverless.com/blog/strategies-implementing-user-authentication-serverless-applications/)
-- [AWS all sercices overview](https://academind.com/learn/aws/aws-all-services-overview/)
-
 # Arhitecture
 
 ### General
@@ -487,6 +472,22 @@ TOC:
 - [OpenID vs OAuth](https://stackoverflow.com/questions/1087031/whats-the-difference-between-openid-and-oauth)
 - [JWT vs OAuth](https://stackoverflow.com/questions/39909419/jwt-vs-oauth-authentication)
 - [JWT vs cookies](https://stackoverflow.com/questions/37582444/jwt-vs-cookies-for-token-based-authentication)
+
+### Serverless
+
+- [Serverless arhitecture](https://martinfowler.com/articles/serverless.html)
+- [Architecture overview monolith vs microservices vs serverless](https://codeguida.com/post/1466)
+- [10 Things You Need To Know When Building Serverless Applications](https://www.jeremydaly.com/10-things-to-know-when-building-serverless/?utm_source=sidebar)
+- [How long does AWS Lambda keep your idle functions around before a cold start?](https://read.acloud.guru/how-long-does-aws-lambda-keep-your-idle-functions-around-before-a-cold-start-bf715d3b810)
+- [Serverless video course](https://www.youtube.com/playlist?list=PLzvRQMJ9HDiT5b4OsmIBiMbsPjfp4kfg3)
+- [A crash course on Serverless with Node.js](https://hackernoon.com/a-crash-course-on-serverless-with-node-js-632b37d58b44)
+- [Organizing Serverless Projects](https://serverless-stack.com/chapters/organizing-serverless-projects.htmlhttps://serverless-stack.com/chapters/organizing-serverless-projects.html)
+- [AWS lambda + Serverless + TS](https://blog.shovonhasan.com/deploying-a-typescript-node-aws-lambda-function-with-serverless/)
+- [Building a Serverless REST API with Node.js and MongoDB](https://hackernoon.com/building-a-serverless-rest-api-with-node-js-and-mongodb-2e0ed0638f47)
+- [How to Handle AWS Lambda Errors Like a Pro](https://blog.epsagon.com/how-to-handle-aws-lambda-errors-like-a-pro)
+- [Keeping Functions Warm - How To Fix AWS Lambda Cold Start Issues](https://serverless.com/blog/keep-your-lambdas-warm/)
+- [Strategies for implementing user authentication in serverless apps](https://serverless.com/blog/strategies-implementing-user-authentication-serverless-applications/)
+- [AWS all sercices overview](https://academind.com/learn/aws/aws-all-services-overview/)
 
 ### Books
 
