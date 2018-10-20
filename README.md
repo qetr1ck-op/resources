@@ -491,6 +491,7 @@ TOC:
 - [Keeping Functions Warm - How To Fix AWS Lambda Cold Start Issues](https://serverless.com/blog/keep-your-lambdas-warm/)
 - [Strategies for implementing user authentication in serverless apps](https://serverless.com/blog/strategies-implementing-user-authentication-serverless-applications/)
 - [AWS all sercices overview](https://academind.com/learn/aws/aws-all-services-overview/)
+- [Patterns for distributet transaction within a microservice architecture](https://developers.redhat.com/blog/2018/10/01/patterns-for-distributed-transactions-within-a-microservices-architecture/)
 
 ### Books
 
