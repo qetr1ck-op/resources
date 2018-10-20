@@ -492,6 +492,7 @@ TOC:
 - [Strategies for implementing user authentication in serverless apps](https://serverless.com/blog/strategies-implementing-user-authentication-serverless-applications/)
 - [AWS all sercices overview](https://academind.com/learn/aws/aws-all-services-overview/)
 - [Patterns for distributet transaction within a microservice architecture](https://developers.redhat.com/blog/2018/10/01/patterns-for-distributed-transactions-within-a-microservices-architecture/)
+- [Desing patterns for microservices](https://dzone.com/articles/design-patterns-for-microservices)
 
 ### Books
 
