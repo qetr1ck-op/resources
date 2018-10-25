@@ -372,6 +372,12 @@ TOC:
 
 - [rxjs-spy - A debugging library for RxJS](https://cartant.github.io/rxjs-spy/)
 
+# React
+
+### General
+
+- [Life cycle hooks](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
+
 # CSS
 
 ### Flexbox
