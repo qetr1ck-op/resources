@@ -377,6 +377,7 @@ TOC:
 ### General
 
 - [Life cycle hooks](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
+- [You probably don't need a derived state](https://reactjs.org/blog/2018/06/07/you-probably-dont-need-derived-state.html#recommendation-fully-controlled-component)
 - [Immutable.js with React, Redux](https://www.fullstackreact.com/articles/using-immutablejs-with-react-and-redux/)
 
 # CSS
