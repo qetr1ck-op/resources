@@ -377,6 +377,7 @@ TOC:
 ### General
 
 - [Life cycle hooks](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
+- [Immutable.js with React, Redux](https://www.fullstackreact.com/articles/using-immutablejs-with-react-and-redux/)
 
 # CSS
 
