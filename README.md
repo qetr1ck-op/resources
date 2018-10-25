@@ -506,7 +506,16 @@ TOC:
 
 - [Three best books about software arhitecture](https://proglib.io/p/computer-architecture-books/)
 
+# OS
+
+### MacOS
+
+- [Modificate PATH](https://coolestguidesontheplanet.com/add-shell-path-osx/)
+- [Create simlink](https://apple.stackexchange.com/questions/115646/how-can-i-create-a-symbolic-link-in-terminal)
+
 # Interview
+
+### General
 
 - [Faster Coding Interview Preparation using Interactive Visualizations](https://www.educative.io/collection/page/5642554087309312/5679846214598656/240002)
 - [JS tasks](https://habr.com/post/351874)
