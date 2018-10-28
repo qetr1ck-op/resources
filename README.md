@@ -380,6 +380,7 @@ TOC:
 - [Immutable.js with React, Redux](https://www.fullstackreact.com/articles/using-immutablejs-with-react-and-redux/)
 - [Context API](https://reactjs.org/docs/context.html)
 - [Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react)
+- [Styling](https://codeburst.io/styling-in-react-5aafecc5edd3)
 
 ### Patterns
 
