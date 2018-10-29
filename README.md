@@ -229,6 +229,10 @@ TOC:
 - [CQRS explained](https://blog.risingstack.com/cqrs-explained-node-js-at-scale/)
 - [Implement JWT authentication](https://dev.to/adnanrahic/securing-nodejs-restful-apis-with-json-web-tokens)
 
+### Books
+
+- [Playlist UA](https://www.youtube.com/playlist?list=PLHhi8ymDMrQZmXEqIIlq2S9-Ibh9b_-rQ)
+
 # Tests
 
 ### General
