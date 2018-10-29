@@ -396,6 +396,8 @@ TOC:
 - [Update on async rendering](https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html)
 - [You probably don't need a derived state](https://reactjs.org/blog/2018/06/07/you-probably-dont-need-derived-state.html#recommendation-fully-controlled-component)
 - [High order component, HOC](https://levelup.gitconnected.com/understanding-react-higher-order-components-by-example-95e8c47c8006)
+- [8 no-flux patterns for component to component communication](https://www.javascriptstuff.com/component-communication/)
+
 
 # CSS
 
