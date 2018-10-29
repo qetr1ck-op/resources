@@ -384,6 +384,7 @@ TOC:
 - [Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react)
 - [Styling](https://codeburst.io/styling-in-react-5aafecc5edd3)
 - [Structuring and naming](https://hackernoon.com/structuring-projects-and-naming-components-in-react-1261b6e18d76)
+- [You don't need DI](https://hackernoon.com/you-dont-need-to-know-dependency-injection-2e9d2ba1978a)
 
 ### Patterns
 
