@@ -389,6 +389,7 @@ TOC:
 - [Styling](https://codeburst.io/styling-in-react-5aafecc5edd3)
 - [Structuring and naming](https://hackernoon.com/structuring-projects-and-naming-components-in-react-1261b6e18d76)
 - [You don't need DI](https://hackernoon.com/you-dont-need-to-know-dependency-injection-2e9d2ba1978a)
+- [Using portal api](https://alligator.io/react/using-new-portal-feature-in-react/)
 
 ### Patterns
 
