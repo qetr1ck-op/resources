@@ -391,6 +391,7 @@ TOC:
 - [You don't need DI](https://hackernoon.com/you-dont-need-to-know-dependency-injection-2e9d2ba1978a)
 - [Using portal api](https://alligator.io/react/using-new-portal-feature-in-react/)
 - [How to pass properties to props.children](https://stackoverflow.com/questions/32370994/how-to-pass-props-to-this-props-children)
+- [Redux-thunk alternatives](https://github.com/verekia/js-stack-from-scratch/issues/138#issuecomment-285447602)
 
 ### Patterns
 
@@ -400,6 +401,7 @@ TOC:
 - [You probably don't need a derived state](https://reactjs.org/blog/2018/06/07/you-probably-dont-need-derived-state.html#recommendation-fully-controlled-component)
 - [High order component, HOC](https://levelup.gitconnected.com/understanding-react-higher-order-components-by-example-95e8c47c8006)
 - [8 no-flux patterns for component to component communication](https://www.javascriptstuff.com/component-communication/)
+- [Using function instead of object in setState](https://medium.com/@wisecobbler/using-a-function-in-setstate-instead-of-an-object-1f5cfd6e55d1)
 
 
 # CSS
