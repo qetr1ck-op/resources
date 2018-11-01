@@ -2,7 +2,7 @@
 
 ### General
 
-- [Life cycle hooks](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
+- [Lifecycle hooks](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
 - [Immutable.js with React, Redux](https://www.fullstackreact.com/articles/using-immutablejs-with-react-and-redux/)
 - [Context API](https://reactjs.org/docs/context.html)
 - [Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react)
@@ -12,7 +12,6 @@
 - [Using portal api](https://alligator.io/react/using-new-portal-feature-in-react/)
 - [How to pass properties to props.children](https://stackoverflow.com/questions/32370994/how-to-pass-props-to-this-props-children)
 - [Redux-thunk alternatives](https://github.com/verekia/js-stack-from-scratch/issues/138#issuecomment-285447602)
-- [Lifecycle hooks](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
 - [React state managment in 2018](https://dev.to/jpnelson/the-state-of-the-state-react-state-management-in-2018-2l0c)
 
 ### Patterns
