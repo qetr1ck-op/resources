@@ -392,6 +392,7 @@ TOC:
 - [Using portal api](https://alligator.io/react/using-new-portal-feature-in-react/)
 - [How to pass properties to props.children](https://stackoverflow.com/questions/32370994/how-to-pass-props-to-this-props-children)
 - [Redux-thunk alternatives](https://github.com/verekia/js-stack-from-scratch/issues/138#issuecomment-285447602)
+- [Lifecycle hooks](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
 
 ### Patterns
 
