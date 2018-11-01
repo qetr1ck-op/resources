@@ -39,6 +39,7 @@ TOC:
   - [Ngrx](#ngrx)
   - [Migration from AngularJS](#migration-from-angularjs)
   - [Books](#books-2)
+- [React](/react/index.md)
 - [Rxjs](#rxjs)
   - [General](#general-5)
   - [Operators](#operators)
@@ -208,6 +209,7 @@ TOC:
 - [HMR api](https://github.com/webpack/docs/wiki/hot-module-replacement)
 
 ### Architecture
+
 - [Project structure](https://blog.risingstack.com/node-js-project-structure-tutorial-node-js-at-scale/)
 - [Everything you need to know about child processes](https://medium.freecodecamp.org/node-js-child-processes-everything-you-need-to-know-e69498fe970a)
 - [Cluster module, usage with HTTP, PM2](http://www.acuriousanimal.com/2017/08/12/understanding-the-nodejs-cluster-module.html)
@@ -257,7 +259,7 @@ TOC:
 - [12 Things to Help Large Organizations Do Angular Right](https://blog.nrwl.io/12-things-to-help-large-organizations-do-angular-right-f261a798ad6b)
 - [Avoid common confusions with NgModules in Angular](https://blog.angularindepth.com/avoiding-common-confusions-with-modules-in-angular-ada070e6891f)
 - [Organizing application: modules and services](https://medium.com/@michelestieven/organizing-angular-applications-f0510761d65a)
-  
+
 ### Debugging
 
 - [7 ways to debug angular apps](https://angularfirebase.com/lessons/methods-for-debugging-an-angular-application)
@@ -322,11 +324,12 @@ TOC:
 - [Triggering change detection manually in Angular](https://stackoverflow.com/questions/34827334/triggering-change-detection-manually-in-angular)
 - [A Comprehensive Guide to Angular onPush Change Detection Strategy](https://netbasal.com/a-comprehensive-guide-to-angular-onpush-change-detection-strategy-5bac493074a4)
 - Perforamce list
+
   - [44 tips to tune the performance](https://medium.com/@spp020/44-quick-tips-to-fine-tune-angular-performance-9f5768f5d945)
   - [Change detection strategy](https://blog.ninja-squad.com/2018/09/27/angular-performances-part-4/)
   - [Pure pipes, attribute decorator, smart-dumb separation](https://blog.ninja-squad.com/2018/10/04/angular-performances-part-5/?utm_campaign=Angular%20Ninja%20Newsletter&utm_medium=email&utm_source=Revue%20newsletter)
   - [Pipes vs function call](https://www.youtube.com/watch?v=I6ZvpdRM1eQ)
-  
+
 ### Routing
 
 - [Dynamic guard redirects with route data and CanActivate](http://www.kirjai.com/dynamic-guard-redirects-angular/)
@@ -377,34 +380,6 @@ TOC:
 ### Debugging
 
 - [rxjs-spy - A debugging library for RxJS](https://cartant.github.io/rxjs-spy/)
-
-# React
-
-### General
-
-- [Life cycle hooks](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
-- [Immutable.js with React, Redux](https://www.fullstackreact.com/articles/using-immutablejs-with-react-and-redux/)
-- [Context API](https://reactjs.org/docs/context.html)
-- [Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react)
-- [Styling](https://codeburst.io/styling-in-react-5aafecc5edd3)
-- [Structuring and naming](https://hackernoon.com/structuring-projects-and-naming-components-in-react-1261b6e18d76)
-- [You don't need DI](https://hackernoon.com/you-dont-need-to-know-dependency-injection-2e9d2ba1978a)
-- [Using portal api](https://alligator.io/react/using-new-portal-feature-in-react/)
-- [How to pass properties to props.children](https://stackoverflow.com/questions/32370994/how-to-pass-props-to-this-props-children)
-- [Redux-thunk alternatives](https://github.com/verekia/js-stack-from-scratch/issues/138#issuecomment-285447602)
-- [Lifecycle hooks](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
-- [React state managment in 2018](https://dev.to/jpnelson/the-state-of-the-state-react-state-management-in-2018-2l0c)
-
-### Patterns
-
-- [A compilation of patterns, anti-patterns, tips and tricks](https://github.com/vasanthk/react-bits)
-- [Render props](https://reactjs.org/docs/render-props.html)
-- [Update on async rendering](https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html)
-- [You probably don't need a derived state](https://reactjs.org/blog/2018/06/07/you-probably-dont-need-derived-state.html#recommendation-fully-controlled-component)
-- [High order component, HOC](https://levelup.gitconnected.com/understanding-react-higher-order-components-by-example-95e8c47c8006)
-- [8 no-flux patterns for component to component communication](https://www.javascriptstuff.com/component-communication/)
-- [Using function instead of object in setState](https://medium.com/@wisecobbler/using-a-function-in-setstate-instead-of-an-object-1f5cfd6e55d1)
-
 
 # CSS
 
