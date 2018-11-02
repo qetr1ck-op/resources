@@ -370,6 +370,7 @@ TOC:
 - [Patterns for distributet transaction within a microservice architecture](https://developers.redhat.com/blog/2018/10/01/patterns-for-distributed-transactions-within-a-microservices-architecture/)
 - [Desing patterns for microservices](https://dzone.com/articles/design-patterns-for-microservices)
 - [CORS and API Gateway survival guide](https://serverless.com/blog/cors-api-gateway-survival-guide/)
+- [middy - middleware for aws lambda](https://middy.js.org/)
 
 ### Books
 
