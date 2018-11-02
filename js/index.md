@@ -53,6 +53,7 @@
 - [OOP - Object Oriented Programming](https://www.barbarianmeetscoding.com/blog/2015/11/23/an-introduction-to-object-oriented-programming-in-javascript-for-c-sharp-developers/)
 - [A guide to prototype inheritence](https://tylermcginnis.com/beginners-guide-to-javascript-prototype/)
   - [Object playground](http://www.objectplayground.com/)
+- [SOLID princples](https://blog.bitsrc.io/solid-principles-every-developer-should-know-b3bfa96bb688)
 
 ### Libs
 
