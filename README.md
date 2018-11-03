@@ -1,9 +1,5 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Personal list of up to date professional links
-
-TOC:
-
 - [JS](/js/index.md)
 - [TS](/ts/index.md)
 - [Node.js](#nodejs)
