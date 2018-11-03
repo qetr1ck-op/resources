@@ -6,8 +6,7 @@
 - [Angular](/angular/index.md)
 - [React](/react/index.md)
 - [Rxjs](/rxjs/index.md)
-- [CSS](#css)
-  - [Flexbox](#flexbox)
+- [CSS](/css/index.md)
 - [HTML](#html)
   - [General](#general-6)
 - [Git](#git)
@@ -29,13 +28,6 @@
   - [Books](#books-4)
 - [Interview](#interview)
 - [Docker](#docker)
-
-# CSS
-
-### Flexbox
-
-- [Solved by flexbox](https://philipwalton.github.io/solved-by-flexbox/)
-- [Flexbox — The Animated Tutorial](https://medium.com/@js_tut/flexbox-the-animated-tutorial-8075cbe4c1b2)
 
 # HTML
 
