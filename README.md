@@ -3,8 +3,6 @@
 - [JS](/js/index.md)
 - [TS](/ts/index.md)
 - [Node.js](/nodejs/index.md)
-- [Tests](#tests)
-  - [General](#general-3)
 - [Angular](#angular)
   - [General](#general-4)
   - [Architecture](#architecture)
@@ -50,11 +48,7 @@
 - [Interview](#interview)
 - [Docker](#docker)
 
-# Tests
-
 ### General
-
-- [The hidden power of Jasmine/Jest matchers](https://medium.com/@boriscoder/the-hidden-power-of-jest-matchers-f3d86d8101b0)
 
 # Angular
 
