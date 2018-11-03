@@ -17,7 +17,7 @@
 ### Patterns
 
 - [A compilation of patterns, anti-patterns, tips and tricks](https://github.com/vasanthk/react-bits)
-- [Use a render props!](https://cdb.reacttraining.com/use-a-render-prop-50de598f11ce)
+- [Use a render props!, the comparison of mixins to HOC](https://cdb.reacttraining.com/use-a-render-prop-50de598f11ce)
 - [Update on async rendering](https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html)
 - [You probably don't need a derived state](https://reactjs.org/blog/2018/06/07/you-probably-dont-need-derived-state.html#recommendation-fully-controlled-component)
 - [High order component, HOC](https://levelup.gitconnected.com/understanding-react-higher-order-components-by-example-95e8c47c8006)
