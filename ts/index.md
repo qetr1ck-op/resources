@@ -1,3 +1,5 @@
+[Root](/README.md)
+
 # TS
 
 ### General
@@ -23,3 +25,5 @@
 
 - [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript)
 - [LEARNING PATH: Modern Web Development with TypeScript 2.x](https://www.safaribooksonline.com/learning-paths/learning-path-modern/9781789130843/)
+
+[Root](/README.md)
