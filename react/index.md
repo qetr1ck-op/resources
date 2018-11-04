@@ -26,4 +26,8 @@
 - [8 no-flux patterns for component to component communication](https://www.javascriptstuff.com/component-communication/)
 - [Using function instead of object in setState](https://medium.com/@wisecobbler/using-a-function-in-setstate-instead-of-an-object-1f5cfd6e55d1)
 
+### Performance
+
+- [Checklist to eliminate common performance issues](https://logrocket-blog.ghost.io/death-by-a-thousand-cuts-a-checklist-for-eliminating-common-react-performance-issues)
+
 [Root](/README.md)
