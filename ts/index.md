@@ -6,7 +6,6 @@
 
 - [Five tips I wish to know when I started TS](https://codeburst.io/five-tips-i-wish-i-knew-when-i-started-with-typescript-c9e8609029db)
 - [Support for import d from "cjs" form CommonJS modules with --esModuleInterop](https://github.com/Microsoft/TypeScript/wiki/What's-new-in-TypeScript#support-for-import-d-from-cjs-form-commonjs-modules-with---esmoduleinterop)
-- [TypeScript Node Starter](https://github.com/Microsoft/TypeScript-Node-Starter)
 - [Configure TS compiler with tsconfig](https://blog.angularindepth.com/configuring-typescript-compiler-a84ed8f87e3)
 - [Enums as binary flags](https://basarat.gitbooks.io/typescript/docs/enums.html#enums-as-flags)
 - [Partial type example](https://netbasal.com/getting-to-know-the-partial-type-in-typescript-ecfcfbc87cb6)
