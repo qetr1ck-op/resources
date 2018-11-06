@@ -33,6 +33,7 @@
 
 - [Redux-thunk alternatives](https://github.com/verekia/js-stack-from-scratch/issues/138#issuecomment-285447602)
 - [React state managment in 2018](https://dev.to/jpnelson/the-state-of-the-state-react-state-management-in-2018-2l0c)
+- [How GraphQL replace Redux](https://hackernoon.com/how-graphql-replaces-redux-3fff8289221d)
 
 ### Performance
 
