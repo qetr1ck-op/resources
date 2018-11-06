@@ -15,6 +15,7 @@
 - [Top 10 frameworks in 2018](https://da-14.com/blog/10-best-nodejs-frameworks)
 - [Choose framework based on category](http://nodeframework.com/)
 - [Load balancing performance: comparing cluster module, iptables, Nginx](https://medium.com/@fermads/node-js-process-load-balancing-comparing-cluster-iptables-and-nginx-6746aaf38272)
+- [TypeScript Node Starter](https://github.com/Microsoft/TypeScript-Node-Starter)
 - [HMR - hot module replacement](https://github.com/webpack/docs/issues/45#issuecomment-149793458)
 - [HMR api](https://github.com/webpack/docs/wiki/hot-module-replacement)
 
