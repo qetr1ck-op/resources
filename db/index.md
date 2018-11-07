@@ -2,6 +2,10 @@
 
 # DB
 
+### General
+
+- [When and why use in-memmory or traditional database management system](https://medium.com/@denisanikin/when-and-why-i-use-an-in-memory-database-or-a-traditional-database-management-system-5737f6d406b5)
+
 ### SQL
 
 - [Basic SQL](http://proselyte.net/tutorials/sql)
