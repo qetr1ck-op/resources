@@ -14,7 +14,7 @@
 - [DB](db/index.md)
 - [Computer Science](cs/index.md)
 - [Serverless](serverless/index.md)
-- [Arhitecture](arhitecture/index.md)
+- [Arhitecture](architecture/index.md)
 - [Interview](interview/index.md)
 - [Docker](docker/index.md)
 - [Operation Systems](os/index.md)
