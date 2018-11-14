@@ -43,6 +43,7 @@
 - [JavaScript Standard Style](https://standardjs.com/#why-should-i-use-javascript-standard-style)
 - [Guide to deploy p1: DB and API deplloy](https://auth0.com/blog/the-complete-guide-to-deploying-javascript-applications-part-1)
 - [Guide To deploy p2: Single Page Applications, Logging, SSL](https://auth0.com/blog/deploying-javascript-apps-part-2/)
+- [Create the next immutable state by mutating the current one with Immer](https://github.com/mweststrate/immer)
 
 ### Patterns
 
