@@ -44,6 +44,8 @@
 - [Guide to deploy p1: DB and API deplloy](https://auth0.com/blog/the-complete-guide-to-deploying-javascript-applications-part-1)
 - [Guide To deploy p2: Single Page Applications, Logging, SSL](https://auth0.com/blog/deploying-javascript-apps-part-2/)
 - [Create the next immutable state by mutating the current one with Immer](https://github.com/mweststrate/immer)
+- [Look at ResizeObserver API](https://alligator.io/js/resize-observer/)
+- [Look at IntersectionObserver API](https://alligator.io/js/intersection-observer/)
 
 ### Patterns
 
