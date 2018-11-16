@@ -4,6 +4,7 @@
 
 ### General
 
+- [Awesome React Render Props](https://github.com/jaredpalmer/awesome-react-render-props)
 - [Lifecycle hooks](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
 - [Immutable.js with React, Redux](https://www.fullstackreact.com/articles/using-immutablejs-with-react-and-redux/)
 - [Context API](https://reactjs.org/docs/context.html)
