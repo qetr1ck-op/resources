@@ -8,6 +8,7 @@
 - [CQRS expalined](https://blog.risingstack.com/cqrs-explained-node-js-at-scale/)
 - [Event Sourcing](https://blog.risingstack.com/event-sourcing-with-examples-node-js-at-scale/)
 - [Presentatuin Domain Data layering](https://martinfowler.com/bliki/PresentationDomainDataLayering.html)
+- [Web application horizontal layers](https://gist.github.com/LayZeeDK/e8a312917af9810637dd1330a7ee768c#file-web-application-horizontal-layers-csv)
 
 ### Security
 
