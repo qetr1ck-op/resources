@@ -18,6 +18,7 @@
 - [12 Things to Help Large Organizations Do Angular Right](https://blog.nrwl.io/12-things-to-help-large-organizations-do-angular-right-f261a798ad6b)
 - [Avoid common confusions with NgModules in Angular](https://blog.angularindepth.com/avoiding-common-confusions-with-modules-in-angular-ada070e6891f)
 - [Organizing application: modules and services](https://medium.com/@michelestieven/organizing-angular-applications-f0510761d65a)
+- [MVP, layering the app](https://blog.angularindepth.com/model-view-presenter-with-angular-3a4dbffe49bb)
 
 ### Debugging
 
