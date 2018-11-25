@@ -15,6 +15,7 @@
 - [Using portal api](https://alligator.io/react/using-new-portal-feature-in-react/)
 - [Skeleton screens](https://alligator.io/react/skeleton-screens-react-and-react-native/)
 - [Why react hooks and how we get here?](https://medium.freecodecamp.org/why-react-hooks-and-how-did-we-even-get-here-aa5ed5dc96af)
+- [Fiber resources](https://github.com/koba04/react-fiber-resources)
 
 ### Patterns
 
