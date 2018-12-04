@@ -9,7 +9,6 @@
 - [Immutable.js with React, Redux](https://www.fullstackreact.com/articles/using-immutablejs-with-react-and-redux/)
 - [Context API](https://reactjs.org/docs/context.html)
 - [Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react)
-
 - [Structuring and naming](https://hackernoon.com/structuring-projects-and-naming-components-in-react-1261b6e18d76)
 - [Folder Structure](https://gist.github.com/ryanflorence/daafb1e3cb8ad740b346)
 - [You don't need DI](https://hackernoon.com/you-dont-need-to-know-dependency-injection-2e9d2ba1978a)
