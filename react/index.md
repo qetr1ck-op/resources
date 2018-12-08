@@ -2,15 +2,9 @@
 
 # React
 
-### General
+### Internal
 
-- [Lifecycle hooks](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
-- [Immutable.js with React, Redux](https://www.fullstackreact.com/articles/using-immutablejs-with-react-and-redux/)
-- [Context API](https://reactjs.org/docs/context.html)
-- [You don't need DI](https://hackernoon.com/you-dont-need-to-know-dependency-injection-2e9d2ba1978a)
 - [Using portal api](https://alligator.io/react/using-new-portal-feature-in-react/)
-- [Skeleton screens](https://alligator.io/react/skeleton-screens-react-and-react-native/)
-- [Why react hooks and how we get here?](https://medium.freecodecamp.org/why-react-hooks-and-how-did-we-even-get-here-aa5ed5dc96af)
 - [Fiber resources](https://github.com/koba04/react-fiber-resources)
 
 ### Structure
@@ -24,6 +18,7 @@
 
 - [Ways of styling](https://codeburst.io/styling-in-react-5aafecc5edd3)
 - [Emotion](https://emotion.sh/docs/introduction)
+- [Skeleton screens](https://alligator.io/react/skeleton-screens-react-and-react-native/)
 
 ### Patterns
 
@@ -41,7 +36,16 @@
 - Render props
   - [Use a render props!, the comparison of mixins to HOC](https://cdb.reacttraining.com/use-a-render-prop-50de598f11ce)
   - [Awesome React Render Props](https://github.com/jaredpalmer/awesome-react-render-props)
-  
+
+### Data layer
+
+- [How to fetch data](https://www.robinwieruch.de/react-fetching-data/#react-where-fetch-data)
+- [How to fecth data in react-hooks](https://www.robinwieruch.de/react-hooks-fetch-data/)
+- [Lifecycle hooks](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
+- [Immutable.js with React, Redux](https://www.fullstackreact.com/articles/using-immutablejs-with-react-and-redux/)
+- [Context API](https://reactjs.org/docs/context.html)
+- [You don't need DI](https://hackernoon.com/you-dont-need-to-know-dependency-injection-2e9d2ba1978a)
+
 ### State management
 
 - [Redux-thunk alternatives](https://github.com/verekia/js-stack-from-scratch/issues/138#issuecomment-285447602)
