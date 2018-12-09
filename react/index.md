@@ -7,7 +7,7 @@
 - [Using portal api](https://alligator.io/react/using-new-portal-feature-in-react/)
 - [Fiber resources](https://github.com/koba04/react-fiber-resources)
 
-### Structure
+### Architecture
 
 - [Scalable file structure](http://react-file-structure.surge.sh/)
 - [Folder Structure](https://gist.github.com/ryanflorence/daafb1e3cb8ad740b346)
