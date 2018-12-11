@@ -10,6 +10,10 @@
 - [Presentatuin Domain Data layering](https://martinfowler.com/bliki/PresentationDomainDataLayering.html)
 - [Web application horizontal layers](https://gist.github.com/LayZeeDK/e8a312917af9810637dd1330a7ee768c#file-web-application-horizontal-layers-csv)
 
+### UML
+
+- [Exmplanation of UML arrows](https://stackoverflow.com/questions/1874049/explanation-of-the-uml-arrows)
+
 ### Security
 
 - [How to safety store a password](https://codahale.com/how-to-safely-store-a-password/)
