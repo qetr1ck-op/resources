@@ -19,6 +19,7 @@
 - [Design Patterns in Typescript](https://github.com/gztchan/design-patterns-in-typescript)
 - [Dependency Injection in TS](https://nehalist.io/dependency-injection-in-typescript/)
 - [InversifyJS - A powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript](http://inversify.io)
+- [InjectionJS - DI inspired by Angular](https://github.com/mgechev/injection-js)
 
 ### Books
 
