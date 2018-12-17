@@ -45,6 +45,8 @@
 - [Immutable.js with React, Redux](https://www.fullstackreact.com/articles/using-immutablejs-with-react-and-redux/)
 - [Context API is awesome](https://medium.com/dailyjs/reacts-%EF%B8%8F-new-context-api-70c9fe01596b)
 - [You don't need DI](https://hackernoon.com/you-dont-need-to-know-dependency-injection-2e9d2ba1978a)
+- [react-fns, components for common Web APIs](https://react-fns.netlify.com/en/)
+- [react-composer, compose render props components](https://www.npmjs.com/package/react-composer)
 
 ### State management
 
