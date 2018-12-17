@@ -18,15 +18,15 @@
 - [TypeScript Node Starter](https://github.com/Microsoft/TypeScript-Node-Starter)
 - [HMR - hot module replacement](https://github.com/webpack/docs/issues/45#issuecomment-149793458)
 - [HMR api](https://github.com/webpack/docs/wiki/hot-module-replacement)
+- [Everything you need to know about child processes](https://medium.freecodecamp.org/node-js-child-processes-everything-you-need-to-know-e69498fe970a)
+- [Cluster module, usage with HTTP, PM2](http://www.acuriousanimal.com/2017/08/12/understanding-the-nodejs-cluster-module.html)
+- [Awesome stream](https://github.com/thejmazz/awesome-nodejs-streams)
+- [Everything you should to know about stream](https://medium.freecodecamp.org/node-js-streams-everything-you-need-to-know-c9141306be93)
 
 ### Architecture
 
-- [Project structure](https://blog.risingstack.com/node-js-project-structure-tutorial-node-js-at-scale/)
-- [Everything you need to know about child processes](https://medium.freecodecamp.org/node-js-child-processes-everything-you-need-to-know-e69498fe970a)
-- [Cluster module, usage with HTTP, PM2](http://www.acuriousanimal.com/2017/08/12/understanding-the-nodejs-cluster-module.html)
+- [Project Structure](https://github.com/i0natan/nodebestpractices/#1-project-structure-practices)
 - [Scaling strategies](https://medium.freecodecamp.org/scaling-node-js-applications-8492bd8afadc)
-- [Awesome stream](https://github.com/thejmazz/awesome-nodejs-streams)
-- [Everything you should to know about stream](https://medium.freecodecamp.org/node-js-streams-everything-you-need-to-know-c9141306be93)
 
 ### Debugging
 
