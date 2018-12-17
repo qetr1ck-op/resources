@@ -43,7 +43,7 @@
 - [How to fecth data in react-hooks](https://www.robinwieruch.de/react-hooks-fetch-data/)
 - [Lifecycle hooks](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
 - [Immutable.js with React, Redux](https://www.fullstackreact.com/articles/using-immutablejs-with-react-and-redux/)
-- [Context API](https://medium.com/dailyjs/reacts-%EF%B8%8F-new-context-api-70c9fe01596b)
+- [Context API is awesome](https://medium.com/dailyjs/reacts-%EF%B8%8F-new-context-api-70c9fe01596b)
 - [You don't need DI](https://hackernoon.com/you-dont-need-to-know-dependency-injection-2e9d2ba1978a)
 
 ### State management
