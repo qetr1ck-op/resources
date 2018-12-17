@@ -22,6 +22,7 @@
 - [Cluster module, usage with HTTP, PM2](http://www.acuriousanimal.com/2017/08/12/understanding-the-nodejs-cluster-module.html)
 - [Awesome stream](https://github.com/thejmazz/awesome-nodejs-streams)
 - [Everything you should to know about stream](https://medium.freecodecamp.org/node-js-streams-everything-you-need-to-know-c9141306be93)
+- [Asyhc hooks](https://medium.com/autodesk-tlv/async-hooks-a-whole-new-world-of-opportunities-a1a6daf1990a)
 
 ### Architecture
 
