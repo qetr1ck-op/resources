@@ -5,6 +5,7 @@
 ### General
 
 - [Learn CSS variables](https://scrimba.com/g/gcssvariables)
+- [Massonry - cascading grid layout library](https://masonry.desandro.com/)
 
 ### CSS grid
 
@@ -15,6 +16,7 @@
 ### Flexbox
 
 - [Solved by flexbox](https://philipwalton.github.io/solved-by-flexbox/)
-- [Flexbox — The Animated Tutorial](https://medium.com/@js_tut/flexbox-the-animated-tutorial-8075cbe4c1b2)
+- [The Animated Tutorial](https://medium.com/@js_tut/flexbox-the-animated-tutorial-8075cbe4c1b2)
+- [Positioning tips](https://stackoverflow.com/questions/32551291/in-css-flexbox-why-are-there-no-justify-items-and-justify-self-properties)
 
 [Root](/README.md)
