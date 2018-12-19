@@ -10,6 +10,7 @@
 
 - [JS tasks](https://habr.com/post/351874)
 - [Tricky questions](https://habr.com/company/hh/blog/431698/)
+- [Front-End, JS in 18-19](https://blog.webf.zone/front-end-javascript-interviews-in-2018-19-e17b0b10514)
 
 ### NodeJS
 - [7 Hardest Node.js Interview Questions & Answers](https://dev.to/aershov24/7-hardest-nodejs-interview-questions--answers-3lje?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
