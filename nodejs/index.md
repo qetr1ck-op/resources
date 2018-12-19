@@ -23,6 +23,7 @@
 - [Awesome stream](https://github.com/thejmazz/awesome-nodejs-streams)
 - [Everything you should to know about stream](https://medium.freecodecamp.org/node-js-streams-everything-you-need-to-know-c9141306be93)
 - [Asyhc hooks](https://medium.com/autodesk-tlv/async-hooks-a-whole-new-world-of-opportunities-a1a6daf1990a)
+- [Binnary encoding, Streams, Buffers](https://medium.freecodecamp.org/do-you-want-a-better-understanding-of-buffer-in-node-js-check-this-out-2e29de2968e8)
 
 ### Architecture
 
