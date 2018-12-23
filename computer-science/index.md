@@ -10,4 +10,8 @@
 - [Flags and bitmasks](https://stackblitz.com/edit/flags-and-bitmasks?file=index.ts)
 - [Unicode vs UTF](http://qaru.site/questions/16613/whats-the-difference-between-unicode-and-utf-8)
 
+### Learning
+
+- [Youtube chanels](https://habr.com/company/edison/blog/434034)
+
 [Root](/README.md)
