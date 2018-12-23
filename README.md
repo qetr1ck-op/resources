@@ -12,7 +12,7 @@
 - [Networking](networking/index.md)
 - [Alrorithms and data structure](alrorithms/index.md-and-data-structure)
 - [DB](db/index.md)
-- [Computer Science](cs/index.md)
+- [Computer Science](computer-science/index.md)
 - [Arhitecture](architecture/index.md)
 - [Interview](interview/index.md)
 - [Docker](docker/index.md)
