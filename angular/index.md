@@ -18,6 +18,8 @@
   - [Change detection strategy](https://blog.ninja-squad.com/2018/09/27/angular-performances-part-4/)
   - [Pure pipes, attribute decorator, smart-dumb separation](https://blog.ninja-squad.com/2018/10/04/angular-performances-part-5/?utm_campaign=Angular%20Ninja%20Newsletter&utm_medium=email&utm_source=Revue%20newsletter)
   - [Pipes vs function call](https://www.youtube.com/watch?v=I6ZvpdRM1eQ)
+- AOT
+  - [AOT vs JIT](https://stackoverflow.com/questions/45703443/what-is-the-difference-between-angular-aot-and-jit-compiler/45707383#45707383)
 - Dynamic Templates
   - [Everything you need to know about dynamic components](https://blog.angularindepth.com/here-is-what-you-need-to-know-about-dynamic-components-in-angular-ac1e96167f9e)
   - [Dynamic Angular or manipulate it in right way RU](https://habr.com/company/infowatch/blog/330030/)
