@@ -46,6 +46,7 @@
 - [Create the next immutable state by mutating the current one with Immer](https://github.com/mweststrate/immer)
 - [Look at ResizeObserver API](https://alligator.io/js/resize-observer/)
 - [Look at IntersectionObserver API](https://alligator.io/js/intersection-observer/)
+- [Creating and filling Arrays of arbitary length](http://2ality.com/2018/12/creating-arrays.html)
 
 ### Patterns
 
