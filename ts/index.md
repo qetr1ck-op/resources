@@ -13,6 +13,8 @@
 - [External helpers library - tslib](https://blog.mariusschulz.com/2016/12/16/typescript-2-1-external-helpers-library)
 - [Evolition series](https://blog.mariusschulz.com/series/typescript-evolution)]
 - [Generics and Augmentation](https://medium.com/@idandrd/two-advanced-techniques-to-make-you-a-typescript-wizard-df42e00b1cf8)
+- [Decorators & metadata reflection in TypeScript: From Novice to Expert](http://blog.wolksoftware.com/decorators-reflection-javascript-typescript)
+- [Decorators for Declarative and Readable code](https://blog.mgechev.com/2018/01/29/javascript-decorators-aop-autobind-memoization/)
 
 ### Patterns
 
@@ -20,7 +22,6 @@
 - [Dependency Injection in TS](https://nehalist.io/dependency-injection-in-typescript/)
 - [InversifyJS - A powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript](http://inversify.io)
 - [InjectionJS - DI inspired by Angular](https://github.com/mgechev/injection-js)
-- [Decorators for Declarative and Readable code](https://blog.mgechev.com/2018/01/29/javascript-decorators-aop-autobind-memoization/)
 
 ### Books
 
