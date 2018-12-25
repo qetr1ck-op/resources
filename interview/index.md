@@ -14,6 +14,7 @@
 
 ### NodeJS
 - [7 Hardest Node.js Interview Questions & Answers](https://dev.to/aershov24/7-hardest-nodejs-interview-questions--answers-3lje?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+- [10 questions which are hard to answer right](https://habr.com/company/ruvds/blog/341646/comments/)
 
 ### Angular
 
