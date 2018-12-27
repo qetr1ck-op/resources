@@ -38,12 +38,11 @@
 
 ### Data layer
 
-- [Lifecycle hooks]
+- Lifecycle hooks
   - [Diagram](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
   - [You probably don't need a derived state](https://reactjs.org/blog/2018/06/07/you-probably-dont-need-derived-state.html#recommendation-fully-controlled-component)
 - [How to fetch data](https://www.robinwieruch.de/react-fetching-data/#react-where-fetch-data)
 - [How to fecth data in react-hooks](https://www.robinwieruch.de/react-hooks-fetch-data/)
-
 - [Immutable.js with React, Redux](https://www.fullstackreact.com/articles/using-immutablejs-with-react-and-redux/)
 - [Context API is awesome](https://medium.com/dailyjs/reacts-%EF%B8%8F-new-context-api-70c9fe01596b)
 - [You don't need DI](https://hackernoon.com/you-dont-need-to-know-dependency-injection-2e9d2ba1978a)
