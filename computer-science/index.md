@@ -9,6 +9,7 @@
 - [The Mistakes I Made As a Beginner Programmer](https://medium.com/@samerbuna/the-mistakes-i-made-as-a-beginner-programmer-ac8b3e54c312)
 - [Flags and bitmasks](https://stackblitz.com/edit/flags-and-bitmasks?file=index.ts)
 - [Unicode vs UTF](http://qaru.site/questions/16613/whats-the-difference-between-unicode-and-utf-8)
+- [Why code review](https://sophiebits.com/2018/12/25/why-review-code.html?utm_source=ponyfoo+weekly&utm_medium=email&utm_campaign=147)
 
 ### Learning
 
