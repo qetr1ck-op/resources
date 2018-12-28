@@ -6,6 +6,7 @@
 
 - [Using portal api](https://alligator.io/react/using-new-portal-feature-in-react/)
 - [Fiber resources](https://github.com/koba04/react-fiber-resources)
+- [jsx-no-lambda rule explanation](https://github.com/facebook/create-react-app/issues/4801#issuecomment-409553780)
 
 ### Architecture
 
