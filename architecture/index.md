@@ -14,6 +14,11 @@
 
 - [Exmplanation of UML arrows](https://stackoverflow.com/questions/1874049/explanation-of-the-uml-arrows)
 
+### Design patterns
+
+- [OO Design](https://www.oodesign.com/design-principles.html)
+- [Design Patterns Video Tutorial](https://www.youtube.com/playlist?list=PLF206E906175C7E07)
+
 ### Security
 
 - [How to safety store a password](https://codahale.com/how-to-safely-store-a-password/)
