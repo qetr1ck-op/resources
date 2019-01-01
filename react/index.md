@@ -22,7 +22,7 @@
 - [Emotion](https://emotion.sh/docs/introduction)
 - [Skeleton screens](https://alligator.io/react/skeleton-screens-react-and-react-native/)
 
-### Patterns
+### 💡Patterns
 
 - [A compilation of patterns, anti-patterns, tips and tricks](https://github.com/vasanthk/react-bits)
 - [How to pass properties to props.children](https://stackoverflow.com/questions/32370994/how-to-pass-props-to-this-props-children)
@@ -31,6 +31,7 @@
 - [8 no-flux patterns for component to component communication](https://www.javascriptstuff.com/component-communication/)
 - [Using function instead of object in setState](https://medium.com/@wisecobbler/using-a-function-in-setstate-instead-of-an-object-1f5cfd6e55d1)
 - [8 conditional rendering methods](https://blog.logrocket.com/conditional-rendering-in-react-c6b0e5af381e)
+- [Dropdown creating](https://codedaily.io/tutorials/63/Create-a-Dropdown-in-React-that-Closes-When-the-Body-is-Clicked)
 - Kent Donts - advanced patterns
   - [Workshop](https://codesandbox.io/s/github/kentcdodds/advanced-react-patterns-v2)
   - [Blog post](https://blog.kentcdodds.com/advanced-react-component-patterns-56af2b74bc5f)
