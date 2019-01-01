@@ -11,6 +11,11 @@
 - [Unicode vs UTF](http://qaru.site/questions/16613/whats-the-difference-between-unicode-and-utf-8)
 - [Why code review](https://sophiebits.com/2018/12/25/why-review-code.html?utm_source=ponyfoo+weekly&utm_medium=email&utm_campaign=147)
 
+### Practice Time
+
+- [Codingame](https://www.codingame.com/start)
+- [Free platforms to play with code](https://habr.com/company/hexlet/blog/434786/)
+
 ### Learning
 
 - [Youtube chanels](https://habr.com/company/edison/blog/434034)
