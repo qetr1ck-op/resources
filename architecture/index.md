@@ -48,12 +48,12 @@
 - [CORS and API Gateway survival guide](https://serverless.com/blog/cors-api-gateway-survival-guide/)
 - [middy - middleware for aws lambda](https://middy.js.org/)
 
-### 🏋️Interview
+### 🏋️ Interview
 
 - [Learn how to design large-scale systems. Prep for the system design interview](https://github.com/donnemartin/system-design-primer#object-oriented-design-interview-questions-with-solutions)
 - [Searies of Senior is seeking for a job](https://dou.ua/lenta/articles/job-for-senior-4)
 
-### Books
+### 📚 Books
 
 - [Three best books about software arhitecture](https://proglib.io/p/computer-architecture-books/)
 
