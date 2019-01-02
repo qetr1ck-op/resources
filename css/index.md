@@ -7,8 +7,9 @@
 - [Learn CSS variables](https://scrimba.com/g/gcssvariables)
 - [Massonry - cascading grid layout library](https://masonry.desandro.com/)
 
-### CSS grid
+### CSS Grid
 
+- [Question deciding between flexbox or css-grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Relationship_of_Grid_Layout#The_same_layout_with_CSS_grids)
 - [Why CSS grid is better than Bootstrap for cerating layout](https://hackernoon.com/how-css-grid-beats-bootstrap-85d5881cf163)
 - [Learn CSS grid](https://scrimba.com/g/gR8PTE)
 
