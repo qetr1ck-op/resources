@@ -69,6 +69,7 @@
 - [Maybe you don't need moment.js](https://github.com/you-dont-need/You-Dont-Need-Momentjs)
 - [Stampit - create objects from reusable, composable behaviors](https://github.com/stampit-org/stampit)
 - [Async await wrapper to better handling exception](https://github.com/scopsy/await-to-js)
+- [Dumper.js - A better and pretty variable inspector for your Node.js applications](https://github.com/ziishaned/dumper.js)
 
 ### Tests
 
