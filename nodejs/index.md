@@ -14,6 +14,7 @@
 - [Using CSI (client-side-include) instead of SSI (server-side-includes)](https://www.techrepublic.com/article/using-client-side-includes-instead-of-server-side-includes/)
 - [Top 10 frameworks in 2018](https://da-14.com/blog/10-best-nodejs-frameworks)
 - [Choose framework based on category](http://nodeframework.com/)
+- [Stix.js - A module-based, TypeScript-first Node.js framework](https://stixjs.io/)
 - [Load balancing performance: comparing cluster module, iptables, Nginx](https://medium.com/@fermads/node-js-process-load-balancing-comparing-cluster-iptables-and-nginx-6746aaf38272)
 - [TypeScript Node Starter](https://github.com/Microsoft/TypeScript-Node-Starter)
 - [HMR - hot module replacement](https://github.com/webpack/docs/issues/45#issuecomment-149793458)
