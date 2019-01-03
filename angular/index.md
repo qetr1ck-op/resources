@@ -87,9 +87,10 @@
 
 - [Security with DOMSanitizer service](https://netbasal.com/angular-2-security-the-domsanitizer-service-2202c83bd90)
 
-### Perforamce
+### 🚀 Perforamce
 
 - [44 tips to tune the performance](https://medium.com/@spp020/44-quick-tips-to-fine-tune-angular-performance-9f5768f5d945)
+- [Angular performance checklist](https://github.com/mgechev/angular-performance-checklist)
 
 ### Migration from AngularJS
 
