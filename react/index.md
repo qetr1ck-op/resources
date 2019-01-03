@@ -67,4 +67,8 @@
 
 - [Checklist to eliminate common performance issues](https://logrocket-blog.ghost.io/death-by-a-thousand-cuts-a-checklist-for-eliminating-common-react-performance-issues)
 
+### Testing
+
+- [Frameworks](https://reactjs.org/community/testing.html)
+
 [Root](/README.md)
