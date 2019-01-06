@@ -8,6 +8,7 @@
 - [Rxjs](/rxjs/index.md)
 - [CSS](/css/index.md)
 - [HTML](html/index.md)
+- [Python](python/index.md)
 - [Git](git/index.md)
 - [Networking](networking/index.md)
 - [Alrorithms and data structure](alrorithms/index.md-and-data-structure)
