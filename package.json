@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/qetr1ck-op/resources#readme",
   "devDependencies": {
-    "markdown-toc": "^1.2.0"
+    "markdown-toc": "^1.2.0",
+    "prettier": "^1.15.3"
   }
 }
