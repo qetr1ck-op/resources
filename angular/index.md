@@ -6,34 +6,32 @@
 
 #### 🔬 API
 
-- [@Attribute decorator](https://netbasal.com/getting-to-know-the-attribute-decorator-in-angular-4f7c9fb61243)
-- [Possible parameters for @HostBinding and @HostListener decorators](http://stepansuvorov.com/blog/2017/01/angular2-possible-parameters-for-hostbinding-and-hostlistener-decorators/)
-- [Angular DOM abstractions: ElementRef, TemplateRef, ViewContainerRef](https://blog.angularindepth.com/exploring-angular-dom-abstractions-80b3ebcfc02)
-- [Understanding ViewChildren, ContentChildren, and QueryList](https://netbasal.com/understanding-viewchildren-contentchildren-and-querylist-in-angular-896b0c689f6e)
-- [ng-content: The hidden docs](https://medium.com/claritydesignsystem/ng-content-the-hidden-docs-96a29d70d11b)
+- [`@Attribute` decorator](https://netbasal.com/getting-to-know-the-attribute-decorator-in-angular-4f7c9fb61243)
+- [Possible parameters for `@HostBinding` and `@HostListener` decorators](http://stepansuvorov.com/blog/2017/01/angular2-possible-parameters-for-hostbinding-and-hostlistener-decorators/)
+- [Angular DOM abstractions: `ElementRef`, `TemplateRef`, `ViewContainerRef`](https://blog.angularindepth.com/exploring-angular-dom-abstractions-80b3ebcfc02)
+- [Understanding `ViewChildren`, `ContentChildren`, and `QueryList`](https://netbasal.com/understanding-viewchildren-contentchildren-and-querylist-in-angular-896b0c689f6e)
+- [`ng-content`: The hidden docs](https://medium.com/claritydesignsystem/ng-content-the-hidden-docs-96a29d70d11b)
 
 #### 🏰 Routing
 
-- [Dynamic guard redirects with route data and CanActivate](http://www.kirjai.com/dynamic-guard-redirects-angular/)
-- [Lazy Loading Angular - Code Splitting NgModules with Webpack](https://toddmotto.com/lazy-loading-angular-code-splitting-webpack)
+- [Dynamic guard redirects with route data and `CanActivate`](http://www.kirjai.com/dynamic-guard-redirects-angular/)
+- [Lazy Loading Angular - Code Splitting `NgModules` with `Webpack`](https://toddmotto.com/lazy-loading-angular-code-splitting-webpack)
 
 #### 🥋 Change detection
 
 - [These articles will make you an Angular Change Detection expert](https://blog.angularindepth.com/these-5-articles-will-make-you-an-angular-change-detection-expert-ed530d28930)
 - [What every frond-end developer should know about change detection in Angular and React](https://medium.freecodecamp.org/what-every-front-end-developer-should-know-about-change-detection-in-angular-and-react-508f83f58c6a)
 - [Triggering change detection manually in Angular](https://stackoverflow.com/questions/34827334/triggering-change-detection-manually-in-angular)
-- [A Comprehensive Guide to Angular onPush Change Detection Strategy](https://netbasal.com/a-comprehensive-guide-to-angular-onpush-change-detection-strategy-5bac493074a4)
+- [A Comprehensive Guide to Angular `onPush` Change Detection Strategy](https://netbasal.com/a-comprehensive-guide-to-angular-onpush-change-detection-strategy-5bac493074a4)
 - [Pure pipes, attribute decorator, smart-dumb separation](https://blog.ninja-squad.com/2018/10/04/angular-performances-part-5/?utm_campaign=Angular%20Ninja%20Newsletter&utm_medium=email&utm_source=Revue%20newsletter)
 - [Pipes vs function call](https://www.youtube.com/watch?v=I6ZvpdRM1eQ)
 
 #### 👔 Forms
 
-- [Using ControlValueAccessor to create custom form controls in Angular](https://stackblitz.com/edit/control-value-anccessor?file=app%2Frating-input-accessor%2Findex.ts)
+- [Using `ControlValueAccessor` to create custom form controls in Angular](https://stackblitz.com/edit/control-value-anccessor?file=app%2Frating-input-accessor%2Findex.ts)
 - [Dynamic reactive forms](https://stackblitz.com/edit/angular-fjvd2x?file=app%2Fdynamic-form%2Fdynamic-form.component.ts)
 - [Forms in v5, custom controls, nested forms strategies](https://www.youtube.com/watch?v=CD_t3m2WMM8)
-- [Attribute Directives with injecting ngControl ❤ Angular Forms](https://netbasal.com/attribute-directives-angular-forms-b40503643089)
-- [Custom validation, inspired by jQuery validation](https://github.com/yuyang041060120/ng2-validation#readme)
-- [ngx-errors, a declarative validation errors module for reactive forms](https://github.com/UltimateAngular/ngx-errors)
+- [Attribute Directives with injecting `ngControl` ❤ Angular Forms](https://netbasal.com/attribute-directives-angular-forms-b40503643089)
 
 #### 🤼‍♂️ AOT
 
@@ -43,20 +41,20 @@
 
 - [Everything you need to know about dynamic components](https://blog.angularindepth.com/here-is-what-you-need-to-know-about-dynamic-components-in-angular-ac1e96167f9e)
 - [Dynamic Angular or manipulate it in right way RU](https://habr.com/company/infowatch/blog/330030/)
-- [Dynamic template in component, or alternative for ng1.\$compile](https://stackoverflow.com/questions/38888008/how-can-i-use-create-dynamic-template-to-compile-dynamic-component-with-angular)
+- [Dynamic template in component, or alternative for `ng1.$compile`](https://stackoverflow.com/questions/38888008/how-can-i-use-create-dynamic-template-to-compile-dynamic-component-with-angular)
 - [Dynamic tooltips](https://stackblitz.com/edit/dynamically-create-tooltip-angular?file=app/tooltip/tooltip.directive.ts)
 - [Content projection, dialog example](http://blog.ng-book.com/dynamic-components-with-content-projection-in-angular)
 
 #### 📲 Custom Elements
 
-- [ng-conf intro](https://www.youtube.com/watch?v=Z1gLFPLVJjY)
+- [`ng-conf` intro](https://www.youtube.com/watch?v=Z1gLFPLVJjY)
 - [tutorial video](https://www.academind.com/learn/angular/snippets/angular-elements-tutorial-introduction/)
 - [tutorial + demo](https://nitayneeman.com/posts/a-practical-guide-to-angular-elements/)
 - [build flow](https://medium.com/codingthesmartway-com-blog/angular-elements-a-practical-introduction-to-web-components-with-angular-6-52c0b3076c2c)
 
 #### 👷‍♂️ Migration from AngularJS
 
-- [Bullet proof AngularJS migration using iframes](https://codecraft.tv/blog/2017/09/07/angularjs-to-angular-using-iframes/)
+- [Bullet proof AngularJS migration using iframe](https://codecraft.tv/blog/2017/09/07/angularjs-to-angular-using-iframes/)
 - [2 New Tools to help with AngularJS to Angular Migrations](https://blog.angular.io/migrating-to-angular-fc9618d6fb04)
 
 ## 💡 Patterns / Best Practice
@@ -73,8 +71,8 @@
 
 #### 🚦 State management
 
-- [Comprehensive Introduction to ngrx/store](https://gist.github.com/btroncone/a6e4347326749f938510)
-- [ngrx-store-effects course](https://platform.ultimateangular.com/courses/ngrx-store-effects)
+- [Comprehensive Introduction to `ngrx/store`](https://gist.github.com/btroncone/a6e4347326749f938510)
+- [`ngrx-store-effects` course](https://platform.ultimateangular.com/courses/ngrx-store-effects)
 
 #### 📦 Dependency Injection
 
@@ -83,7 +81,7 @@
 #### 🤘🏻 Observables
 
 - [Typical use case of observables](https://habrahabr.ru/post/337512/)
-- [Example application utilizing @ngrx libraries, showcasing common patterns and best practices](https://github.com/ngrx/platform/tree/master/example-app)
+- [Example application utilizing `@ngrx` libraries, showcasing common patterns and best practices](https://github.com/ngrx/platform/tree/master/example-app)
 
 #### 💼 Architecture / Structure
 
@@ -112,6 +110,10 @@
 
 - [44 tips to tune the performance](https://medium.com/@spp020/44-quick-tips-to-fine-tune-angular-performance-9f5768f5d945)
 - [Angular performance checklist](https://github.com/mgechev/angular-performance-checklist)
+
+## 🔭 Libs
+- [`ng2-validation`, inspired by jQuery validation](https://github.com/yuyang041060120/ng2-validation#readme)
+- [`ngx-errors`, a declarative validation errors module for reactive forms](https://github.com/UltimateAngular/ngx-errors)
 
 ## 📚 Learning
 
