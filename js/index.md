@@ -99,12 +99,18 @@
 - [Introduction](https://www.webcomponents.org/introduction)
 - [About web components RU](https://habr.com/post/422499/)
 
-### Books
+## 📚 Learning
+
+#### 🖇 Books
 
 - [clean-code-javascript - Software engineering principles, from Robert C. Martin's book Clean Code](https://github.com/ryanmcdermott/clean-code-javascript)
 - [JavaScript Allongé](https://leanpub.com/javascriptallongesix)
 - [Functional Light FP](https://github.com/getify/Functional-Light-JS/blob/master/manuscript/README.md/#table-of-contents)
 - [The power of serverless for FE developer](https://thepowerofserverless.info)
 - [Front-End Developer Handbook 2018](https://frontendmasters.gitbooks.io/front-end-developer-handbook-2018/)
+
+#### 📹 Video
+
+- [100 lectures (ru)](https://habr.com/post/434686/)
 
 [Root](/README.md)
