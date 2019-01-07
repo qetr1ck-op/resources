@@ -48,6 +48,7 @@
 - [Look at IntersectionObserver API](https://alligator.io/js/intersection-observer/)
 - [Creating and filling Arrays of arbitary length](http://2ality.com/2018/12/creating-arrays.html)
 - [jsonstore.io](https://github.com/bluzi/jsonstore/blob/master/README.md)
+- [Creating and triggering event with `dispatch(new Event)`](https://developer.mozilla.org/en-US/docs/Web/Guide/Events/Creating_and_triggering_events)
 
 ### Patterns
 
