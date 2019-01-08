@@ -46,6 +46,11 @@
 - [CQRS explained](https://blog.risingstack.com/cqrs-explained-node-js-at-scale/)
 - [Implement JWT authentication](https://dev.to/adnanrahic/securing-nodejs-restful-apis-with-json-web-tokens)
 
+## Libs
+
+- [Swagger - definition, components, approaches, libs, adding to existing nodejs project, alternatives](https://blog.cloudboost.io/adding-swagger-to-existing-node-js-project-92a6624b855b)
+
+
 ### Books
 
 - [Playlist UA](https://www.youtube.com/playlist?list=PLHhi8ymDMrQZmXEqIIlq2S9-Ibh9b_-rQ)
