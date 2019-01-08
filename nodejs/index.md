@@ -49,7 +49,7 @@
 ## Libs
 
 - [Swagger - definition, components, approaches, libs, adding to existing nodejs project, alternatives](https://blog.cloudboost.io/adding-swagger-to-existing-node-js-project-92a6624b855b)
-
+- [Swagger auto documentation generation](https://stackoverflow.com/questions/31300756/can-swagger-autogenerate-its-yaml-based-on-existing-express-routes)
 
 ### Books
 
