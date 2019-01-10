@@ -2,36 +2,46 @@
 
 # JS
 
-### General
+## 🛠 General
 
-- [Awesome JS](https://github.com/sorrycc/awesome-javascript)
-- How Javascript works
-  - [How Javascript works RU](https://habr.com/company/ruvds/blog/337042/)
-  - [An overview of engine, the runtime and callstack](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf)
-  - [Inside of V8 + 5 tips how to write an optimized code](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e)
-  - [Memory manedgment + how to hanle 4 common memory leaks](https://blog.sessionstack.com/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks-3f28b94cfbec)
-  - [Event loop and the rise of async programming + 5 ways to better codding with async/await](https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5)
-    - [Asynchronous under the hoood RU](https://habr.com/company/oleg-bunin/blog/417461/)
-    - [JavaScript Symbols, Iterators, Generators, Async/Await, and Async Iterators — All Explained Simply (rus)](https://habr.com/company/ruvds/blog/359004)
-    - [Lops — how to handle async/await](https://blog.lavrton.com/javascript-loops-how-to-handle-async-await-6252dd3c795)
-  - [Deep dive into websockets and HTTP2 with SSE + how to pick the right pass](https://blog.sessionstack.com/how-javascript-works-deep-dive-into-websockets-and-http-2-with-sse-how-to-pick-the-right-path-584e6b8e3bf7)
-  - [A comparison with WebAssable + why in certain cases it's better over Javascript](https://blog.sessionstack.com/how-javascript-works-a-comparison-with-webassembly-why-in-certain-cases-its-better-to-use-it-d80945172d79)
-  - [The building blocks of Web Workers + 5 use cases when you shoud use them](https://blog.sessionstack.com/how-javascript-works-the-building-blocks-of-web-workers-5-cases-when-you-should-use-them-a547c0757f6a)
-  - [Service Worker, their lifestyle and use cases](https://blog.sessionstack.com/how-javascript-works-service-workers-their-life-cycle-and-use-cases-52b19ad98b58)
-  - [The mechanizm of Web push notification](https://blog.sessionstack.com/how-javascript-works-the-mechanics-of-web-push-notifications-290176c5c55d)
-  - [Tracking changes in DOM using MutationObserver](https://blog.sessionstack.com/how-javascript-works-tracking-changes-in-the-dom-using-mutationobserver-86adc7446401)
-  - [The rendering engine and tips to optimize its performance](https://blog.sessionstack.com/how-javascript-works-the-rendering-engine-and-tips-to-optimize-its-performance-7b95553baeda)
-  - [Inside of Networing layer + how to optimize its performance and security](https://blog.sessionstack.com/how-javascript-works-inside-the-networking-layer-how-to-optimize-its-performance-and-security-f71b7414d34c)
-  - [Under the hood of CSS and Javascript animation + how to optimize their performance](https://blog.sessionstack.com/how-javascript-works-under-the-hood-of-css-and-js-animations-how-to-optimize-their-performance-db0e79586216)
-  - [Storage engine + how to choose the proper storage API](https://blog.sessionstack.com/how-javascript-works-storage-engines-how-to-choose-the-proper-storage-api-da50879ef576)
-  - [The internals of shadow DOM + how to build a self contained component](https://blog.sessionstack.com/how-javascript-works-the-internals-of-shadow-dom-how-to-build-self-contained-components-244331c4de6e)
-  - [WebRTC and the mechanics of peer to peer networking](https://blog.sessionstack.com/how-javascript-works-webrtc-and-the-mechanics-of-peer-to-peer-connectivity-87cc56c1d0ab)
+#### 🔬 API
+
 - [33 concepts every JS developer should know](https://github.com/leonardomso/33-js-concepts)
-- [Best of JS - most popular open source projects](https://bestofjs.org/)
-- [30 seconds of code](https://github.com/30-seconds/30-seconds-of-code#table-of-contents)
+- [30 seconds of code - Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less](https://github.com/30-seconds/30-seconds-of-code#table-of-contents)
 - [What the f\*ck JavaScript?](https://github.com/denysdovhan/wtfjs)
+
+#### 🎮 Series of How Javascript works
+
+- [How Javascript works (ru)](https://habr.com/company/ruvds/blog/337042/)
+- [An overview of engine, the runtime and call stack](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf)
+- [Inside of V8 + 5 tips how to write an optimized code](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e)
+- [Memory management + how to handle 4 common memory leaks](https://blog.sessionstack.com/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks-3f28b94cfbec)
+- [Event loop and the rise of async programming + 5 ways to better codding with async/await](https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5)
+- [Deep dive into web-sockets and HTTP2 with SSE + how to pick the right pass](https://blog.sessionstack.com/how-javascript-works-deep-dive-into-websockets-and-http-2-with-sse-how-to-pick-the-right-path-584e6b8e3bf7)
+- [A comparison with WebAssemble + why in certain cases it's better over Javascript](https://blog.sessionstack.com/how-javascript-works-a-comparison-with-webassembly-why-in-certain-cases-its-better-to-use-it-d80945172d79)
+- [The building blocks of Web Workers + 5 use cases when you shoud use them](https://blog.sessionstack.com/how-javascript-works-the-building-blocks-of-web-workers-5-cases-when-you-should-use-them-a547c0757f6a)
+- [Service Worker, their lifestyle and use cases](https://blog.sessionstack.com/how-javascript-works-service-workers-their-life-cycle-and-use-cases-52b19ad98b58)
+- [The mechanism of Web push notification](https://blog.sessionstack.com/how-javascript-works-the-mechanics-of-web-push-notifications-290176c5c55d)
+- [Tracking changes in DOM using MutationObserver](https://blog.sessionstack.com/how-javascript-works-tracking-changes-in-the-dom-using-mutationobserver-86adc7446401)
+- [The rendering engine and tips to optimize its performance](https://blog.sessionstack.com/how-javascript-works-the-rendering-engine-and-tips-to-optimize-its-performance-7b95553baeda)
+- [Inside of Networking layer + how to optimize its performance and security](https://blog.sessionstack.com/how-javascript-works-inside-the-networking-layer-how-to-optimize-its-performance-and-security-f71b7414d34c)
+- [Under the hood of CSS and Javascript animation + how to optimize their performance](https://blog.sessionstack.com/how-javascript-works-under-the-hood-of-css-and-js-animations-how-to-optimize-their-performance-db0e79586216)
+- [The internals of classes and inheritance + transpiling in Babel and TypeScript](https://blog.sessionstack.com/how-javascript-works-the-internals-of-classes-and-inheritance-transpiling-in-babel-and-113612cdc220)
+- [Parsing, Abstract Syntax Trees (ASTs) + 5 tips on how to minimize parse time](https://blog.sessionstack.com/how-javascript-works-parsing-abstract-syntax-trees-asts-5-tips-on-how-to-minimize-parse-time-abfcf7e8a0c8)
+- [Storage engine + how to choose the proper storage API](https://blog.sessionstack.com/how-javascript-works-storage-engines-how-to-choose-the-proper-storage-api-da50879ef576)
+- [The internals of shadow DOM + how to build a self contained component](https://blog.sessionstack.com/how-javascript-works-the-internals-of-shadow-dom-how-to-build-self-contained-components-244331c4de6e)
+- [WebRTC and the mechanics of peer to peer networking](https://blog.sessionstack.com/how-javascript-works-webrtc-and-the-mechanics-of-peer-to-peer-connectivity-87cc56c1d0ab)
+- [Under the hood of custom elements + Best practices on building reusable components](https://blog.sessionstack.com/how-javascript-works-under-the-hood-of-custom-elements-best-practices-on-building-reusable-e118e888de0c)
+
+#### 🏃‍♂️ Async Model
+
+- [Asynchronous under the hood RU](https://habr.com/company/oleg-bunin/blog/417461/)
+- [JavaScript Symbols, Iterators, Generators, Async/Await, and Async Iterators — All Explained Simply (rus)](https://habr.com/company/ruvds/blog/359004)
+- [Lops — how to handle async/await](https://blog.lavrton.com/javascript-loops-how-to-handle-async-await-6252dd3c795)
+
+#### TODO
+
 - [Full Stack JS Engineer diagram](https://coggle.it/diagram/WmRp9Hic2QABp8X1/t/full-stack-javascript-engineer)
-- [JS the right way](http://jstherightway.org)
 - [JAMstack - architecture based on client-side JavaScript, APIs, prebuilt Markup](https://jamstack.org/)
 - [Awesome Static Web Site Generators](https://github.com/myles/awesome-static-generators)
 - [Preload Images with Pure Javascript](https://blog.lovemily.me/preload-images-with-pure-javascript/)
@@ -49,6 +59,10 @@
 - [Creating and filling Arrays of arbitary length](http://2ality.com/2018/12/creating-arrays.html)
 - [jsonstore.io](https://github.com/bluzi/jsonstore/blob/master/README.md)
 - [Creating and triggering event with `dispatch(new Event)`](https://developer.mozilla.org/en-US/docs/Web/Guide/Events/Creating_and_triggering_events)
+
+## 🔭 Libs
+
+- [Best of JS - most popular open source projects](https://bestofjs.org/)
 
 ### Patterns
 
