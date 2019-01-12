@@ -27,6 +27,7 @@
 - [Bcrypt and password secutrity](https://www.youtube.com/watch?v=O6cmuiTBZVs)
 - [OAuth flow diagram](https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2)
 - [OpenID vs OAuth](https://stackoverflow.com/questions/1087031/whats-the-difference-between-openid-and-oauth)
+- [Learn how to use JSON Web Tokens (JWT) for Authentication](https://github.com/dwyl/learn-json-web-tokens/blob/master/README.md)
 - [JWT vs OAuth](https://stackoverflow.com/questions/39909419/jwt-vs-oauth-authentication)
 - [JWT vs cookies](https://stackoverflow.com/questions/37582444/jwt-vs-cookies-for-token-based-authentication)
 
