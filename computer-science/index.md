@@ -16,7 +16,13 @@
 - [Codingame](https://www.codingame.com/start)
 - [Free platforms to play with code](https://habr.com/company/hexlet/blog/434786/)
 
-### Learning
+## 📚 Learning
+
+#### 🖇  Books
+
+- [Developer Roadmap - Roadmap to becoming a Web Developer in 2019](https://github.com/kamranahmedse/developer-roadmap/blob/master/readme.md)
+
+#### 📹 Video
 
 - [Youtube chanels](https://habr.com/company/edison/blog/434034)
 
