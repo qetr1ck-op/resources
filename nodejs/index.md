@@ -51,6 +51,8 @@
 - [Swagger - definition, components, approaches, libs, adding to existing nodejs project, alternatives](https://blog.cloudboost.io/adding-swagger-to-existing-node-js-project-92a6624b855b)
 - [Swagger auto documentation generation](https://stackoverflow.com/questions/31300756/can-swagger-autogenerate-its-yaml-based-on-existing-express-routes)
 - [node-source-map-support - provides source map support for stack traces in node via the V8 stack trace API](https://github.com/evanw/node-source-map-support#readme)
+- [Dumper.js - A better and pretty variable inspector for your Node.js applications](https://github.com/ziishaned/dumper.js)
+
 
 ### Books
 
