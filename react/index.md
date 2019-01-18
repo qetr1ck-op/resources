@@ -58,6 +58,7 @@
 - [React state management in 2018](https://dev.to/jpnelson/the-state-of-the-state-react-state-management-in-2018-2l0c)
 - [How GraphQL replace Redux](https://hackernoon.com/how-graphql-replaces-redux-3fff8289221d)
 - [How to get simple dispatch from this.props using connect with Redux?](https://stackoverflow.com/questions/34458261/how-to-get-simple-dispatch-from-this-props-using-connect-w-redux)
+- [What is the right way to do asynchronous operations in Redux? The comparising table](https://decembersoft.com/posts/what-is-the-right-way-to-do-asynchronous-operations-in-redux/)
 
 #### 🧨 Performance
 
