@@ -6,6 +6,7 @@
 
 - [Learn CSS variables](https://scrimba.com/g/gcssvariables)
 - [Massonry - cascading grid layout library](https://masonry.desandro.com/)
+- [Optimistic UIs in under 1000 words](https://uxplanet.org/optimistic-1000-34d9eefe4c05)
 
 ### CSS Grid
 
