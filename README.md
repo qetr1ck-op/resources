@@ -5,6 +5,7 @@
 - [Node.js](/nodejs/index.md)
 - [Angular](/angular/index.md)
 - [React](/react/index.md)
+- [Vue](/vue/index.md)
 - [Rxjs](/rxjs/index.md)
 - [CSS](/css/index.md)
 - [HTML](html/index.md)
