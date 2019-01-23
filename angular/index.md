@@ -8,7 +8,7 @@
 
 - [`@Attribute` decorator](https://netbasal.com/getting-to-know-the-attribute-decorator-in-angular-4f7c9fb61243)
 - [Possible parameters for `@HostBinding` and `@HostListener` decorators](http://stepansuvorov.com/blog/2017/01/angular2-possible-parameters-for-hostbinding-and-hostlistener-decorators/)
-- [Angular DOM abstractions: `ElementRef`, `TemplateRef`, `ViewContainerRef`](https://blog.angularindepth.com/exploring-angular-dom-abstractions-80b3ebcfc02)
+- [Angular DOM manipulation techniques using: `ElementRef`, `TemplateRef`, `ViewContainerRef`](https://blog.angularindepth.com/exploring-angular-dom-abstractions-80b3ebcfc02)
 - [Understanding `ViewChildren`, `ContentChildren`, and `QueryList`](https://netbasal.com/understanding-viewchildren-contentchildren-and-querylist-in-angular-896b0c689f6e)
 - [`ng-content`: The hidden docs](https://medium.com/claritydesignsystem/ng-content-the-hidden-docs-96a29d70d11b)
 - [Understanding Ivy: Incremental DOM vs Virtual DOM](https://blog.nrwl.io/understanding-angular-ivy-incremental-dom-and-virtual-dom-243be844bf36)
