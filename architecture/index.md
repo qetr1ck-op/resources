@@ -10,6 +10,7 @@
 - [Presentatuin Domain Data layering](https://martinfowler.com/bliki/PresentationDomainDataLayering.html)
 - [Web application horizontal layers](https://gist.github.com/LayZeeDK/e8a312917af9810637dd1330a7ee768c#file-web-application-horizontal-layers-csv)
 - [Project Guidelines - A set of best practices for JavaScript projects](https://github.com/elsewhencode/project-guidelines)
+- [Implementation planning (UKR)](https://dou.ua/lenta/articles/making-implementation-plan/)
 
 ### UML
 
