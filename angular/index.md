@@ -33,6 +33,7 @@
 - [Dynamic reactive forms](https://stackblitz.com/edit/angular-fjvd2x?file=app%2Fdynamic-form%2Fdynamic-form.component.ts)
 - [Forms in v5, custom controls, nested forms strategies](https://www.youtube.com/watch?v=CD_t3m2WMM8)
 - [Attribute Directives with injecting `ngControl` ❤ Angular Forms](https://netbasal.com/attribute-directives-angular-forms-b40503643089)
+- [Make Your Angular Form’s Error Messages Magically Appear](https://netbasal.com/make-your-angular-forms-error-messages-magically-appear-1e32350b7fa5)
 
 #### 🤼‍♂️ AOT
 
