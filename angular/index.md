@@ -78,6 +78,7 @@
 #### 📦 Dependency Injection
 
 - [What problem DI solves; How Angular DI works; What are injector and child injectors; Types of providers; @Inject and @Injectable](https://codecraft.tv/courses/angular/dependency-injection-and-providers/overview)
+- [Tree-shakable Dependencies in Angular Projects with `provideIn`](https://blog.angularindepth.com/tree-shakable-dependencies-in-angular-projects-5aaa7012b9e7)
 
 #### 🤘🏻 Observables
 
