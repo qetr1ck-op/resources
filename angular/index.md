@@ -74,6 +74,7 @@
 
 - [Comprehensive Introduction to `ngrx/store`](https://gist.github.com/btroncone/a6e4347326749f938510)
 - [`ngrx-store-effects` course](https://platform.ultimateangular.com/courses/ngrx-store-effects)
+- [Where to initiate data load in NgRx with `dispatch`](https://dev.to/jonrimmer/where-to-initiate-data-load-in-ngrx-358l)
 
 #### 📦 Dependency Injection
 
