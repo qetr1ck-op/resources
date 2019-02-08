@@ -22,6 +22,10 @@
 - [OO Design](https://www.oodesign.com/design-principles.html)
 - [Design Patterns Video Tutorial](https://www.youtube.com/playlist?list=PLF206E906175C7E07)
 
+### REST
+
+- [JSON API – работаем по спецификации[Ru]](https://habr.com/ru/company/oleg-bunin/blog/433322/)
+
 ### Security
 
 - [How to safety store a password](https://codahale.com/how-to-safely-store-a-password/)
