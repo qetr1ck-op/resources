@@ -111,12 +111,13 @@
 
 - [NVD3.js](https://css-tricks.com/how-to-make-a-modern-dashboard-with-nvd3-js/)
 
-#### 📦 Webpack
+#### 📦 Bundlers
 
 - [webpack-blocks - functional building blocks for your webpack config: easier way to configure webpack and to share configuration between projects](https://github.com/andywer/webpack-blocks)
 - [Keep webpack Fast: A Field Guide for Better Build Performance](https://slack.engineering/keep-webpack-fast-a-field-guide-for-better-build-performance-f56a5995e8f1)
 - [Optimizing- webpack builds with DLL plugin](https://engineering.bitnami.com/articles/optimizing-your-webpack-builds.html)
 - [The 100% correct way to split your chunks with Webpack](https://hackernoon.com/the-100-correct-way-to-split-your-chunks-with-webpack-f8a9df5b7758)
+- [Pika - npm package building, reimagined](https://www.pikapkg.com/blog/introducing-pika-pack/)
 
 #### 🌉 IFrame
 
