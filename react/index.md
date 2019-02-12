@@ -52,6 +52,7 @@
 - [Structuring and naming](https://hackernoon.com/structuring-projects-and-naming-components-in-react-1261b6e18d76)
 - [You don't need DI](https://hackernoon.com/you-dont-need-to-know-dependency-injection-2e9d2ba1978a)
 - [React & Redux in TypeScript - Static Typing Guide](https://github.com/piotrwitek/react-redux-typescript-guide)
+- [React + TypeScript Cheatsheets](https://github.com/sw-yx/react-typescript-cheatsheet)
 - [@ts-ignore](https://github.com/Microsoft/TypeScript/issues/19573)
 
 #### 🚦 State management
