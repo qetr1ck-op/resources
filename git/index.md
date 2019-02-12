@@ -9,4 +9,8 @@
 - [Undo a multiple remote commits](https://stackoverflow.com/questions/10780228/how-can-i-revert-multiple-git-commits-already-pushed-to-a-published-repository)
 - [merge --squash vs rebase](https://stackoverflow.com/questions/2427238/in-git-what-is-the-difference-between-merge-squash-and-rebase)
 
+### SSH
+
+- [SSH keys](https://gitlab2.eleks-software.local/help/ssh/README#locating-an-existing-ssh-key-pair)
+
 [Root](/README.md)
