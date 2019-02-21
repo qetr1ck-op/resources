@@ -65,6 +65,7 @@
 - [How GraphQL replace Redux](https://hackernoon.com/how-graphql-replaces-redux-3fff8289221d)
 - [How to get simple dispatch from this.props using connect with Redux?](https://stackoverflow.com/questions/34458261/how-to-get-simple-dispatch-from-this-props-using-connect-w-redux)
 - [What is the right way to do asynchronous operations in Redux? The comparising table](https://decembersoft.com/posts/what-is-the-right-way-to-do-asynchronous-operations-in-redux/)
+- [Mobx React — Best Practices](https://medium.com/dailyjs/mobx-react-best-practices-17e01cec4140)
 
 #### 🧨 Performance
 
@@ -81,6 +82,7 @@
 - [`Immutable.js` with React, Redux](https://www.fullstackreact.com/articles/using-immutablejs-with-react-and-redux/)
 - [`react-fns`, components for common Web APIs](https://react-fns.netlify.com/en/)
 - [`react-adopt`, compose render props components](https://www.npmjs.com/package/react-adopt)
+- [`mobx-react-lite`, Lightweight React bindings for MobX based on React 16.8 and Hooks](https://github.com/mobxjs/mobx-react-lite)
 
 ## 🔦 Testing
 
