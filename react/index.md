@@ -55,6 +55,7 @@
 - [React & Redux in TypeScript - Static Typing Guide](https://github.com/piotrwitek/react-redux-typescript-guide)
 - [React + TypeScript Cheatsheets](https://github.com/sw-yx/react-typescript-cheatsheet)
 - [@ts-ignore](https://github.com/Microsoft/TypeScript/issues/19573)
+- [Strongly typing injected React props](https://medium.com/@prashaantt/strongly-typing-injected-react-props-635a6828acaf)
 
 #### 🚦 State management
 
