@@ -79,7 +79,7 @@
 
 - [`Immutable.js` with React, Redux](https://www.fullstackreact.com/articles/using-immutablejs-with-react-and-redux/)
 - [`react-fns`, components for common Web APIs](https://react-fns.netlify.com/en/)
-- [`react-composer`, compose render props components](https://www.npmjs.com/package/react-composer)
+- [`react-adopt`, compose render props components](https://www.npmjs.com/package/react-adopt)
 
 ## 🔦 Testing
 
