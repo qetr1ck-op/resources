@@ -15,6 +15,7 @@
 - [Generics and Augmentation](https://medium.com/@idandrd/two-advanced-techniques-to-make-you-a-typescript-wizard-df42e00b1cf8)
 - [Decorators & metadata reflection in TypeScript: From Novice to Expert](http://blog.wolksoftware.com/decorators-reflection-javascript-typescript)
 - [Decorators for Declarative and Readable code](https://blog.mgechev.com/2018/01/29/javascript-decorators-aop-autobind-memoization/)
+- [TypeScript With Babel: A Beautiful Marriage](https://iamturns.com/typescript-babel/)
 
 ### Patterns
 
