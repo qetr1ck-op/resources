@@ -118,6 +118,7 @@
 - [Optimizing- webpack builds with DLL plugin](https://engineering.bitnami.com/articles/optimizing-your-webpack-builds.html)
 - [The 100% correct way to split your chunks with Webpack](https://hackernoon.com/the-100-correct-way-to-split-your-chunks-with-webpack-f8a9df5b7758)
 - [Webpack config builder](https://webpack.jakoblind.no/)
+- [TypeScript-Babel-Starter](https://github.com/Microsoft/TypeScript-Babel-Starter)
 - [Pika - npm package building, reimagined](https://www.pikapkg.com/blog/introducing-pika-pack/)
 
 #### 🌉 IFrame
