@@ -15,6 +15,7 @@
 - [Look at IntersectionObserver API](https://alligator.io/js/intersection-observer/)
 - [Creating and filling Arrays of arbitrary length](http://2ality.com/2018/12/creating-arrays.html)
 - [Creating and triggering custom event with dispatch(new Event)](https://developer.mozilla.org/en-US/docs/Web/Guide/Events/Creating_and_triggering_events)
+- [Rendering on the Web, in depth comparising SSR, Static SSR, SSR with rehydration, CSR with prerendering, CSR](https://developers.google.com/web/updates/2019/02/rendering-on-the-web)
 
 #### 🎮 Series of How Javascript works
 
