@@ -11,11 +11,12 @@
 - [Partial type example](https://netbasal.com/getting-to-know-the-partial-type-in-typescript-ecfcfbc87cb6)
 - [Advanced TypeScript Types with Examples](https://levelup.gitconnected.com/advanced-typescript-types-with-examples-1d144e4eda9e)
 - [External helpers library - tslib](https://blog.mariusschulz.com/2016/12/16/typescript-2-1-external-helpers-library)
-- [Evolition series](https://blog.mariusschulz.com/series/typescript-evolution)]
+- [Evolition series](https://blog.mariusschulz.com/series/typescript-evolution)
 - [Generics and Augmentation](https://medium.com/@idandrd/two-advanced-techniques-to-make-you-a-typescript-wizard-df42e00b1cf8)
 - [Decorators & metadata reflection in TypeScript: From Novice to Expert](http://blog.wolksoftware.com/decorators-reflection-javascript-typescript)
 - [Decorators for Declarative and Readable code](https://blog.mgechev.com/2018/01/29/javascript-decorators-aop-autobind-memoization/)
 - [TypeScript With Babel: A Beautiful Marriage](https://iamturns.com/typescript-babel/)
+- [How to master advanced TypeScript patterns](https://medium.freecodecamp.org/typescript-curry-ramda-types-f747e99744ab)
 
 ### Patterns
 
