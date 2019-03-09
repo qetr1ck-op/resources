@@ -12,6 +12,7 @@
 - [Understanding `ViewChildren`, `ContentChildren`, and `QueryList`](https://netbasal.com/understanding-viewchildren-contentchildren-and-querylist-in-angular-896b0c689f6e)
 - [`ng-content`: The hidden docs](https://medium.com/claritydesignsystem/ng-content-the-hidden-docs-96a29d70d11b)
 - [Understanding Ivy: Incremental DOM vs Virtual DOM](https://blog.nrwl.io/understanding-angular-ivy-incremental-dom-and-virtual-dom-243be844bf36)
+- [Top 10 Ways to use Interceptors in Angular](https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450f8a62d6)
 
 #### 🏰 Routing
 
