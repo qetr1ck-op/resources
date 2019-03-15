@@ -89,6 +89,7 @@
 - [Best of JS - most popular open source projects](https://bestofjs.org/)
 - [A library of zero-dependency npm modules that do just do one thing](https://github.com/angus-c/just)
 - [Async await wrapper to better handling exception](https://github.com/scopsy/await-to-js)
+- [cleave.js - format your `<input/>` content when you are typing](https://nosir.github.io/cleave.js/)
 
 #### ⏳ Date and Time
 
