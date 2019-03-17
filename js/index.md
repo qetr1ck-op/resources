@@ -58,10 +58,6 @@
 - [JavaScript patterns (rus)](https://proglib.io/p/javascript-patterns/)
 - [Project Guidelines](https://github.com/elsewhencode/project-guidelines)
 
-#### 🚦 State management
-
-- [Create the next immutable state by mutating the current one with Immer](https://github.com/mweststrate/immer)
-
 #### 🚓 Security
 
 - [Common Threats in Web Application Security](https://auth0.com/blog/common-threats-in-web-app-security/)
@@ -86,42 +82,33 @@
 
 ## 🔭 Libs
 
-- [Best of JS - most popular open source projects](https://bestofjs.org/)
-- [A library of zero-dependency npm modules that do just do one thing](https://github.com/angus-c/just)
-- [Async await wrapper to better handling exception](https://github.com/scopsy/await-to-js)
+- [`bestofjs.org` - most popular open source projects](https://bestofjs.org/)
+- [`just` - a library of zero-dependency npm modules that do just do one thing](https://github.com/angus-c/just)
+- [`await to()` - async await wrapper to better handling exception](https://github.com/scopsy/await-to-js)
 - [cleave.js - format your `<input/>` content when you are typing](https://nosir.github.io/cleave.js/)
-
-#### ⏳ Date and Time
-
-- [Time And Date Manipulation Libraries For 2018](https://blog.bitsrc.io/9-javascript-date-time-libraries-for-2018-12d82f37872d)
-- [Maybe you don't need moment.js](https://github.com/you-dont-need/You-Dont-Need-Momentjs)
-
-#### 📐 Code Style
-
-- [JavaScript Standard Style](https://standardjs.com/#why-should-i-use-javascript-standard-style)
-
-#### 📑 JAM Stack
-
-- [JAM-stack - architecture based on client-side JavaScript, APIs, prebuilt Markup](https://jamstack.org/)
-- [Awesome Static Web Site Generators](https://github.com/myles/awesome-static-generators)
-
-#### 🎨 Animation
-
-- [Some of the finest JS-CSS animation libraries around](https://blog.bitsrc.io/11-javascript-animation-libraries-for-2018-9d7ac93a2c59)
-
-#### 🖼 Data Visualization
-
-- [NVD3.js](https://css-tricks.com/how-to-make-a-modern-dashboard-with-nvd3-js/)
-
-#### 📦 Bundlers
-
-- [webpack-blocks - functional building blocks for your webpack config: easier way to configure webpack and to share configuration between projects](https://github.com/andywer/webpack-blocks)
-- [Keep webpack Fast: A Field Guide for Better Build Performance](https://slack.engineering/keep-webpack-fast-a-field-guide-for-better-build-performance-f56a5995e8f1)
-- [Optimizing- webpack builds with DLL plugin](https://engineering.bitnami.com/articles/optimizing-your-webpack-builds.html)
-- [The 100% correct way to split your chunks with Webpack](https://hackernoon.com/the-100-correct-way-to-split-your-chunks-with-webpack-f8a9df5b7758)
-- [Webpack config builder](https://webpack.jakoblind.no/)
-- [TypeScript-Babel-Starter](https://github.com/Microsoft/TypeScript-Babel-Starter)
-- [Pika - npm package building, reimagined](https://www.pikapkg.com/blog/introducing-pika-pack/)
+- [`standardjs.com` - JavaScript Standard Style](https://standardjs.com/#why-should-i-use-javascript-standard-style)
+- Date and Time
+  - [Time And Date Manipulation Libraries For 2018](https://blog.bitsrc.io/9-javascript-date-time-libraries-for-2018-12d82f37872d)
+  - [Maybe you don't need `moment.js`](https://github.com/you-dont-need/You-Dont-Need-Momentjs)
+- JAM Stack
+  - [JAM-stack - architecture based on client-side JavaScript, APIs, prebuilt Markup](https://jamstack.org/)
+  - [Awesome Static Web Site Generators](https://github.com/myles/awesome-static-generators)
+- Animation
+  - [Some of the finest JS-CSS animation libraries around](https://blog.bitsrc.io/11-javascript-animation-libraries-for-2018-9d7ac93a2c59)
+- Data Visualization
+  - [11 Javascript Data Visualization Libraries for 2019](https://blog.bitsrc.io/11-javascript-charts-and-data-visualization-libraries-for-2018-f01a283a5727)
+- Bundlers
+  - [`webpack-blocks` - functional building blocks for your webpack config](https://github.com/andywer/webpack-blocks)
+  - [Keep webpack Fast: A Field Guide for Better Build Performance](https://slack.engineering/keep-webpack-fast-a-field-guide-for-better-build-performance-f56a5995e8f1)
+  - [webpack builds with `DLL` plugin](https://engineering.bitnami.com/articles/optimizing-your-webpack-builds.html)
+  - [The 100% correct way to split your chunks with Webpack](https://hackernoon.com/the-100-correct-way-to-split-your-chunks-with-webpack-f8a9df5b7758)
+  - [Webpack config builder](https://webpack.jakoblind.no/)
+  - [TypeScript-Babel-Starter](https://github.com/Microsoft/TypeScript-Babel-Starter)
+  - [`Pika` - npm package building, reimagined](https://www.pikapkg.com/blog/introducing-pika-pack/)
+- Storage
+  - [jsonstore.io](https://github.com/bluzi/jsonstore/blob/master/README.md)
+- State management
+  - [Create the next immutable state by mutating the current one with Immer](https://github.com/mweststrate/immer)
 
 #### 🌉 IFrame
 
@@ -129,9 +116,6 @@
 - [Cross-domain iframe height auto-resizer that works](https://stackoverflow.com/questions/5589756/is-there-a-cross-domain-iframe-height-auto-resizer-that-works)
 - [Cross-domain massaging](https://www.npmjs.com/package/post-robot)
 
-#### ☔️ Storage
-
-- [jsonstore.io](https://github.com/bluzi/jsonstore/blob/master/README.md)
 
 ## 🔦 Testing
 
