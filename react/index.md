@@ -93,6 +93,9 @@
 - Integrations with AngularJS
   - [`ngReact` - an AngularJS module that allows React Components to be used in AngularJS applications](https://github.com/ngReact/ngReact)
   - [How to hook React to your existing AngularJS](https://codeburst.io/how-to-hook-reactjs-to-your-existing-angularjs-1-x-app-5ab1ac59c0c1)
+- L10n
+  - [`react-localization` - simple module to localize the React interface using the same syntax used in the ReactNativeLocalization module](https://codesandbox.io/s/y0pqy3nqkz)
+  - [`react-intl` - an API to format dates, numbers, and strings, including pluralization and handling translations](https://codesandbox.io/s/n0k72vw064)
 
 ## 🔦 Testing
 
