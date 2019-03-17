@@ -83,6 +83,7 @@
 - [`react-fns`, components for common Web APIs](https://react-fns.netlify.com/en/)
 - [`react-adopt`, compose render props components](https://www.npmjs.com/package/react-adopt)
 - [`mobx-react-lite`, Lightweight React bindings for MobX based on React 16.8 and Hooks](https://github.com/mobxjs/mobx-react-lite)
+- [`useReactRouter`](https://github.com/CharlesStover/use-react-router)
 
 ## 🔦 Testing
 
