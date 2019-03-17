@@ -84,6 +84,12 @@
 - [`react-adopt`, compose render props components](https://www.npmjs.com/package/react-adopt)
 - [`mobx-react-lite`, Lightweight React bindings for MobX based on React 16.8 and Hooks](https://github.com/mobxjs/mobx-react-lite)
 - [`useReactRouter`](https://github.com/CharlesStover/use-react-router)
+- ACL, persmissions
+  - [How to protect your routes with `React.Context`](https://medium.freecodecamp.org/how-to-protect-your-routes-with-react-context-717670c4713a)
+  - [Role based access control](https://labnotes.panderalabs.com/access-control-in-a-react-ui-71f1df60f354)
+  - [Role based authorization](https://hackernoon.com/role-based-authorization-in-react-c70bb7641db4)
+  - [`CASL` - managing user permissions](https://medium.com/dailyjs/managing-user-permissions-in-your-react-app-a93a94ff9b40)
+  - []
 
 ## 🔦 Testing
 
