@@ -90,7 +90,9 @@
   - [Role based access control](https://labnotes.panderalabs.com/access-control-in-a-react-ui-71f1df60f354)
   - [Role based authorization](https://hackernoon.com/role-based-authorization-in-react-c70bb7641db4)
   - [`CASL` - managing user permissions](https://medium.com/dailyjs/managing-user-permissions-in-your-react-app-a93a94ff9b40)
-  - []
+- Integrations with AngularJS
+  - [`ngReact` - an AngularJS module that allows React Components to be used in AngularJS applications](https://github.com/ngReact/ngReact)
+  - [How to hook React to your existing AngularJS](https://codeburst.io/how-to-hook-reactjs-to-your-existing-angularjs-1-x-app-5ab1ac59c0c1)
 
 ## 🔦 Testing
 
