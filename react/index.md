@@ -17,6 +17,7 @@
 - [Context API is awesome with `React.createContext`](https://medium.com/dailyjs/reacts-%EF%B8%8F-new-context-api-70c9fe01596b)
 - [How to prevent XSS atacks when using `dengerouslySetIneerHTML`](https://dev.to/donghyukjacobjang/how-to-prevent-xss-attacks-when-using-dangerouslysetinnerhtml-in-react-1464)
 - [Scheduling in React](https://philippspiess.com/scheduling-in-react)
+- [Awesome Hooks](https://github.com/rehooks/awesome-react-hooks)
 
 #### 🛒 Lifecycle hooks
 
