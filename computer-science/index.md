@@ -15,6 +15,7 @@
 
 - [Big O cheat sheet](http://bigocheatsheet.com/)
 - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
+- [Google Algorithm Task Solution](https://habr.com/ru/company/skillbox/blog/443886/)
 
 #### ⏳ Sorting
 
