@@ -19,8 +19,10 @@
 
 ### Flexbox
 
+- [Course Understanding Flexbox: Everything you need to know](https://www.educative.io/collection/5191711974227968/5741031244955648)
 - [Solved by flexbox](https://philipwalton.github.io/solved-by-flexbox/)
 - [The Animated Tutorial](https://medium.com/@js_tut/flexbox-the-animated-tutorial-8075cbe4c1b2)
 - [Positioning tips](https://stackoverflow.com/questions/32551291/in-css-flexbox-why-are-there-no-justify-items-and-justify-self-properties)
+
 
 [Root](/README.md)
