@@ -109,6 +109,8 @@
   - [jsonstore.io](https://github.com/bluzi/jsonstore/blob/master/README.md)
 - State management
   - [Create the next immutable state by mutating the current one with Immer](https://github.com/mweststrate/immer)
+- RegExp
+  - [ReGexLib.com](http://regexlib.com)
 
 #### 🌉 IFrame
 
