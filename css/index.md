@@ -9,6 +9,7 @@
 - [Learn CSS variables](https://scrimba.com/g/gcssvariables)
 - [Massonry - cascading grid layout library](https://masonry.desandro.com/)
 - [Optimistic UIs in under 1000 words](https://uxplanet.org/optimistic-1000-34d9eefe4c05)
+- [How to manipulate CSS colors (RGB, HSL) with Javascript](https://blog.logrocket.com/how-to-manipulate-css-colors-with-javascript-fb547113a1b8)
 
 ### CSS Grid
 
