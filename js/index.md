@@ -16,6 +16,9 @@
 - [Creating and filling Arrays of arbitrary length](http://2ality.com/2018/12/creating-arrays.html)
 - [Creating and triggering custom event with dispatch(new Event)](https://developer.mozilla.org/en-US/docs/Web/Guide/Events/Creating_and_triggering_events)
 - [Rendering on the Web, in depth comparising SSR, Static SSR, SSR with rehydration, CSR with prerendering, CSR](https://developers.google.com/web/updates/2019/02/rendering-on-the-web)
+- [JavaScript naming conventions: do’s and don’ts](https://medium.freecodecamp.org/javascript-naming-conventions-dos-and-don-ts-99c0e2fdd78a)
+- [Full Stack JS Engineer diagram](https://coggle.it/diagram/WmRp9Hic2QABp8X1/t/full-stack-javascript-engineer)
+- [The Cost Of JavaScript In 2018](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4)
 
 #### 🎮 Series of How Javascript works
 
@@ -134,8 +137,6 @@
 - [Functional Light FP](https://github.com/getify/Functional-Light-JS/blob/master/manuscript/README.md/#table-of-contents)
 - [The power of serverless for FE developer](https://thepowerofserverless.info)
 - [Front-End Developer Handbook 2018](https://frontendmasters.gitbooks.io/front-end-developer-handbook-2018/)
-- [Full Stack JS Engineer diagram](https://coggle.it/diagram/WmRp9Hic2QABp8X1/t/full-stack-javascript-engineer)
-- [The Cost Of JavaScript In 2018](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4)
 
 #### 📹 Video
 
