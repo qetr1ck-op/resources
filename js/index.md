@@ -81,6 +81,7 @@
 
 - [Thinking in Rambda, series](http://randycoulman.com/blog/categories/thinking-in-ramda/)
 - [Functional Programing with Rambda, video-course](https://egghead.io/courses/functional-programming-in-javascript-with-ramda-js)
+- [Functinal Programming for the Begginners](https://courses.knowthen.com/courses/enrolled/283395)
 - [Functions overloading](https://www.barbarianmeetscoding.com/blog/2015/05/26/mastering-the-arcane-art-of-javascript-mancy-for-c-sharp-developers-chapter-5-more-useful-function-patterns-function-overloading/)
 - [Composition over Inheritance, Command pattern (Ru)](https://habr.com/ru/post/438510/)
 - [Composition Cost](https://habr.com/ru/post/438404)
@@ -127,6 +128,7 @@
 ## 🔦 Testing
 
 - [The hidden power of Jasmine/Jest matchers](https://medium.com/@boriscoder/the-hidden-power-of-jest-matchers-f3d86d8101b0)
+- [The State of Testing in 2019 (Ua)](https://codeguida.com/post/1734)
 
 ## 📚 Learning
 
