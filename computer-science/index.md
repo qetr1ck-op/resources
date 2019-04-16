@@ -26,6 +26,7 @@
 
 - [Codingame](https://www.codingame.com/start)
 - [Free platforms to play with code](https://habr.com/company/hexlet/blog/434786/)
+- [Spaced Repetition Technique](https://www.knowthen.com/spaced-repetition/)
 
 ## 📚 Learning
 
