@@ -10,6 +10,8 @@
 - [Massonry - cascading grid layout library](https://masonry.desandro.com/)
 - [Optimistic UIs in under 1000 words](https://uxplanet.org/optimistic-1000-34d9eefe4c05)
 - [How to manipulate CSS colors (RGB, HSL) with Javascript](https://blog.logrocket.com/how-to-manipulate-css-colors-with-javascript-fb547113a1b8)
+- [How to use CSS breakpoints to create responsive design](https://getflywheel.com/layout/css-breakpoints-responsive-design-how-to/)
+- [Media Queries for common device breakpoints](https://responsivedesign.is/develop/browser-feature-support/media-queries-for-common-device-breakpoints/)
 
 ### CSS Grid
 
