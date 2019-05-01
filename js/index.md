@@ -58,7 +58,7 @@
 
 #### 💼 Architecture / Structure
 
-- [JavaScript patterns (rus)](https://proglib.io/p/javascript-patterns/)
+- [Design Patterns Game](http://designpatternsgame.com/)
 - [Project Guidelines](https://github.com/elsewhencode/project-guidelines)
 
 #### 🚓 Security
