@@ -100,7 +100,8 @@
   - [JAM-stack - architecture based on client-side JavaScript, APIs, prebuilt Markup](https://jamstack.org/)
   - [Awesome Static Web Site Generators](https://github.com/myles/awesome-static-generators)
 - Animation
-  - [Some of the finest JS-CSS animation libraries around](https://blog.bitsrc.io/11-javascript-animation-libraries-for-2018-9d7ac93a2c59)
+  - [Animation libraries](https://blog.bitsrc.io/11-javascript-animation-libraries-for-2018-9d7ac93a2c59)
+  - [Data Visualization Libraries](https://blog.bitsrc.io/11-javascript-charts-and-data-visualization-libraries-for-2018-f01a283a5727)
 - Data Visualization
   - [11 Javascript Data Visualization Libraries for 2019](https://blog.bitsrc.io/11-javascript-charts-and-data-visualization-libraries-for-2018-f01a283a5727)
 - Bundlers
