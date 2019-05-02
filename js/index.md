@@ -102,6 +102,7 @@
 - Animation
   - [Animation libraries](https://blog.bitsrc.io/11-javascript-animation-libraries-for-2018-9d7ac93a2c59)
   - [Data Visualization Libraries](https://blog.bitsrc.io/11-javascript-charts-and-data-visualization-libraries-for-2018-f01a283a5727)
+  - [Animating SVG with CSS](https://blog.logrocket.com/animating-svg-with-css-83e8e27d739c)
 - Data Visualization
   - [11 Javascript Data Visualization Libraries for 2019](https://blog.bitsrc.io/11-javascript-charts-and-data-visualization-libraries-for-2018-f01a283a5727)
 - Bundlers
