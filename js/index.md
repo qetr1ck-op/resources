@@ -110,7 +110,9 @@
   - [The 100% correct way to split your chunks with Webpack](https://hackernoon.com/the-100-correct-way-to-split-your-chunks-with-webpack-f8a9df5b7758)
   - [Webpack config builder](https://webpack.jakoblind.no/)
   - [TypeScript-Babel-Starter](https://github.com/Microsoft/TypeScript-Babel-Starter)
+- npm publishing  
   - [`Pika` - npm package building, reimagined](https://www.pikapkg.com/blog/introducing-pika-pack/)
+  - [`np` a better npm publish](https://github.com/sindresorhus/np)
 - Storage
   - [jsonstore.io](https://github.com/bluzi/jsonstore/blob/master/README.md)
 - State management
