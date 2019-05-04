@@ -10,20 +10,20 @@
 - [Using function instead of object in `setState`](https://medium.com/@wisecobbler/using-a-function-in-setstate-instead-of-an-object-1f5cfd6e55d1)
 - [Using portal api with `ReactDOM.createPortal`](https://alligator.io/react/using-new-portal-feature-in-react/)
 - [Fiber resources](https://github.com/koba04/react-fiber-resources)
-- [`jsx-no-lambda` rule explanation](https://github.com/facebook/create-react-app/issues/4801#issuecomment-409553780)
 - [8 conditional rendering methods](https://blog.logrocket.com/conditional-rendering-in-react-c6b0e5af381e)
 - [How to fetch data](https://www.robinwieruch.de/react-fetching-data/#react-where-fetch-data)
-- [How to fetch data in `react-hooks`](https://www.robinwieruch.de/react-hooks-fetch-data/)
 - [Context API is awesome](https://medium.com/dailyjs/reacts-%EF%B8%8F-new-context-api-70c9fe01596b)
-- [Context API with `useContext`](https://kentcdodds.com/blog/how-to-use-react-context-effectively)
 - [How to prevent XSS atacks when using `dengerouslySetIneerHTML`](https://dev.to/donghyukjacobjang/how-to-prevent-xss-attacks-when-using-dangerouslysetinnerhtml-in-react-1464)
 - [Scheduling in React](https://philippspiess.com/scheduling-in-react)
-- [Awesome Hooks](https://github.com/rehooks/awesome-react-hooks)
+- Lifecycle hooks
+  - [Diagram](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
+  - [You probably don't need a derived state with `getDerivedStateFromProps`](https://reactjs.org/blog/2018/06/07/you-probably-dont-need-derived-state.html#recommendation-fully-controlled-component)
 
-#### 🛒 Lifecycle hooks
-
-- [Diagram](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
-- [You probably don't need a derived state with `getDerivedStateFromProps`](https://reactjs.org/blog/2018/06/07/you-probably-dont-need-derived-state.html#recommendation-fully-controlled-component)
+- Hooks
+  - [Awesome Hooks](https://github.com/rehooks/awesome-react-hooks)
+  - [How to fetch data in hooks](https://www.robinwieruch.de/react-hooks-fetch-data/)
+  - [Context API with `useContext` hook](https://kentcdodds.com/blog/how-to-use-react-context-effectively)
+  - [Avoid rerendering with `useCallback` or `useMemo` with `React.memo`](https://scrimba.com/c/cyGEEcn)
 
 #### 🏰 Routing
 
@@ -39,6 +39,7 @@
 - [How to pass properties to props.children](https://stackoverflow.com/questions/32370994/how-to-pass-props-to-this-props-children)
 - [Update on async rendering](https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html)
 - [Dropdown creating](https://codedaily.io/tutorials/63/Create-a-Dropdown-in-React-that-Closes-When-the-Body-is-Clicked)
+- [`jsx-no-lambda` rule explanation](https://github.com/facebook/create-react-app/issues/4801#issuecomment-409553780)
 - Kent Dodds - advanced patterns
   - [Workshop](https://codesandbox.io/s/github/kentcdodds/advanced-react-patterns-v2)
   - [Blog post](https://blog.kentcdodds.com/advanced-react-component-patterns-56af2b74bc5f)
