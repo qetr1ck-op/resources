@@ -52,6 +52,7 @@
 - [Swagger auto documentation generation](https://stackoverflow.com/questions/31300756/can-swagger-autogenerate-its-yaml-based-on-existing-express-routes)
 - [node-source-map-support - provides source map support for stack traces in node via the V8 stack trace API](https://github.com/evanw/node-source-map-support#readme)
 - [Dumper.js - A better and pretty variable inspector for your Node.js applications](https://github.com/ziishaned/dumper.js)
+- [`got` - Simplified HTTP Requests](https://www.npmjs.com/package/got)
 
 
 ### Books
