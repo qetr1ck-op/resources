@@ -18,7 +18,6 @@
 - Lifecycle hooks
   - [Diagram](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
   - [You probably don't need a derived state with `getDerivedStateFromProps`](https://reactjs.org/blog/2018/06/07/you-probably-dont-need-derived-state.html#recommendation-fully-controlled-component)
-
 - Hooks
   - [Awesome Hooks](https://github.com/rehooks/awesome-react-hooks)
   - [How to fetch data in hooks](https://www.robinwieruch.de/react-hooks-fetch-data/)
