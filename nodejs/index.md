@@ -26,6 +26,7 @@
 - [Asyhc hooks](https://medium.com/autodesk-tlv/async-hooks-a-whole-new-world-of-opportunities-a1a6daf1990a)
 - [Binnary encoding, Streams, Buffers](https://medium.freecodecamp.org/do-you-want-a-better-understanding-of-buffer-in-node-js-check-this-out-2e29de2968e8)
 - [Threads in Node 10.5.0: a practical intro of worker_threads](https://medium.com/dailyjs/threads-in-node-10-5-0-a-practical-intro-3b85a0a3c953)
+- [A Guide to Node.js Logging](https://www.twilio.com/blog/guide-node-js-logging)
 
 ### Architecture
 
