@@ -6,8 +6,6 @@
 
 - [Faster Coding Interview Preparation using Interactive Visualizations](https://www.educative.io/collection/page/5642554087309312/5679846214598656/240002)
 
-
-
 ### JS
 
 - [JS tasks](https://habr.com/post/351874)
@@ -27,5 +25,10 @@
 ### React
 
 - [List of top 300 ReactJS Interview Questions & Answers](https://github.com/sudheerj/reactjs-interview-questions)
+
+### Ideas for Projects
+
+- [Every time you build a todo list app a puppy dies](https://medium.freecodecamp.org/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d)
+- [App Ideas you can create to improve codding experience](https://medium.freecodecamp.org/here-are-some-app-ideas-you-can-build-to-level-up-your-coding-skills-39618291f672)
 
 [Root](/README.md)
