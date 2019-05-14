@@ -6,6 +6,7 @@
 
 - [Git Flow](https://github.com/nvie/gitflow)
 - [SSH keys](https://gitlab2.eleks-software.local/help/ssh/README#locating-an-existing-ssh-key-pair)
+- [Commit message guide](https://github.com/RomuloOliveira/commit-messages-guide/blob/master/README.md)
 
 ### Commands
 
