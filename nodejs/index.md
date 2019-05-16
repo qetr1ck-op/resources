@@ -32,6 +32,8 @@
 
 - [Project Structure](https://github.com/i0natan/nodebestpractices/#1-project-structure-practices)
 - [Scaling strategies](https://medium.freecodecamp.org/scaling-node-js-applications-8492bd8afadc)
+- [Better local require() paths for Node.js](https://gist.github.com/branneman/8048520)
+- [Subfolders as Dependencies in package.json](https://glebbahmutov.com/blog/subfolders-as-dependencies/)
 
 ### Debugging
 
