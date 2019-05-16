@@ -59,6 +59,7 @@
 #### 💼 Architecture / Structure
 
 - [Design Patterns Game](http://designpatternsgame.com/)
+- [Design Patterns in Modern JS](https://codeguida.com/post/1799)
 - [Project Guidelines](https://github.com/elsewhencode/project-guidelines)
 - [SPA architecture example](https://habr.com/ru/post/450360/)
 
