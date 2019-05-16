@@ -60,6 +60,7 @@
 
 - [Design Patterns Game](http://designpatternsgame.com/)
 - [Project Guidelines](https://github.com/elsewhencode/project-guidelines)
+- [SPA architecture example](https://habr.com/ru/post/450360/)
 
 #### 🚓 Security
 
