@@ -5,6 +5,7 @@
 ### General
 
 - [Faster Coding Interview Preparation using Interactive Visualizations](https://www.educative.io/collection/page/5642554087309312/5679846214598656/240002)
+- [Job interview in English](https://dou.ua/lenta/articles/interview-in-english/)
 
 ### JS
 
