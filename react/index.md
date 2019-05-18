@@ -59,6 +59,7 @@
 - [React + TypeScript Cheatsheets](https://github.com/sw-yx/react-typescript-cheatsheet)
 - [@ts-ignore](https://github.com/Microsoft/TypeScript/issues/19573)
 - [Strongly typing injected React props](https://medium.com/@prashaantt/strongly-typing-injected-react-props-635a6828acaf)
+- [When to break up components into separate components](https://kentcdodds.com/blog/when-to-break-up-a-component-into-multiple-components)
 
 #### 🚦 State management
 
