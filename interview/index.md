@@ -25,6 +25,7 @@
 
 ### React
 
+- [React Tasks (Ru)](https://habr.com/ru/company/hh/blog/431492/)
 - [List of top 300 ReactJS Interview Questions & Answers](https://github.com/sudheerj/reactjs-interview-questions)
 
 ### Ideas for Projects
