@@ -27,6 +27,7 @@
 - [Binnary encoding, Streams, Buffers](https://medium.freecodecamp.org/do-you-want-a-better-understanding-of-buffer-in-node-js-check-this-out-2e29de2968e8)
 - [Threads in Node 10.5.0: a practical intro of worker_threads](https://medium.com/dailyjs/threads-in-node-10-5-0-a-practical-intro-3b85a0a3c953)
 - [A Guide to Node.js Logging](https://www.twilio.com/blog/guide-node-js-logging)
+- [5 Free Ways To Host Your Node.js App In 2019](https://amitbend.com/node.js/2019/05/13/five-free-ways-to-host-your-node-app-2019)
 
 ### Architecture
 
