@@ -60,6 +60,9 @@
 - [@ts-ignore](https://github.com/Microsoft/TypeScript/issues/19573)
 - [Strongly typing injected React props](https://medium.com/@prashaantt/strongly-typing-injected-react-props-635a6828acaf)
 - [When to break up components into separate components](https://kentcdodds.com/blog/when-to-break-up-a-component-into-multiple-components)
+- Integration with AngularJS 1.X
+  - [How to hook ReactJS to your existing AngularJS 1.X app](https://codeburst.io/how-to-hook-reactjs-to-your-existing-angularjs-1-x-app-5ab1ac59c0c1)
+  - [Use React Components in Angular](https://github.com/ngReact/ngReact)
 
 #### 🚦 State management
 
