@@ -30,7 +30,7 @@ This repo is an answer to my daily based question - how to avoid the FOMO effect
   - [x] easy search
   - [x] reduce duplication
 - [x] strict categorizing
-- [] popularity tags
+- [ ] popularity tags
   - 🔥one-time (useful but not more)
   - 🔥🔥hot (fascinating at least at time of reading)
   - 🔥🔥🔥legendary (proven by community)
