@@ -372,6 +372,15 @@ This repo is an answer to my daily based question - how to avoid the FOMO effect
 - [Use a render props!, the comparison of mixins to HOC](https://cdb.reacttraining.com/use-a-render-prop-50de598f11ce)
 - [Awesome React Render Props](https://github.com/jaredpalmer/awesome-react-render-props)
 
+#### Hooks
+
+- [Awesome Hooks](https://github.com/rehooks/awesome-react-hooks)
+- [Rules of Hooks](https://reactjs.org/docs/hooks-rules.html)
+- [Deep dive: How do React hooks really work?](https://www.netlify.com/blog/2019/03/11/deep-dive-how-do-react-hooks-really-work/)
+- [How to fetch data in hooks](https://www.robinwieruch.de/react-hooks-fetch-data/)
+- [Context API with `useContext` hook](https://kentcdodds.com/blog/how-to-use-react-context-effectively)
+- [Avoid re-rendering with `useCallback` or `useMemo` with `React.memo`](https://scrimba.com/c/cyGEEcn)
+
 #### State management
 
 - [8 no-flux patterns for component to component communication](https://www.javascriptstuff.com/component-communication/)
@@ -391,13 +400,6 @@ This repo is an answer to my daily based question - how to avoid the FOMO effect
 
 - [Diagram](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
 - [You probably don't need a derived state with `getDerivedStateFromProps`](https://reactjs.org/blog/2018/06/07/you-probably-dont-need-derived-state.html#recommendation-fully-controlled-component)
-
-#### Hooks
-
-- [Awesome Hooks](https://github.com/rehooks/awesome-react-hooks)
-- [How to fetch data in hooks](https://www.robinwieruch.de/react-hooks-fetch-data/)
-- [Context API with `useContext` hook](https://kentcdodds.com/blog/how-to-use-react-context-effectively)
-- [Avoid re-rendering with `useCallback` or `useMemo` with `React.memo`](https://scrimba.com/c/cyGEEcn)
 
 #### Routing
 
