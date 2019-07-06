@@ -852,6 +852,7 @@ This repo is an answer to my daily based question - how to avoid the FOMO effect
 - [Front-End, JS in 18-19](https://blog.webf.zone/front-end-javascript-interviews-in-2018-19-e17b0b10514)
 - [Decoding Front-End interview](https://dev.to/emmawedekind/decoding-the-front-end-interview-process-14dl)
 - [Interview Algorithm Questions in Javascript](https://github.com/kennymkchan/interview-questions-in-javascript)
+- [List of advanced Javascript questions](https://github.com/lydiahallie/javascript-questions/blob/master/README.md)
 
 #### Node.js
 
