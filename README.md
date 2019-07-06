@@ -782,6 +782,7 @@ This repo is an answer to my daily based question - how to avoid the FOMO effect
 - [Design patterns for micro-services](https://dzone.com/articles/design-patterns-for-microservices)
 - [CORS and API Gateway survival guide](https://serverless.com/blog/cors-api-gateway-survival-guide/)
 - [middy - middleware for aws lambda](https://middy.js.org/)
+- [Откуда берется желание сдать сертификацию AWS Solutions Architect. И зачем это нужно](https://dou.ua/lenta/articles/why-do-we-want-aws-certification/)
 
 ## 🐢Codding
 
