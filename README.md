@@ -205,6 +205,7 @@ This repo is an answer to my daily based question - how to avoid the FOMO effect
 ## 🙈 Video
 
 - [100 lectures (ru)](https://habr.com/post/434686/)
+- [Async programing full cource (ru)](https://habr.com/ru/post/452974/)
 
 [🦎Root](/README.md)
 
