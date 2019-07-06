@@ -222,7 +222,6 @@ This repo is an answer to my daily based question - how to avoid the FOMO effect
 #### Architecture / Structure / Best practice
 
 - [Design Patterns in Typescript](https://github.com/gztchan/design-patterns-in-typescript)
-- [How to master advanced TypeScript patterns](https://medium.freecodecamp.org/typescript-curry-ramda-types-f747e99744ab)
 - [Dependency Injection in TS](https://nehalist.io/dependency-injection-in-typescript/)
 - [InversifyJS - A powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript](http://inversify.io)
 - [InjectionJS - DI inspired by Angular](https://github.com/mgechev/injection-js)
@@ -237,6 +236,7 @@ This repo is an answer to my daily based question - how to avoid the FOMO effect
 - [TypeScript With Babel: A Beautiful Marriage](https://iamturns.com/typescript-babel/)
 - [Decorators & metadata reflection in TypeScript: From Novice to Expert](http://blog.wolksoftware.com/decorators-reflection-javascript-typescript)
 - [Decorators for Declarative and Readable code](https://blog.mgechev.com/2018/01/29/javascript-decorators-aop-autobind-memoization/)
+- [How to master advanced TypeScript patterns](https://medium.freecodecamp.org/typescript-curry-ramda-types-f747e99744ab)
 
 ## 🐕Third Party
 
