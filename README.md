@@ -319,6 +319,7 @@ This repo is an answer to my daily based question - how to avoid the FOMO effect
 ## 🙈Videos
 
 - [Playlist UA](https://www.youtube.com/playlist?list=PLHhi8ymDMrQZmXEqIIlq2S9-Ibh9b_-rQ)
+- [Node JS: Advanced Concepts](https://www.udemy.com/advanced-node-for-developers/)
 
 [🦎Root](/README.md)
 
