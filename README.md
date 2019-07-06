@@ -70,7 +70,9 @@ This repo is an answer to my daily based question - how to avoid the FOMO effect
 - [Rendering on the Web, in depth comprising SSR, Static SSR, SSR with rehydration, CSR with reentering, CSR](https://developers.google.com/web/updates/2019/02/rendering-on-the-web)
 - [JavaScript naming conventions: do’s and don’ts](https://medium.freecodecamp.org/javascript-naming-conventions-dos-and-don-ts-99c0e2fdd78a)
 - [Full Stack JS Engineer diagram](https://coggle.it/diagram/WmRp9Hic2QABp8X1/t/full-stack-javascript-engineer)
-- [The Cost Of JavaScript In 2018](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4)
+- [The Cost Of JavaScript]
+  - [In 2018](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4)
+  - [In 2019](https://v8.dev/blog/cost-of-javascript-2019)
 - [Front-End performance: important metrics](https://habr.com/ru/company/mailru/blog/454920/)
 
 #### Architecture / Patterns / Best practice
