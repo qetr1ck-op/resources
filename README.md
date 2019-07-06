@@ -105,6 +105,7 @@ This repo is an answer to my daily based question - how to avoid the FOMO effect
 - [Functions overloading](https://www.barbarianmeetscoding.com/blog/2015/05/26/mastering-the-arcane-art-of-javascript-mancy-for-c-sharp-developers-chapter-5-more-useful-function-patterns-function-overloading/)
 - [Composition over Inheritance, Command pattern (Ru)](https://habr.com/ru/post/438510/)
 - [Composition Cost](https://habr.com/ru/post/438404)
+- [Five ways to calculate an average with array reduce](https://jrsinclair.com/articles/2019/five-ways-to-average-with-js-reduce/)
 
 ## 🐢Codding
 
