@@ -643,6 +643,7 @@ This repo is an answer to my daily based question - how to avoid the FOMO effect
 ## 🐢Codding
 
 - [How to manipulate CSS colors (RGB, HSL) with Javascript](https://blog.logrocket.com/how-to-manipulate-css-colors-with-javascript-fb547113a1b8)
+- [Why we prefer CSS custom properties to SASS variables](https://codyhouse.co/blog/post/css-custom-properties-vs-sass-variables)
 
 ## 🐕Third Party
 
