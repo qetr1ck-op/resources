@@ -137,6 +137,7 @@ This repo is an answer to my daily based question - how to avoid the FOMO effect
 - [`just` - a library of zero-dependency npm modules that do just do one thing](https://github.com/angus-c/just)
 - [`await to()` - async await wrapper to better handling exception](https://github.com/scopsy/await-to-js)
 - [`cleave.js` - format your `<input/>` content when you are typing](https://nosir.github.io/cleave.js/)
+- [`particles.js` - lightweight JavaScript library for creating particles](https://vincentgarreau.com/particles.js/#default)
 
 #### State management
 
