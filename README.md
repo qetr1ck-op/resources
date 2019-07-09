@@ -627,6 +627,10 @@ This repo is an answer to my daily based question - how to avoid the FOMO effect
 
 ## 🐍Theory
 
+#### Depth knowledge
+
+- [BEM — Block Element Modifier is a methodology that helps you to create reusable components and code sharing in front-end development](http://getbem.com/introduction/)
+
 #### CSS Grid
 
 - [Question deciding between flexbox or css-grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Relationship_of_Grid_Layout#The_same_layout_with_CSS_grids)
