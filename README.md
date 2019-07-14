@@ -351,6 +351,7 @@ This repo is an answer to my daily based question - how to avoid the FOMO effect
 - [React + TypeScript Cheat-sheets](https://github.com/sw-yx/react-typescript-cheatsheet)
 - [Strongly typing injected React props](https://medium.com/@prashaantt/strongly-typing-injected-react-props-635a6828acaf)
 - [When to break up components into separate components](https://kentcdodds.com/blog/when-to-break-up-a-component-into-multiple-components)
+- [Writing a good component API series](https://sid.studio/component-api/)
 
 #### Kent Dodds - advanced patterns
 
