@@ -240,6 +240,7 @@ This repo is an answer to my daily based question - how to avoid the FOMO effect
 - [Decorators & metadata reflection in TypeScript: From Novice to Expert](http://blog.wolksoftware.com/decorators-reflection-javascript-typescript)
 - [Decorators for Declarative and Readable code](https://blog.mgechev.com/2018/01/29/javascript-decorators-aop-autobind-memoization/)
 - [How to master advanced TypeScript patterns](https://medium.freecodecamp.org/typescript-curry-ramda-types-f747e99744ab)
+- [Выведение Action type с помощью Typescript](https://habr.com/ru/company/alfa/blog/452620)
 
 ## 🐕Third Party
 
