@@ -461,7 +461,6 @@ This repo is an answer to my daily based question - how to avoid the FOMO effect
 - [Progressive web apps with angular](https://houssein.me/progressive-angular-applications)
 - [Ant design](https://ng.ant.design/docs/introduce/en)
 - [7 ways to debug angular apps](https://angularfirebase.com/lessons/methods-for-debugging-an-angular-application)
-- [Security with DOMSanitizer service](https://netbasal.com/angular-2-security-the-domsanitizer-service-2202c83bd90)
 - [44 tips to tune the performance](https://medium.com/@spp020/44-quick-tips-to-fine-tune-angular-performance-9f5768f5d945)
 - [Angular performance checklist](https://github.com/mgechev/angular-performance-checklist)
 
@@ -490,6 +489,7 @@ This repo is an answer to my daily based question - how to avoid the FOMO effect
 - [Understanding `ViewChildren`, `ContentChildren`, and `QueryList`](https://netbasal.com/understanding-viewchildren-contentchildren-and-querylist-in-angular-896b0c689f6e)
 - [`ng-content`: The hidden docs](https://medium.com/claritydesignsystem/ng-content-the-hidden-docs-96a29d70d11b)
 - [Tree-shakable Dependencies in Angular Projects with `provideIn`](https://blog.angularindepth.com/tree-shakable-dependencies-in-angular-projects-5aaa7012b9e7)
+- [Security with DOMSanitizer service](https://netbasal.com/angular-2-security-the-domsanitizer-service-2202c83bd90)
 
 #### Change detection
 
